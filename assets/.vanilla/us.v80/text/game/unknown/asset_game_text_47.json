@@ -1,0 +1,71 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 120,
+                    "left": 10,
+                    "right": 110,
+                    "top": 15
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "Well done!"
+            },
+            {
+                "command": "Text",
+                "value": "You are too"
+            },
+            {
+                "command": "Text",
+                "value": "fast for me!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Press A"
+            }
+        ],
+        [
+            {
+                "command": "Text",
+                "value": "Now try the trophy race."
+            },
+            {
+                "command": "Text",
+                "value": "Get the highest amount of"
+            },
+            {
+                "command": "Text",
+                "value": "points to win the gold"
+            },
+            {
+                "command": "Text",
+                "value": "trophy!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "PRESS A"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

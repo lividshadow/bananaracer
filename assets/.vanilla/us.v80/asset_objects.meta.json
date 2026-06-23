@@ -1,0 +1,1226 @@
+{
+    "files": {
+        "order": [
+            "ASSET_OBJECT_DIDDYCAR",
+            "ASSET_OBJECT_SWCAR",
+            "ASSET_OBJECT_KREMCAR",
+            "ASSET_OBJECT_BADGERCAR",
+            "ASSET_OBJECT_TORTCAR",
+            "ASSET_OBJECT_CONKACAR",
+            "ASSET_OBJECT_TIGERCAR",
+            "ASSET_OBJECT_BANJOCAR",
+            "ASSET_OBJECT_CHICKENCAR",
+            "ASSET_OBJECT_MOUSECAR",
+            "ASSET_OBJECT_DIDDYHOVER",
+            "ASSET_OBJECT_TICKTOCKHOVER",
+            "ASSET_OBJECT_KREMLINHOVER",
+            "ASSET_OBJECT_BADGERHOVER",
+            "ASSET_OBJECT_TORTHOVER",
+            "ASSET_OBJECT_CONKAHOVER",
+            "ASSET_OBJECT_TIGERHOVER",
+            "ASSET_OBJECT_BANJOHOVER",
+            "ASSET_OBJECT_CHICKENHOVER",
+            "ASSET_OBJECT_MOUSEHOVER",
+            "ASSET_OBJECT_DIDDYPLANE",
+            "ASSET_OBJECT_TICKTOCKPLANE",
+            "ASSET_OBJECT_KREMPLANE",
+            "ASSET_OBJECT_BADGERPLANE",
+            "ASSET_OBJECT_TORTPLANE",
+            "ASSET_OBJECT_CONKA",
+            "ASSET_OBJECT_TIGPLANE",
+            "ASSET_OBJECT_BANJOPLANE",
+            "ASSET_OBJECT_CHICKENPLANE",
+            "ASSET_OBJECT_MOUSEPLANE",
+            "ASSET_OBJECT_FLYINGCARPET",
+            "ASSET_OBJECT_TIMBERDANCER",
+            "ASSET_OBJECT_CHICKENCHARACTE",
+            "ASSET_OBJECT_PIPSYDANCER",
+            "ASSET_OBJECT_BANJODANCER",
+            "ASSET_OBJECT_TICKTOCKDANCER",
+            "ASSET_OBJECT_WIZPIGSHIP",
+            "ASSET_OBJECT_CONKADANCER",
+            "ASSET_OBJECT_EMPTYHOVER",
+            "ASSET_OBJECT_STOPWATCHMAN",
+            "ASSET_OBJECT_STOPWATCHSELECT",
+            "ASSET_OBJECT_PARKWARDEN",
+            "ASSET_OBJECT_SMARTIETREE",
+            "ASSET_OBJECT_BLUEBERRYBUSH",
+            "ASSET_OBJECT_RUBBERSNOWTREE",
+            "ASSET_OBJECT_SKINNYSNOWTREE",
+            "ASSET_OBJECT_XMASTREE",
+            "ASSET_OBJECT_ALPINESNOWTREE",
+            "ASSET_OBJECT_RUBBERTREE",
+            "ASSET_OBJECT_BEACHTREE",
+            "ASSET_OBJECT_PALMTREETOP",
+            "ASSET_OBJECT_PALMPLANT",
+            "ASSET_OBJECT_PALMTREETOPCHEA",
+            "ASSET_OBJECT_FIRTREE",
+            "ASSET_OBJECT_SPACETREE",
+            "ASSET_OBJECT_LAMPPOST",
+            "ASSET_OBJECT_FLOWERS",
+            "ASSET_OBJECT_REEDS",
+            "ASSET_OBJECT_SMOKE",
+            "ASSET_OBJECT_DINOSAUR1",
+            "ASSET_OBJECT_DINOSAUR2",
+            "ASSET_OBJECT_DINOSAUR3",
+            "ASSET_OBJECT_WHALE",
+            "ASSET_OBJECT_SNOWMEN",
+            "ASSET_OBJECT_SIGNS",
+            "ASSET_OBJECT_FLAMINGTORCH",
+            "ASSET_OBJECT_MIST",
+            "ASSET_OBJECT_SNOWBALL",
+            "ASSET_OBJECT_BUOY",
+            "ASSET_OBJECT_PIRATESHIP",
+            "ASSET_OBJECT_LOG",
+            "ASSET_OBJECT_PIGLOG",
+            "ASSET_OBJECT_BOULDER",
+            "ASSET_OBJECT_AIRZIPPERS",
+            "ASSET_OBJECT_WATERZIPPERS",
+            "ASSET_OBJECT_LEVELDOOR",
+            "ASSET_OBJECT_KEITHPIGDOOR",
+            "ASSET_OBJECT_CHALDOOR",
+            "ASSET_OBJECT_BOSSDOOR",
+            "ASSET_OBJECT_BIGBOSSDOOR",
+            "ASSET_OBJECT_WORLDGATE",
+            "ASSET_OBJECT_TTDOOR",
+            "ASSET_OBJECT_RAMPSWITCH",
+            "ASSET_OBJECT_NOENTRYDOOR",
+            "ASSET_OBJECT_RAMPWHALE",
+            "ASSET_OBJECT_SEAMONSTER",
+            "ASSET_OBJECT_DINOISLE",
+            "ASSET_OBJECT_SKYCONTROL",
+            "ASSET_OBJECT_CHECKPOINT",
+            "ASSET_OBJECT_CHECKARROW",
+            "ASSET_OBJECT_MODECHANGE",
+            "ASSET_OBJECT_TRIGGER",
+            "ASSET_OBJECT_FOGCHANGER",
+            "ASSET_OBJECT_AINODE",
+            "ASSET_OBJECT_EXIT",
+            "ASSET_OBJECT_BONUS",
+            "ASSET_OBJECT_CAMERA_CONTROL",
+            "ASSET_OBJECT_SETUPPOINT",
+            "ASSET_OBJECT_ANIMATOR",
+            "ASSET_OBJECT_TEXSCROLL",
+            "ASSET_OBJECT_RGBALIGHT",
+            "ASSET_OBJECT_INTROCAM",
+            "ASSET_OBJECT_WEATHER",
+            "ASSET_OBJECT_LENSFLARE",
+            "ASSET_OBJECT_LENSFLARESWITCH",
+            "ASSET_OBJECT_INFOPOINT",
+            "ASSET_OBJECT_WAVEGENERATOR",
+            "ASSET_OBJECT_WAVEPOWER",
+            "ASSET_OBJECT_RANGETRIGGER",
+            "ASSET_OBJECT_LAVASPURT",
+            "ASSET_OBJECT_BOMBEXPLOSION",
+            "ASSET_OBJECT_WARDENSMOKE",
+            "ASSET_OBJECT_BUBBLER",
+            "ASSET_OBJECT_WEAPONBALLOON",
+            "ASSET_OBJECT_WBALLOONPOP",
+            "ASSET_OBJECT_MISSILEGLOW",
+            "ASSET_OBJECT_HOMINGGLOW",
+            "ASSET_OBJECT_MISSILE",
+            "ASSET_OBJECT_HOMING",
+            "ASSET_OBJECT_OILSLICK",
+            "ASSET_OBJECT_SMOKECLOUD",
+            "ASSET_OBJECT_BOMB",
+            "ASSET_OBJECT_BUBBLEWEAPON",
+            "ASSET_OBJECT_WORLDKEY",
+            "ASSET_OBJECT_COINCREATOR",
+            "ASSET_OBJECT_TREASURESUCKER",
+            "ASSET_OBJECT_COIN",
+            "ASSET_OBJECT_SILVERCOIN",
+            "ASSET_OBJECT_GOLDCOIN",
+            "ASSET_OBJECT_BONUSGEM",
+            "ASSET_OBJECT_COLLECTEGG",
+            "ASSET_OBJECT_EGGCREATOR",
+            "ASSET_OBJECT_CHARACTERFLAG",
+            "ASSET_OBJECT_ANIMATION",
+            "ASSET_OBJECT_OVERRIDEPOS",
+            "ASSET_OBJECT_ANIMCAMERA",
+            "ASSET_OBJECT_ANIMCAR",
+            "ASSET_OBJECT_ANIMDOME",
+            "ASSET_OBJECT_WIZGHOSTS",
+            "ASSET_OBJECT_N64LOGO",
+            "ASSET_OBJECT_ASTEROID",
+            "ASSET_OBJECT_PILLAR",
+            "ASSET_OBJECT_BOULDERANIM",
+            "ASSET_OBJECT_PIGHEADCOLOURS",
+            "ASSET_OBJECT_PIGFACEANIMATOR",
+            "ASSET_OBJECT_PTERODACTYL",
+            "ASSET_OBJECT_AMULETPIECE1",
+            "ASSET_OBJECT_AMULETPIECE2",
+            "ASSET_OBJECT_AMULETPIECE3",
+            "ASSET_OBJECT_AMULETPIECE4",
+            "ASSET_OBJECT_SWAMULET1",
+            "ASSET_OBJECT_SWAMULET2",
+            "ASSET_OBJECT_SWAMULET3",
+            "ASSET_OBJECT_SWAMULET4",
+            "ASSET_OBJECT_ANIMKEY",
+            "ASSET_OBJECT_SPACESHIP1",
+            "ASSET_OBJECT_MINISHIP",
+            "ASSET_OBJECT_MONORAIL",
+            "ASSET_OBJECT_SPACESHIP2",
+            "ASSET_OBJECT_SPACESHIP3",
+            "ASSET_OBJECT_LIGHTHOUSE",
+            "ASSET_OBJECT_ROCKETSIGNPOST",
+            "ASSET_OBJECT_LIGHTHOUSE1",
+            "ASSET_OBJECT_LIGHTHOUSE2",
+            "ASSET_OBJECT_SELECTIONHILL",
+            "ASSET_OBJECT_WIDESCREEN",
+            "ASSET_OBJECT_TIGERANIMPLANE",
+            "ASSET_OBJECT_BADGERANIMWALK",
+            "ASSET_OBJECT_TIMBERANIMCAR",
+            "ASSET_OBJECT_KREMSELECT",
+            "ASSET_OBJECT_CONKSELECT",
+            "ASSET_OBJECT_BADGERSELECT",
+            "ASSET_OBJECT_TORTSELECT",
+            "ASSET_OBJECT_TIGERSELECT",
+            "ASSET_OBJECT_DIDDYSELECT",
+            "ASSET_OBJECT_BANJOSELECT",
+            "ASSET_OBJECT_CHICKSELECT",
+            "ASSET_OBJECT_MOUSESELECT",
+            "ASSET_OBJECT_MAGICCARPET",
+            "ASSET_OBJECT_POLYGOLDBALOON",
+            "ASSET_OBJECT_ANIMGENIE",
+            "ASSET_OBJECT_ANIMGENIE3",
+            "ASSET_OBJECT_BUTTERFLYBAIT",
+            "ASSET_OBJECT_AUDIO",
+            "ASSET_OBJECT_AUDIOLINE",
+            "ASSET_OBJECT_AUDIOSEQLINE",
+            "ASSET_OBJECT_AUDIOSEQ",
+            "ASSET_OBJECT_AUDIOREVERB",
+            "ASSET_OBJECT_FRONTTYRE",
+            "ASSET_OBJECT_BACKTYRE",
+            "ASSET_OBJECT_PLANETYRE",
+            "ASSET_OBJECT_FAN",
+            "ASSET_OBJECT_JETENGINE",
+            "ASSET_OBJECT_GLOVE",
+            "ASSET_OBJECT_LEEFAN",
+            "ASSET_OBJECT_MAGICRING",
+            "ASSET_OBJECT_DOME",
+            "ASSET_OBJECT_DOME1",
+            "ASSET_OBJECT_DOME2",
+            "ASSET_OBJECT_DOME3",
+            "ASSET_OBJECT_DOME4",
+            "ASSET_OBJECT_DOME5",
+            "ASSET_OBJECT_DOME6",
+            "ASSET_OBJECT_DOME7",
+            "ASSET_OBJECT_DOME8",
+            "ASSET_OBJECT_DOME9",
+            "ASSET_OBJECT_DOME10",
+            "ASSET_OBJECT_DOME11",
+            "ASSET_OBJECT_DOME12",
+            "ASSET_OBJECT_DOME13",
+            "ASSET_OBJECT_DOME14",
+            "ASSET_OBJECT_DOME15",
+            "ASSET_OBJECT_DOME16",
+            "ASSET_OBJECT_DOME17",
+            "ASSET_OBJECT_SELECTIONSHADOW",
+            "ASSET_OBJECT_POSTFORPARTY",
+            "ASSET_OBJECT_RARELOGO",
+            "ASSET_OBJECT_SPARKLYTHING",
+            "ASSET_OBJECT_DOOROPENER",
+            "ASSET_OBJECT_ANIMDINOSAUR2",
+            "ASSET_OBJECT_TIMERANIMHOVER",
+            "ASSET_OBJECT_ANIMBADGERPLANE",
+            "ASSET_OBJECT_ANIMDINOSAUR1",
+            "ASSET_OBJECT_ANIMMOUSECAR",
+            "ASSET_OBJECT_ANIMTORT",
+            "ASSET_OBJECT_CHICKENANIMPLAN",
+            "ASSET_OBJECT_EMPTYHOVERANIM",
+            "ASSET_OBJECT_KREMANIM",
+            "ASSET_OBJECT_MOUSEHOVERANIM",
+            "ASSET_OBJECT_TORTRUNNER",
+            "ASSET_OBJECT_ANIMBANJOPLANE",
+            "ASSET_OBJECT_CONKAANIMCAR",
+            "ASSET_OBJECT_GBPARKWARDEN",
+            "ASSET_OBJECT_WIZPIG",
+            "ASSET_OBJECT_WIZPIGROCKET",
+            "ASSET_OBJECT_PIGBOSS",
+            "ASSET_OBJECT_PIGBOSS2",
+            "ASSET_OBJECT_PIGROCKETEER",
+            "ASSET_OBJECT_PARTICLES2",
+            "ASSET_OBJECT_PIGBOULDER",
+            "ASSET_OBJECT_BIGPLANET",
+            "ASSET_OBJECT_ROCKETBIT1",
+            "ASSET_OBJECT_ROCKETBIT2",
+            "ASSET_OBJECT_GENIEHEAD",
+            "ASSET_OBJECT_PIGBOULDER2",
+            "ASSET_OBJECT_PIGBOULDER3",
+            "ASSET_OBJECT_PIGBOULDER4",
+            "ASSET_OBJECT_PIGBOULDER5",
+            "ASSET_OBJECT_TRICKYTOPS",
+            "ASSET_OBJECT_TRICKYANIM",
+            "ASSET_OBJECT_TRICKYANIM2",
+            "ASSET_OBJECT_TRICKYANIM3",
+            "ASSET_OBJECT_WALRUS_ANIM",
+            "ASSET_OBJECT_TERRYBOSS",
+            "ASSET_OBJECT_DRAGONBOSS",
+            "ASSET_OBJECT_DRAGONANIM",
+            "ASSET_OBJECT_WALRUS",
+            "ASSET_OBJECT_SNOWBALLBOSS",
+            "ASSET_OBJECT_ANIMOCTO",
+            "ASSET_OBJECT_OCTOPUS",
+            "ASSET_OBJECT_GOLDBALOONSPRIT",
+            "ASSET_OBJECT_SPACECOLUMN1",
+            "ASSET_OBJECT_SPACECOLUMN2",
+            "ASSET_OBJECT_SPACECOLUMN3",
+            "ASSET_OBJECT_HAYSTACK",
+            "ASSET_OBJECT_ANIMGENIE2",
+            "ASSET_OBJECT_BRIGHTSTAR",
+            "ASSET_OBJECT_BUTTERFLY",
+            "ASSET_OBJECT_FISH",
+            "ASSET_OBJECT_FROG",
+            "ASSET_OBJECT_BOOST",
+            "ASSET_OBJECT_MAGNETFX",
+            "ASSET_OBJECT_STILLFROG",
+            "ASSET_OBJECT_STOPWATCHICON",
+            "ASSET_OBJECT_STOPWATCHHAND",
+            "ASSET_OBJECT_BRIDGE",
+            "ASSET_OBJECT_POSARROW",
+            "ASSET_OBJECT_HITTESTER",
+            "ASSET_OBJECT_MIDIFADE",
+            "ASSET_OBJECT_WINDSAIL",
+            "ASSET_OBJECT_EFFECTBOX",
+            "ASSET_OBJECT_TROPHYCAB",
+            "ASSET_OBJECT_FLYCOIN",
+            "ASSET_OBJECT_GOLDENBALLOON",
+            "ASSET_OBJECT_LASERBOLT",
+            "ASSET_OBJECT_LASERGUN",
+            "ASSET_OBJECT_BOLTGLOW",
+            "ASSET_OBJECT_GROUNDZIPPER",
+            "ASSET_OBJECT_PWSAFETELEPOINT",
+            "ASSET_OBJECT_HEADFORPOINT",
+            "ASSET_OBJECT_FIREBALLATTRACT",
+            "ASSET_OBJECT_FIREBALL",
+            "ASSET_OBJECT_OCTOBUBBLE",
+            "ASSET_OBJECT_OCTOBOMB",
+            "ASSET_OBJECT_GOLDTROPHY",
+            "ASSET_OBJECT_PARKTROPHY",
+            "ASSET_OBJECT_TICKTROPHY",
+            "ASSET_OBJECT_TROPHY",
+            "ASSET_OBJECT_TELEPORT",
+            "ASSET_OBJECT_SHIELD",
+            "ASSET_OBJECT_LIGHTNING",
+            "ASSET_OBJECT_MIDIFADEPOINT",
+            "ASSET_OBJECT_LEVELNAME",
+            "ASSET_OBJECT_MIDICHSET"
+        ],
+        "sections": {
+            "ASSET_OBJECT_AINODE": {
+                "filename": "ai-node.json"
+            },
+            "ASSET_OBJECT_AIRZIPPERS": {
+                "filename": "AirZippers.json"
+            },
+            "ASSET_OBJECT_ALPINESNOWTREE": {
+                "filename": "AlpineSnowTree.json"
+            },
+            "ASSET_OBJECT_AMULETPIECE1": {
+                "filename": "amuletpiece1.json"
+            },
+            "ASSET_OBJECT_AMULETPIECE2": {
+                "filename": "amuletpiece2.json"
+            },
+            "ASSET_OBJECT_AMULETPIECE3": {
+                "filename": "amuletpiece3.json"
+            },
+            "ASSET_OBJECT_AMULETPIECE4": {
+                "filename": "amuletpiece4.json"
+            },
+            "ASSET_OBJECT_ANIMATION": {
+                "filename": "Animation.json"
+            },
+            "ASSET_OBJECT_ANIMATOR": {
+                "filename": "animator.json"
+            },
+            "ASSET_OBJECT_ANIMBADGERPLANE": {
+                "filename": "AnimBadgerPlane.json"
+            },
+            "ASSET_OBJECT_ANIMBANJOPLANE": {
+                "filename": "AnimBanjoPlane.json"
+            },
+            "ASSET_OBJECT_ANIMCAMERA": {
+                "filename": "AnimCamera.json"
+            },
+            "ASSET_OBJECT_ANIMCAR": {
+                "filename": "AnimCar.json"
+            },
+            "ASSET_OBJECT_ANIMDINOSAUR1": {
+                "filename": "AnimDinosaur1.json"
+            },
+            "ASSET_OBJECT_ANIMDINOSAUR2": {
+                "filename": "AnimDinosaur2.json"
+            },
+            "ASSET_OBJECT_ANIMDOME": {
+                "filename": "AnimDome.json"
+            },
+            "ASSET_OBJECT_ANIMGENIE": {
+                "filename": "AnimGenie.json"
+            },
+            "ASSET_OBJECT_ANIMGENIE2": {
+                "filename": "AnimGenie2.json"
+            },
+            "ASSET_OBJECT_ANIMGENIE3": {
+                "filename": "AnimGenie3.json"
+            },
+            "ASSET_OBJECT_ANIMKEY": {
+                "filename": "AnimKey.json"
+            },
+            "ASSET_OBJECT_ANIMMOUSECAR": {
+                "filename": "AnimMouseCar.json"
+            },
+            "ASSET_OBJECT_ANIMOCTO": {
+                "filename": "animocto.json"
+            },
+            "ASSET_OBJECT_ANIMTORT": {
+                "filename": "Animtort.json"
+            },
+            "ASSET_OBJECT_ASTEROID": {
+                "filename": "Asteroid.json"
+            },
+            "ASSET_OBJECT_AUDIO": {
+                "filename": "audio.json"
+            },
+            "ASSET_OBJECT_AUDIOLINE": {
+                "filename": "audioline.json"
+            },
+            "ASSET_OBJECT_AUDIOREVERB": {
+                "filename": "audioreverb.json"
+            },
+            "ASSET_OBJECT_AUDIOSEQ": {
+                "filename": "audioseq.json"
+            },
+            "ASSET_OBJECT_AUDIOSEQLINE": {
+                "filename": "audioseqline.json"
+            },
+            "ASSET_OBJECT_BACKTYRE": {
+                "filename": "backtyre.json"
+            },
+            "ASSET_OBJECT_BADGERANIMWALK": {
+                "filename": "BadgerAnimWalk.json"
+            },
+            "ASSET_OBJECT_BADGERCAR": {
+                "filename": "BadgerCar.json"
+            },
+            "ASSET_OBJECT_BADGERHOVER": {
+                "filename": "BadgerHover.json"
+            },
+            "ASSET_OBJECT_BADGERPLANE": {
+                "filename": "BadgerPlane.json"
+            },
+            "ASSET_OBJECT_BADGERSELECT": {
+                "filename": "BadgerSelect.json"
+            },
+            "ASSET_OBJECT_BANJOCAR": {
+                "filename": "BanjoCar.json"
+            },
+            "ASSET_OBJECT_BANJODANCER": {
+                "filename": "banjodancer.json"
+            },
+            "ASSET_OBJECT_BANJOHOVER": {
+                "filename": "BanjoHover.json"
+            },
+            "ASSET_OBJECT_BANJOPLANE": {
+                "filename": "BanjoPlane.json"
+            },
+            "ASSET_OBJECT_BANJOSELECT": {
+                "filename": "BanjoSelect.json"
+            },
+            "ASSET_OBJECT_BEACHTREE": {
+                "filename": "Beachtree.json"
+            },
+            "ASSET_OBJECT_BIGBOSSDOOR": {
+                "filename": "bigbossdoor.json"
+            },
+            "ASSET_OBJECT_BIGPLANET": {
+                "filename": "Bigplanet.json"
+            },
+            "ASSET_OBJECT_BLUEBERRYBUSH": {
+                "filename": "BlueBerryBush.json"
+            },
+            "ASSET_OBJECT_BOLTGLOW": {
+                "filename": "boltglow.json"
+            },
+            "ASSET_OBJECT_BOMB": {
+                "filename": "Bomb.json"
+            },
+            "ASSET_OBJECT_BOMBEXPLOSION": {
+                "filename": "bombexplosion.json"
+            },
+            "ASSET_OBJECT_BONUS": {
+                "filename": "bonus.json"
+            },
+            "ASSET_OBJECT_BONUSGEM": {
+                "filename": "BonusGem.json"
+            },
+            "ASSET_OBJECT_BOOST": {
+                "filename": "Boost.json"
+            },
+            "ASSET_OBJECT_BOSSDOOR": {
+                "filename": "BossDoor.json"
+            },
+            "ASSET_OBJECT_BOULDER": {
+                "filename": "boulder.json"
+            },
+            "ASSET_OBJECT_BOULDERANIM": {
+                "filename": "boulderanim.json"
+            },
+            "ASSET_OBJECT_BRIDGE": {
+                "filename": "bridge.json"
+            },
+            "ASSET_OBJECT_BRIGHTSTAR": {
+                "filename": "Brightstar.json"
+            },
+            "ASSET_OBJECT_BUBBLER": {
+                "filename": "bubbler.json"
+            },
+            "ASSET_OBJECT_BUBBLEWEAPON": {
+                "filename": "BubbleWeapon.json"
+            },
+            "ASSET_OBJECT_BUOY": {
+                "filename": "buoy.json"
+            },
+            "ASSET_OBJECT_BUTTERFLY": {
+                "filename": "Butterfly.json"
+            },
+            "ASSET_OBJECT_BUTTERFLYBAIT": {
+                "filename": "ButterflyBait.json"
+            },
+            "ASSET_OBJECT_CAMERA_CONTROL": {
+                "filename": "camera_control.json"
+            },
+            "ASSET_OBJECT_CHALDOOR": {
+                "filename": "ChalDoor.json"
+            },
+            "ASSET_OBJECT_CHARACTERFLAG": {
+                "filename": "CharacterFlag.json"
+            },
+            "ASSET_OBJECT_CHECKARROW": {
+                "filename": "checkarrow.json"
+            },
+            "ASSET_OBJECT_CHECKPOINT": {
+                "filename": "checkpoint.json"
+            },
+            "ASSET_OBJECT_CHICKENANIMPLAN": {
+                "filename": "ChickenAnimPlan.json"
+            },
+            "ASSET_OBJECT_CHICKENCAR": {
+                "filename": "ChickenCar.json"
+            },
+            "ASSET_OBJECT_CHICKENCHARACTE": {
+                "filename": "Chickencharacte.json"
+            },
+            "ASSET_OBJECT_CHICKENHOVER": {
+                "filename": "ChickenHover.json"
+            },
+            "ASSET_OBJECT_CHICKENPLANE": {
+                "filename": "ChickenPlane.json"
+            },
+            "ASSET_OBJECT_CHICKSELECT": {
+                "filename": "ChickSelect.json"
+            },
+            "ASSET_OBJECT_COIN": {
+                "filename": "Coin.json"
+            },
+            "ASSET_OBJECT_COINCREATOR": {
+                "filename": "CoinCreator.json"
+            },
+            "ASSET_OBJECT_COLLECTEGG": {
+                "filename": "CollectEgg.json"
+            },
+            "ASSET_OBJECT_CONKA": {
+                "filename": "Conka.json"
+            },
+            "ASSET_OBJECT_CONKAANIMCAR": {
+                "filename": "Conkaanimcar.json"
+            },
+            "ASSET_OBJECT_CONKACAR": {
+                "filename": "ConkaCar.json"
+            },
+            "ASSET_OBJECT_CONKADANCER": {
+                "filename": "conkadancer.json"
+            },
+            "ASSET_OBJECT_CONKAHOVER": {
+                "filename": "ConkaHover.json"
+            },
+            "ASSET_OBJECT_CONKSELECT": {
+                "filename": "ConkSelect.json"
+            },
+            "ASSET_OBJECT_DIDDYCAR": {
+                "filename": "diddycar.json"
+            },
+            "ASSET_OBJECT_DIDDYHOVER": {
+                "filename": "diddyhover.json"
+            },
+            "ASSET_OBJECT_DIDDYPLANE": {
+                "filename": "diddyplane.json"
+            },
+            "ASSET_OBJECT_DIDDYSELECT": {
+                "filename": "DiddySelect.json"
+            },
+            "ASSET_OBJECT_DINOISLE": {
+                "filename": "Dinoisle.json"
+            },
+            "ASSET_OBJECT_DINOSAUR1": {
+                "filename": "Dinosaur1.json"
+            },
+            "ASSET_OBJECT_DINOSAUR2": {
+                "filename": "Dinosaur2.json"
+            },
+            "ASSET_OBJECT_DINOSAUR3": {
+                "filename": "Dinosaur3.json"
+            },
+            "ASSET_OBJECT_DOME": {
+                "filename": "dome.json"
+            },
+            "ASSET_OBJECT_DOME1": {
+                "filename": "dome1.json"
+            },
+            "ASSET_OBJECT_DOME10": {
+                "filename": "dome10.json"
+            },
+            "ASSET_OBJECT_DOME11": {
+                "filename": "dome11.json"
+            },
+            "ASSET_OBJECT_DOME12": {
+                "filename": "dome12.json"
+            },
+            "ASSET_OBJECT_DOME13": {
+                "filename": "dome13.json"
+            },
+            "ASSET_OBJECT_DOME14": {
+                "filename": "dome14.json"
+            },
+            "ASSET_OBJECT_DOME15": {
+                "filename": "dome15.json"
+            },
+            "ASSET_OBJECT_DOME16": {
+                "filename": "dome16.json"
+            },
+            "ASSET_OBJECT_DOME17": {
+                "filename": "dome17.json"
+            },
+            "ASSET_OBJECT_DOME2": {
+                "filename": "dome2.json"
+            },
+            "ASSET_OBJECT_DOME3": {
+                "filename": "dome3.json"
+            },
+            "ASSET_OBJECT_DOME4": {
+                "filename": "dome4.json"
+            },
+            "ASSET_OBJECT_DOME5": {
+                "filename": "dome5.json"
+            },
+            "ASSET_OBJECT_DOME6": {
+                "filename": "dome6.json"
+            },
+            "ASSET_OBJECT_DOME7": {
+                "filename": "dome7.json"
+            },
+            "ASSET_OBJECT_DOME8": {
+                "filename": "dome8.json"
+            },
+            "ASSET_OBJECT_DOME9": {
+                "filename": "dome9.json"
+            },
+            "ASSET_OBJECT_DOOROPENER": {
+                "filename": "DoorOpener.json"
+            },
+            "ASSET_OBJECT_DRAGONANIM": {
+                "filename": "DragonAnim.json"
+            },
+            "ASSET_OBJECT_DRAGONBOSS": {
+                "filename": "Dragonboss.json"
+            },
+            "ASSET_OBJECT_EFFECTBOX": {
+                "filename": "EffectBox.json"
+            },
+            "ASSET_OBJECT_EGGCREATOR": {
+                "filename": "EggCreator.json"
+            },
+            "ASSET_OBJECT_EMPTYHOVER": {
+                "filename": "EmptyHover.json"
+            },
+            "ASSET_OBJECT_EMPTYHOVERANIM": {
+                "filename": "EmptyHoverAnim.json"
+            },
+            "ASSET_OBJECT_EXIT": {
+                "filename": "exit.json"
+            },
+            "ASSET_OBJECT_FAN": {
+                "filename": "fan.json"
+            },
+            "ASSET_OBJECT_FIREBALL": {
+                "filename": "Fireball.json"
+            },
+            "ASSET_OBJECT_FIREBALLATTRACT": {
+                "filename": "FireballAttract.json"
+            },
+            "ASSET_OBJECT_FIRTREE": {
+                "filename": "FirTree.json"
+            },
+            "ASSET_OBJECT_FISH": {
+                "filename": "Fish.json"
+            },
+            "ASSET_OBJECT_FLAMINGTORCH": {
+                "filename": "FlamingTorch.json"
+            },
+            "ASSET_OBJECT_FLOWERS": {
+                "filename": "Flowers.json"
+            },
+            "ASSET_OBJECT_FLYCOIN": {
+                "filename": "FlyCoin.json"
+            },
+            "ASSET_OBJECT_FLYINGCARPET": {
+                "filename": "FlyingCarpet.json"
+            },
+            "ASSET_OBJECT_FOGCHANGER": {
+                "filename": "fogchanger.json"
+            },
+            "ASSET_OBJECT_FROG": {
+                "filename": "Frog.json"
+            },
+            "ASSET_OBJECT_FRONTTYRE": {
+                "filename": "fronttyre.json"
+            },
+            "ASSET_OBJECT_GBPARKWARDEN": {
+                "filename": "GBParkwarden.json"
+            },
+            "ASSET_OBJECT_GENIEHEAD": {
+                "filename": "Geniehead.json"
+            },
+            "ASSET_OBJECT_GLOVE": {
+                "filename": "glove.json"
+            },
+            "ASSET_OBJECT_GOLDBALOONSPRIT": {
+                "filename": "GoldBaloonSprit.json"
+            },
+            "ASSET_OBJECT_GOLDCOIN": {
+                "filename": "GoldCoin.json"
+            },
+            "ASSET_OBJECT_GOLDENBALLOON": {
+                "filename": "GoldenBalloon.json"
+            },
+            "ASSET_OBJECT_GOLDTROPHY": {
+                "filename": "GoldTrophy.json"
+            },
+            "ASSET_OBJECT_GROUNDZIPPER": {
+                "filename": "GroundZipper.json"
+            },
+            "ASSET_OBJECT_HAYSTACK": {
+                "filename": "Haystack.json"
+            },
+            "ASSET_OBJECT_HEADFORPOINT": {
+                "filename": "HeadForPoint.json"
+            },
+            "ASSET_OBJECT_HITTESTER": {
+                "filename": "hittester.json"
+            },
+            "ASSET_OBJECT_HOMING": {
+                "filename": "Homing.json"
+            },
+            "ASSET_OBJECT_HOMINGGLOW": {
+                "filename": "HomingGlow.json"
+            },
+            "ASSET_OBJECT_INFOPOINT": {
+                "filename": "InfoPoint.json"
+            },
+            "ASSET_OBJECT_INTROCAM": {
+                "filename": "introcam.json"
+            },
+            "ASSET_OBJECT_JETENGINE": {
+                "filename": "jetengine.json"
+            },
+            "ASSET_OBJECT_KEITHPIGDOOR": {
+                "filename": "KeithPigDoor.json"
+            },
+            "ASSET_OBJECT_KREMANIM": {
+                "filename": "KremAnim.json"
+            },
+            "ASSET_OBJECT_KREMCAR": {
+                "filename": "KremCar.json"
+            },
+            "ASSET_OBJECT_KREMLINHOVER": {
+                "filename": "KremlinHover.json"
+            },
+            "ASSET_OBJECT_KREMPLANE": {
+                "filename": "KremPlane.json"
+            },
+            "ASSET_OBJECT_KREMSELECT": {
+                "filename": "KremSelect.json"
+            },
+            "ASSET_OBJECT_LAMPPOST": {
+                "filename": "Lamppost.json"
+            },
+            "ASSET_OBJECT_LASERBOLT": {
+                "filename": "laserbolt.json"
+            },
+            "ASSET_OBJECT_LASERGUN": {
+                "filename": "lasergun.json"
+            },
+            "ASSET_OBJECT_LAVASPURT": {
+                "filename": "lavaspurt.json"
+            },
+            "ASSET_OBJECT_LEEFAN": {
+                "filename": "Leefan.json"
+            },
+            "ASSET_OBJECT_LENSFLARE": {
+                "filename": "lensflare.json"
+            },
+            "ASSET_OBJECT_LENSFLARESWITCH": {
+                "filename": "lensflareswitch.json"
+            },
+            "ASSET_OBJECT_LEVELDOOR": {
+                "filename": "LevelDoor.json"
+            },
+            "ASSET_OBJECT_LEVELNAME": {
+                "filename": "levelname.json"
+            },
+            "ASSET_OBJECT_LIGHTHOUSE": {
+                "filename": "Lighthouse.json"
+            },
+            "ASSET_OBJECT_LIGHTHOUSE1": {
+                "filename": "lighthouse1.json"
+            },
+            "ASSET_OBJECT_LIGHTHOUSE2": {
+                "filename": "lighthouse2.json"
+            },
+            "ASSET_OBJECT_LIGHTNING": {
+                "filename": "Lightning.json"
+            },
+            "ASSET_OBJECT_LOG": {
+                "filename": "log.json"
+            },
+            "ASSET_OBJECT_MAGICCARPET": {
+                "filename": "MagicCarpet.json"
+            },
+            "ASSET_OBJECT_MAGICRING": {
+                "filename": "MagicRing.json"
+            },
+            "ASSET_OBJECT_MAGNETFX": {
+                "filename": "MagnetFX.json"
+            },
+            "ASSET_OBJECT_MIDICHSET": {
+                "filename": "midichset.json"
+            },
+            "ASSET_OBJECT_MIDIFADE": {
+                "filename": "midifade.json"
+            },
+            "ASSET_OBJECT_MIDIFADEPOINT": {
+                "filename": "midifadepoint.json"
+            },
+            "ASSET_OBJECT_MINISHIP": {
+                "filename": "MiniShip.json"
+            },
+            "ASSET_OBJECT_MISSILE": {
+                "filename": "Missile.json"
+            },
+            "ASSET_OBJECT_MISSILEGLOW": {
+                "filename": "MissileGlow.json"
+            },
+            "ASSET_OBJECT_MIST": {
+                "filename": "Mist.json"
+            },
+            "ASSET_OBJECT_MODECHANGE": {
+                "filename": "modechange.json"
+            },
+            "ASSET_OBJECT_MONORAIL": {
+                "filename": "MonoRail.json"
+            },
+            "ASSET_OBJECT_MOUSECAR": {
+                "filename": "MouseCar.json"
+            },
+            "ASSET_OBJECT_MOUSEHOVER": {
+                "filename": "MouseHover.json"
+            },
+            "ASSET_OBJECT_MOUSEHOVERANIM": {
+                "filename": "MouseHoverAnim.json"
+            },
+            "ASSET_OBJECT_MOUSEPLANE": {
+                "filename": "MousePlane.json"
+            },
+            "ASSET_OBJECT_MOUSESELECT": {
+                "filename": "MouseSelect.json"
+            },
+            "ASSET_OBJECT_N64LOGO": {
+                "filename": "N64logo.json"
+            },
+            "ASSET_OBJECT_NOENTRYDOOR": {
+                "filename": "NoentryDoor.json"
+            },
+            "ASSET_OBJECT_OCTOBOMB": {
+                "filename": "OctoBomb.json"
+            },
+            "ASSET_OBJECT_OCTOBUBBLE": {
+                "filename": "OctoBubble.json"
+            },
+            "ASSET_OBJECT_OCTOPUS": {
+                "filename": "octopus.json"
+            },
+            "ASSET_OBJECT_OILSLICK": {
+                "filename": "OilSlick.json"
+            },
+            "ASSET_OBJECT_OVERRIDEPOS": {
+                "filename": "OverRidePos.json"
+            },
+            "ASSET_OBJECT_PALMPLANT": {
+                "filename": "PalmPlant.json"
+            },
+            "ASSET_OBJECT_PALMTREETOP": {
+                "filename": "PalmTreeTop.json"
+            },
+            "ASSET_OBJECT_PALMTREETOPCHEA": {
+                "filename": "PalmTreeTopChea.json"
+            },
+            "ASSET_OBJECT_PARKTROPHY": {
+                "filename": "Parktrophy.json"
+            },
+            "ASSET_OBJECT_PARKWARDEN": {
+                "filename": "Parkwarden.json"
+            },
+            "ASSET_OBJECT_PARTICLES2": {
+                "filename": "Particles2.json"
+            },
+            "ASSET_OBJECT_PIGBOSS": {
+                "filename": "Pigboss.json"
+            },
+            "ASSET_OBJECT_PIGBOSS2": {
+                "filename": "Pigboss2.json"
+            },
+            "ASSET_OBJECT_PIGBOULDER": {
+                "filename": "Pigboulder.json"
+            },
+            "ASSET_OBJECT_PIGBOULDER2": {
+                "filename": "Pigboulder2.json"
+            },
+            "ASSET_OBJECT_PIGBOULDER3": {
+                "filename": "Pigboulder3.json"
+            },
+            "ASSET_OBJECT_PIGBOULDER4": {
+                "filename": "Pigboulder4.json"
+            },
+            "ASSET_OBJECT_PIGBOULDER5": {
+                "filename": "Pigboulder5.json"
+            },
+            "ASSET_OBJECT_PIGFACEANIMATOR": {
+                "filename": "pigfaceanimator.json"
+            },
+            "ASSET_OBJECT_PIGHEADCOLOURS": {
+                "filename": "pigheadcolours.json"
+            },
+            "ASSET_OBJECT_PIGLOG": {
+                "filename": "piglog.json"
+            },
+            "ASSET_OBJECT_PIGROCKETEER": {
+                "filename": "PigRocketeer.json"
+            },
+            "ASSET_OBJECT_PILLAR": {
+                "filename": "pillar.json"
+            },
+            "ASSET_OBJECT_PIPSYDANCER": {
+                "filename": "pipsydancer.json"
+            },
+            "ASSET_OBJECT_PIRATESHIP": {
+                "filename": "pirateship.json"
+            },
+            "ASSET_OBJECT_PLANETYRE": {
+                "filename": "planetyre.json"
+            },
+            "ASSET_OBJECT_POLYGOLDBALOON": {
+                "filename": "PolyGoldBaloon.json"
+            },
+            "ASSET_OBJECT_POSARROW": {
+                "filename": "posarrow.json"
+            },
+            "ASSET_OBJECT_POSTFORPARTY": {
+                "filename": "postforparty.json"
+            },
+            "ASSET_OBJECT_PTERODACTYL": {
+                "filename": "pterodactyl.json"
+            },
+            "ASSET_OBJECT_PWSAFETELEPOINT": {
+                "filename": "PWSafeTelepoint.json"
+            },
+            "ASSET_OBJECT_RAMPSWITCH": {
+                "filename": "RampSwitch.json"
+            },
+            "ASSET_OBJECT_RAMPWHALE": {
+                "filename": "RampWhale.json"
+            },
+            "ASSET_OBJECT_RANGETRIGGER": {
+                "filename": "RangeTrigger.json"
+            },
+            "ASSET_OBJECT_RARELOGO": {
+                "filename": "Rarelogo.json"
+            },
+            "ASSET_OBJECT_REEDS": {
+                "filename": "Reeds.json"
+            },
+            "ASSET_OBJECT_RGBALIGHT": {
+                "filename": "rgbalight.json"
+            },
+            "ASSET_OBJECT_ROCKETBIT1": {
+                "filename": "rocketbit1.json"
+            },
+            "ASSET_OBJECT_ROCKETBIT2": {
+                "filename": "rocketbit2.json"
+            },
+            "ASSET_OBJECT_ROCKETSIGNPOST": {
+                "filename": "rocketsignpost.json"
+            },
+            "ASSET_OBJECT_RUBBERSNOWTREE": {
+                "filename": "RubberSnowTree.json"
+            },
+            "ASSET_OBJECT_RUBBERTREE": {
+                "filename": "RubberTree.json"
+            },
+            "ASSET_OBJECT_SEAMONSTER": {
+                "filename": "SeaMonster.json"
+            },
+            "ASSET_OBJECT_SELECTIONHILL": {
+                "filename": "SelectionHill.json"
+            },
+            "ASSET_OBJECT_SELECTIONSHADOW": {
+                "filename": "selectionshadow.json"
+            },
+            "ASSET_OBJECT_SETUPPOINT": {
+                "filename": "setuppoint.json"
+            },
+            "ASSET_OBJECT_SHIELD": {
+                "filename": "Shield.json"
+            },
+            "ASSET_OBJECT_SIGNS": {
+                "filename": "Signs.json"
+            },
+            "ASSET_OBJECT_SILVERCOIN": {
+                "filename": "SilverCoin.json"
+            },
+            "ASSET_OBJECT_SKINNYSNOWTREE": {
+                "filename": "SkinnySnowTree.json"
+            },
+            "ASSET_OBJECT_SKYCONTROL": {
+                "filename": "skycontrol.json"
+            },
+            "ASSET_OBJECT_SMARTIETREE": {
+                "filename": "SmartieTree.json"
+            },
+            "ASSET_OBJECT_SMOKE": {
+                "filename": "smoke.json"
+            },
+            "ASSET_OBJECT_SMOKECLOUD": {
+                "filename": "SmokeCloud.json"
+            },
+            "ASSET_OBJECT_SNOWBALL": {
+                "filename": "SnowBall.json"
+            },
+            "ASSET_OBJECT_SNOWBALLBOSS": {
+                "filename": "SnowballBoss.json"
+            },
+            "ASSET_OBJECT_SNOWMEN": {
+                "filename": "Snowmen.json"
+            },
+            "ASSET_OBJECT_SPACECOLUMN1": {
+                "filename": "SpaceColumn1.json"
+            },
+            "ASSET_OBJECT_SPACECOLUMN2": {
+                "filename": "SpaceColumn2.json"
+            },
+            "ASSET_OBJECT_SPACECOLUMN3": {
+                "filename": "SpaceColumn3.json"
+            },
+            "ASSET_OBJECT_SPACESHIP1": {
+                "filename": "SpaceShip1.json"
+            },
+            "ASSET_OBJECT_SPACESHIP2": {
+                "filename": "SpaceShip2.json"
+            },
+            "ASSET_OBJECT_SPACESHIP3": {
+                "filename": "SpaceShip3.json"
+            },
+            "ASSET_OBJECT_SPACETREE": {
+                "filename": "SpaceTree.json"
+            },
+            "ASSET_OBJECT_SPARKLYTHING": {
+                "filename": "sparklything.json"
+            },
+            "ASSET_OBJECT_STILLFROG": {
+                "filename": "stillfrog.json"
+            },
+            "ASSET_OBJECT_STOPWATCHHAND": {
+                "filename": "stopwatchhand.json"
+            },
+            "ASSET_OBJECT_STOPWATCHICON": {
+                "filename": "stopwatchicon.json"
+            },
+            "ASSET_OBJECT_STOPWATCHMAN": {
+                "filename": "Stopwatch-man.json"
+            },
+            "ASSET_OBJECT_STOPWATCHSELECT": {
+                "filename": "stopwatchselect.json"
+            },
+            "ASSET_OBJECT_SWAMULET1": {
+                "filename": "swamulet1.json"
+            },
+            "ASSET_OBJECT_SWAMULET2": {
+                "filename": "swamulet2.json"
+            },
+            "ASSET_OBJECT_SWAMULET3": {
+                "filename": "swamulet3.json"
+            },
+            "ASSET_OBJECT_SWAMULET4": {
+                "filename": "swamulet4.json"
+            },
+            "ASSET_OBJECT_SWCAR": {
+                "filename": "SWcar.json"
+            },
+            "ASSET_OBJECT_TELEPORT": {
+                "filename": "Teleport.json"
+            },
+            "ASSET_OBJECT_TERRYBOSS": {
+                "filename": "Terryboss.json"
+            },
+            "ASSET_OBJECT_TEXSCROLL": {
+                "filename": "texscroll.json"
+            },
+            "ASSET_OBJECT_TICKTOCKDANCER": {
+                "filename": "ticktockdancer.json"
+            },
+            "ASSET_OBJECT_TICKTOCKHOVER": {
+                "filename": "ticktockhover.json"
+            },
+            "ASSET_OBJECT_TICKTOCKPLANE": {
+                "filename": "ticktockplane.json"
+            },
+            "ASSET_OBJECT_TICKTROPHY": {
+                "filename": "Ticktrophy.json"
+            },
+            "ASSET_OBJECT_TIGERANIMPLANE": {
+                "filename": "TigerAnimPlane.json"
+            },
+            "ASSET_OBJECT_TIGERCAR": {
+                "filename": "TigerCar.json"
+            },
+            "ASSET_OBJECT_TIGERHOVER": {
+                "filename": "TigerHover.json"
+            },
+            "ASSET_OBJECT_TIGERSELECT": {
+                "filename": "TigerSelect.json"
+            },
+            "ASSET_OBJECT_TIGPLANE": {
+                "filename": "TigPlane.json"
+            },
+            "ASSET_OBJECT_TIMBERANIMCAR": {
+                "filename": "Timberanimcar.json"
+            },
+            "ASSET_OBJECT_TIMBERDANCER": {
+                "filename": "timberdancer.json"
+            },
+            "ASSET_OBJECT_TIMERANIMHOVER": {
+                "filename": "Timeranimhover.json"
+            },
+            "ASSET_OBJECT_TORTCAR": {
+                "filename": "TortCar.json"
+            },
+            "ASSET_OBJECT_TORTHOVER": {
+                "filename": "TortHover.json"
+            },
+            "ASSET_OBJECT_TORTPLANE": {
+                "filename": "TortPlane.json"
+            },
+            "ASSET_OBJECT_TORTRUNNER": {
+                "filename": "TortRunner.json"
+            },
+            "ASSET_OBJECT_TORTSELECT": {
+                "filename": "TortSelect.json"
+            },
+            "ASSET_OBJECT_TREASURESUCKER": {
+                "filename": "TreasureSucker.json"
+            },
+            "ASSET_OBJECT_TRICKYANIM": {
+                "filename": "Trickyanim.json"
+            },
+            "ASSET_OBJECT_TRICKYANIM2": {
+                "filename": "Trickyanim2.json"
+            },
+            "ASSET_OBJECT_TRICKYANIM3": {
+                "filename": "Trickyanim3.json"
+            },
+            "ASSET_OBJECT_TRICKYTOPS": {
+                "filename": "Trickytops.json"
+            },
+            "ASSET_OBJECT_TRIGGER": {
+                "filename": "trigger.json"
+            },
+            "ASSET_OBJECT_TROPHY": {
+                "filename": "Trophy.json"
+            },
+            "ASSET_OBJECT_TROPHYCAB": {
+                "filename": "trophycab.json"
+            },
+            "ASSET_OBJECT_TTDOOR": {
+                "filename": "TTDoor.json"
+            },
+            "ASSET_OBJECT_WALRUS": {
+                "filename": "Walrus.json"
+            },
+            "ASSET_OBJECT_WALRUS_ANIM": {
+                "filename": "Walrus_anim.json"
+            },
+            "ASSET_OBJECT_WARDENSMOKE": {
+                "filename": "wardensmoke.json"
+            },
+            "ASSET_OBJECT_WATERZIPPERS": {
+                "filename": "WaterZippers.json"
+            },
+            "ASSET_OBJECT_WAVEGENERATOR": {
+                "filename": "wavegenerator.json"
+            },
+            "ASSET_OBJECT_WAVEPOWER": {
+                "filename": "wavepower.json"
+            },
+            "ASSET_OBJECT_WBALLOONPOP": {
+                "filename": "wballoonpop.json"
+            },
+            "ASSET_OBJECT_WEAPONBALLOON": {
+                "filename": "WeaponBalloon.json"
+            },
+            "ASSET_OBJECT_WEATHER": {
+                "filename": "weather.json"
+            },
+            "ASSET_OBJECT_WHALE": {
+                "filename": "Whale.json"
+            },
+            "ASSET_OBJECT_WIDESCREEN": {
+                "filename": "Widescreen.json"
+            },
+            "ASSET_OBJECT_WINDSAIL": {
+                "filename": "windsail.json"
+            },
+            "ASSET_OBJECT_WIZGHOSTS": {
+                "filename": "Wizghosts.json"
+            },
+            "ASSET_OBJECT_WIZPIG": {
+                "filename": "Wizpig.json"
+            },
+            "ASSET_OBJECT_WIZPIGROCKET": {
+                "filename": "WizpigRocket.json"
+            },
+            "ASSET_OBJECT_WIZPIGSHIP": {
+                "filename": "wizpigship.json"
+            },
+            "ASSET_OBJECT_WORLDGATE": {
+                "filename": "WorldGate.json"
+            },
+            "ASSET_OBJECT_WORLDKEY": {
+                "filename": "WorldKey.json"
+            },
+            "ASSET_OBJECT_XMASTREE": {
+                "filename": "XmasTree.json"
+            }
+        }
+    },
+    "folder": "objects/headers",
+    "type": "ObjectHeader"
+}

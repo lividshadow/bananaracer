@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 20,
+                    "right": 95,
+                    "top": 20
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 10
+            },
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "WELL DONE!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "TAKE THIS AS"
+            },
+            {
+                "command": "Text",
+                "value": "FIRST PRIZE!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "A GOLDEN"
+            },
+            {
+                "command": "Text",
+                "value": "BALLOON!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

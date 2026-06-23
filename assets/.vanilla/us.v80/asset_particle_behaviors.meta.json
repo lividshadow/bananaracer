@@ -1,0 +1,310 @@
+{
+    "files": {
+        "order": [
+            "ASSET_PARTICLE_BEHAVIORS_0",
+            "ASSET_PARTICLE_BEHAVIORS_1",
+            "ASSET_PARTICLE_BEHAVIORS_2",
+            "ASSET_PARTICLE_BEHAVIORS_3",
+            "ASSET_PARTICLE_BEHAVIORS_4",
+            "ASSET_PARTICLE_BEHAVIORS_5",
+            "ASSET_PARTICLE_BEHAVIORS_6",
+            "ASSET_PARTICLE_BEHAVIORS_7",
+            "ASSET_PARTICLE_BEHAVIORS_8",
+            "ASSET_PARTICLE_BEHAVIORS_9",
+            "ASSET_PARTICLE_BEHAVIORS_10",
+            "ASSET_PARTICLE_BEHAVIORS_11",
+            "ASSET_PARTICLE_BEHAVIORS_12",
+            "ASSET_PARTICLE_BEHAVIORS_13",
+            "ASSET_PARTICLE_BEHAVIORS_14",
+            "ASSET_PARTICLE_BEHAVIORS_15",
+            "ASSET_PARTICLE_BEHAVIORS_16",
+            "ASSET_PARTICLE_BEHAVIORS_17",
+            "ASSET_PARTICLE_BEHAVIORS_18",
+            "ASSET_PARTICLE_BEHAVIORS_19",
+            "ASSET_PARTICLE_BEHAVIORS_20",
+            "ASSET_PARTICLE_BEHAVIORS_21",
+            "ASSET_PARTICLE_BEHAVIORS_22",
+            "ASSET_PARTICLE_BEHAVIORS_23",
+            "ASSET_PARTICLE_BEHAVIORS_24",
+            "ASSET_PARTICLE_BEHAVIORS_25",
+            "ASSET_PARTICLE_BEHAVIORS_26",
+            "ASSET_PARTICLE_BEHAVIORS_27",
+            "ASSET_PARTICLE_BEHAVIORS_28",
+            "ASSET_PARTICLE_BEHAVIORS_29",
+            "ASSET_PARTICLE_BEHAVIORS_30",
+            "ASSET_PARTICLE_BEHAVIORS_31",
+            "ASSET_PARTICLE_BEHAVIORS_32",
+            "ASSET_PARTICLE_BEHAVIORS_33",
+            "ASSET_PARTICLE_BEHAVIORS_34",
+            "ASSET_PARTICLE_BEHAVIORS_35",
+            "ASSET_PARTICLE_BEHAVIORS_36",
+            "ASSET_PARTICLE_BEHAVIORS_37",
+            "ASSET_PARTICLE_BEHAVIORS_38",
+            "ASSET_PARTICLE_BEHAVIORS_39",
+            "ASSET_PARTICLE_BEHAVIORS_40",
+            "ASSET_PARTICLE_BEHAVIORS_41",
+            "ASSET_PARTICLE_BEHAVIORS_42",
+            "ASSET_PARTICLE_BEHAVIORS_43",
+            "ASSET_PARTICLE_BEHAVIORS_44",
+            "ASSET_PARTICLE_BEHAVIORS_45",
+            "ASSET_PARTICLE_BEHAVIORS_46",
+            "ASSET_PARTICLE_BEHAVIORS_47",
+            "ASSET_PARTICLE_BEHAVIORS_48",
+            "ASSET_PARTICLE_BEHAVIORS_49",
+            "ASSET_PARTICLE_BEHAVIORS_50",
+            "ASSET_PARTICLE_BEHAVIORS_51",
+            "ASSET_PARTICLE_BEHAVIORS_52",
+            "ASSET_PARTICLE_BEHAVIORS_53",
+            "ASSET_PARTICLE_BEHAVIORS_54",
+            "ASSET_PARTICLE_BEHAVIORS_55",
+            "ASSET_PARTICLE_BEHAVIORS_56",
+            "ASSET_PARTICLE_BEHAVIORS_57",
+            "ASSET_PARTICLE_BEHAVIORS_58",
+            "ASSET_PARTICLE_BEHAVIORS_59",
+            "ASSET_PARTICLE_BEHAVIORS_60",
+            "ASSET_PARTICLE_BEHAVIORS_61",
+            "ASSET_PARTICLE_BEHAVIORS_62",
+            "ASSET_PARTICLE_BEHAVIORS_63",
+            "ASSET_PARTICLE_BEHAVIORS_64",
+            "ASSET_PARTICLE_BEHAVIORS_65",
+            "ASSET_PARTICLE_BEHAVIORS_66",
+            "ASSET_PARTICLE_BEHAVIORS_67",
+            "ASSET_PARTICLE_BEHAVIORS_68",
+            "ASSET_PARTICLE_BEHAVIORS_69",
+            "ASSET_PARTICLE_BEHAVIORS_70",
+            "ASSET_PARTICLE_BEHAVIORS_71",
+            "ASSET_PARTICLE_BEHAVIORS_72",
+            "ASSET_PARTICLE_BEHAVIORS_73",
+            "ASSET_PARTICLE_BEHAVIORS_74"
+        ],
+        "sections": {
+            "ASSET_PARTICLE_BEHAVIORS_0": {
+                "filename": "unknown/asset_particle_behaviors_0_v79.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_1": {
+                "filename": "unknown/asset_particle_behaviors_1_v79.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_10": {
+                "filename": "unknown/asset_particle_behaviors_10.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_11": {
+                "filename": "unknown/asset_particle_behaviors_11.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_12": {
+                "filename": "unknown/asset_particle_behaviors_12.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_13": {
+                "filename": "unknown/asset_particle_behaviors_13.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_14": {
+                "filename": "unknown/asset_particle_behaviors_14.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_15": {
+                "filename": "unknown/asset_particle_behaviors_15.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_16": {
+                "filename": "unknown/asset_particle_behaviors_16.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_17": {
+                "filename": "unknown/asset_particle_behaviors_17.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_18": {
+                "filename": "unknown/asset_particle_behaviors_18.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_19": {
+                "filename": "unknown/asset_particle_behaviors_19.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_2": {
+                "filename": "unknown/asset_particle_behaviors_2.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_20": {
+                "filename": "unknown/asset_particle_behaviors_20.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_21": {
+                "filename": "unknown/asset_particle_behaviors_21.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_22": {
+                "filename": "unknown/asset_particle_behaviors_22.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_23": {
+                "filename": "unknown/asset_particle_behaviors_23.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_24": {
+                "filename": "unknown/asset_particle_behaviors_24.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_25": {
+                "filename": "unknown/asset_particle_behaviors_25.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_26": {
+                "filename": "unknown/asset_particle_behaviors_26.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_27": {
+                "filename": "unknown/asset_particle_behaviors_27.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_28": {
+                "filename": "unknown/asset_particle_behaviors_28.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_29": {
+                "filename": "unknown/asset_particle_behaviors_29.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_3": {
+                "filename": "unknown/asset_particle_behaviors_3.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_30": {
+                "filename": "unknown/asset_particle_behaviors_30.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_31": {
+                "filename": "unknown/asset_particle_behaviors_31.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_32": {
+                "filename": "unknown/asset_particle_behaviors_32.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_33": {
+                "filename": "unknown/asset_particle_behaviors_33.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_34": {
+                "filename": "unknown/asset_particle_behaviors_34.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_35": {
+                "filename": "unknown/asset_particle_behaviors_35.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_36": {
+                "filename": "unknown/asset_particle_behaviors_36.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_37": {
+                "filename": "unknown/asset_particle_behaviors_37.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_38": {
+                "filename": "unknown/asset_particle_behaviors_38.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_39": {
+                "filename": "unknown/asset_particle_behaviors_39.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_4": {
+                "filename": "unknown/asset_particle_behaviors_4.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_40": {
+                "filename": "unknown/asset_particle_behaviors_40.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_41": {
+                "filename": "unknown/asset_particle_behaviors_41.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_42": {
+                "filename": "unknown/asset_particle_behaviors_42.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_43": {
+                "filename": "unknown/asset_particle_behaviors_43.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_44": {
+                "filename": "unknown/asset_particle_behaviors_44.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_45": {
+                "filename": "unknown/asset_particle_behaviors_45.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_46": {
+                "filename": "unknown/asset_particle_behaviors_46.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_47": {
+                "filename": "unknown/asset_particle_behaviors_47.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_48": {
+                "filename": "unknown/asset_particle_behaviors_48.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_49": {
+                "filename": "unknown/asset_particle_behaviors_49.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_5": {
+                "filename": "unknown/asset_particle_behaviors_5.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_50": {
+                "filename": "unknown/asset_particle_behaviors_50.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_51": {
+                "filename": "unknown/asset_particle_behaviors_51.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_52": {
+                "filename": "unknown/asset_particle_behaviors_52.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_53": {
+                "filename": "unknown/asset_particle_behaviors_53.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_54": {
+                "filename": "unknown/asset_particle_behaviors_54.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_55": {
+                "filename": "unknown/asset_particle_behaviors_55.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_56": {
+                "filename": "unknown/asset_particle_behaviors_56.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_57": {
+                "filename": "unknown/asset_particle_behaviors_57.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_58": {
+                "filename": "unknown/asset_particle_behaviors_58.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_59": {
+                "filename": "unknown/asset_particle_behaviors_59.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_6": {
+                "filename": "unknown/asset_particle_behaviors_6.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_60": {
+                "filename": "unknown/asset_particle_behaviors_60.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_61": {
+                "filename": "unknown/asset_particle_behaviors_61.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_62": {
+                "filename": "unknown/asset_particle_behaviors_62.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_63": {
+                "filename": "unknown/asset_particle_behaviors_63.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_64": {
+                "filename": "unknown/asset_particle_behaviors_64.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_65": {
+                "filename": "unknown/asset_particle_behaviors_65.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_66": {
+                "filename": "unknown/asset_particle_behaviors_66.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_67": {
+                "filename": "unknown/asset_particle_behaviors_67.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_68": {
+                "filename": "unknown/asset_particle_behaviors_68.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_69": {
+                "filename": "unknown/asset_particle_behaviors_69.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_7": {
+                "filename": "unknown/asset_particle_behaviors_7.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_70": {
+                "filename": "unknown/asset_particle_behaviors_70.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_71": {
+                "filename": "unknown/asset_particle_behaviors_71.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_72": {
+                "filename": "unknown/asset_particle_behaviors_72.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_73": {
+                "filename": "unknown/asset_particle_behaviors_73.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_74": {
+                "filename": "unknown/asset_particle_behaviors_74.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_8": {
+                "filename": "unknown/asset_particle_behaviors_8.json"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_9": {
+                "filename": "unknown/asset_particle_behaviors_9.json"
+            }
+        }
+    },
+    "folder": "particles/behaviors",
+    "type": "ParticleBehavior"
+}

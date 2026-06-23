@@ -1,0 +1,49 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 142,
+                    "left": 22,
+                    "right": 145,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "レ-スカ-で「うでだめし」"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "きみのうんてんテクニックの"
+            },
+            {
+                "command": "Text",
+                "value": "テストをしよう。"
+            },
+            {
+                "command": "Text",
+                "value": "しまのまわりのコ-ス1で"
+            },
+            {
+                "command": "Text",
+                "value": "しょうぶだ。"
+            },
+            {
+                "command": "Text",
+                "value": "わたしにかってみろ!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

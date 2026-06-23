@@ -1,0 +1,60 @@
+{
+    "behavior": "BHV_ANIMATED_OBJECT",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0008"
+    ],
+    "internal-name": "amuletpiece3",
+    "junk-data": [
+        4,
+        44,
+        0,
+        17
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_AMULETPIECE3"
+    ],
+    "scale": 0.25,
+    "shade-ambient": 1.9900000095367432,
+    "shade-angle-y": -19284,
+    "shade-angle-z": 30472,
+    "shade-brightness": 0.3199999928474426,
+    "shadow-group": 0,
+    "shadow-scale": 10.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 14,
+        "unk38": 227,
+        "unk3A": 130,
+        "unk3B": 20,
+        "unk3C": 180,
+        "unk3D": 200,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 3000,
+        "unk4C": 10000,
+        "unk50": 3000,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 0,
+        "unk5C": 0,
+        "unk5D": 0,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 1,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 0.0
+    },
+    "water-effect-group": 0
+}

@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "palm_tree_top_1.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 26,
+    "sprite-y": 36,
+    "type": "Texture"
+}

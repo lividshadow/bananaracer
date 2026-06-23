@@ -1,0 +1,49 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 24,
+                    "right": 99,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "ICH BIN SCHEINBAR"
+            },
+            {
+                "command": "Text",
+                "value": "BESSER!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VIELLEICHT KLAPPT"
+            },
+            {
+                "command": "Text",
+                "value": "ES DAS NAECHSTE"
+            },
+            {
+                "command": "Text",
+                "value": "MAL!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "NOCH EINMAL?"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

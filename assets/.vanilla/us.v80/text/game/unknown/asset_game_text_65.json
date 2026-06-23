@@ -1,0 +1,65 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "WELL DONE!!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "YOU HAVE SAVED"
+            },
+            {
+                "command": "Text",
+                "value": "THIS WORLD."
+            },
+            {
+                "command": "Text",
+                "value": "HAVE YOU TRIED THE"
+            },
+            {
+                "command": "Text",
+                "value": "TROPHY CABINET OR"
+            },
+            {
+                "command": "Text",
+                "value": "FOUND THE KEY YET?"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "KEEP GOING!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

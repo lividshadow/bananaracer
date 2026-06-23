@@ -1,0 +1,62 @@
+{
+    "behavior": "BHV_RACER",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008",
+        "FLAG_0010"
+    ],
+    "internal-name": "FlyingCarpet",
+    "junk-data": [
+        0,
+        0,
+        0,
+        195
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_MAGICCARPET"
+    ],
+    "scale": 0.2800000011920929,
+    "shade-ambient": 0.902999997138977,
+    "shade-angle-y": -4620,
+    "shade-angle-z": 1900,
+    "shade-brightness": 0.47200000286102295,
+    "shadow-group": 2,
+    "shadow-scale": 5.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 16384,
+        "unk34": 11,
+        "unk38": 61,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 2,
+        "unk5C": 38,
+        "unk5D": 54,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 0,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "water-effect-group": 2
+}

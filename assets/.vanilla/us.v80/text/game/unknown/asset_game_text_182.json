@@ -1,0 +1,53 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "Text",
+                "value": "FELICITATIONS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOUS AVEZ RECUPERE"
+            },
+            {
+                "command": "Text",
+                "value": "VOTRE PREMIER "
+            },
+            {
+                "command": "Text",
+                "value": "BALLON D'OR!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOUS POUVEZ L'UTILISER"
+            },
+            {
+                "command": "Text",
+                "value": "POUR ENTRER DANS LE"
+            },
+            {
+                "command": "Text",
+                "value": "DOMAINE DINO!!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

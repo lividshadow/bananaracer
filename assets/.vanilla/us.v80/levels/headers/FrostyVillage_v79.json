@@ -1,0 +1,189 @@
+{
+    "ai-levels": {
+        "adv1": {
+            "base": 4,
+            "completed": 4,
+            "silver-coins": 4,
+            "tracks-mode": 4,
+            "trophy-race": 7
+        },
+        "adv2": {
+            "base": 6,
+            "completed": 7,
+            "silver-coins": 7,
+            "tracks-mode": 6,
+            "trophy-race": 8
+        }
+    },
+    "avaliable-vehicles": [
+        "VEHICLE_CAR",
+        "VEHICLE_HOVERCRAFT",
+        "VEHICLE_PLANE"
+    ],
+    "background": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "multiplayer": {
+            "gradient-colour": {
+                "bottom": {
+                    "blue": 150,
+                    "green": 100,
+                    "red": 50
+                },
+                "top": {
+                    "blue": 150,
+                    "green": 100,
+                    "red": 50
+                }
+            }
+        },
+        "skybox": {
+            "id": "ASSET_OBJECT_DOME11"
+        }
+    },
+    "boss-race-id": "BOSS_RACE_TRICKY1",
+    "course-height": 300.0,
+    "default-vehicle": "VEHICLE_CAR",
+    "fog": {
+        "colour": {
+            "blue": 150,
+            "green": 100,
+            "red": 50
+        },
+        "far": 1034,
+        "near": 1029
+    },
+    "fov": 60,
+    "instruments": 65535,
+    "map-2": "ASSET_LEVEL_OBJECT_MAPS_29",
+    "map-collectables": "ASSET_LEVEL_OBJECT_MAPS_98",
+    "model": "ASSET_LEVELMODEL_FROSTYVILLAGE",
+    "music": 11,
+    "name": {
+        "LANGUAGE_ENGLISH": "Frosty Village",
+        "LANGUAGE_FRENCH": "VILLAGE SURGELE",
+        "LANGUAGE_GERMAN": "Eisstadt",
+        "LANGUAGE_JAPANESE": "クリスマスむら"
+    },
+    "race-type": "RACETYPE_DEFAULT",
+    "type": "LevelHeader",
+    "unknown": {
+        "unk1": 0,
+        "unk16": [
+            4,
+            1,
+            2,
+            3,
+            2,
+            0,
+            3,
+            2,
+            1,
+            1
+        ],
+        "unk2": 0,
+        "unk2A": 80,
+        "unk2B": [
+            50,
+            50,
+            50,
+            20,
+            20,
+            100,
+            0,
+            0,
+            0
+        ],
+        "unk3": 1,
+        "unk4": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "unk44": [
+            0,
+            0,
+            0,
+            0,
+            12
+        ],
+        "unk4F": [
+            0,
+            0,
+            0
+        ],
+        "unk53": 32,
+        "unk72": 175,
+        "unk73": 32,
+        "unkA0": 257,
+        "unkA2": 0,
+        "unkA3": 0,
+        "unkA8": 4101,
+        "unkAA": -11512,
+        "unkB0": 3600,
+        "unkB2": 0,
+        "unkB3": 18,
+        "unkB9": 1,
+        "unkBC": 0,
+        "unkBD": 0,
+        "unkC": [
+            3,
+            2,
+            0,
+            2,
+            4,
+            3,
+            2,
+            0,
+            1,
+            1
+        ],
+        "unkC4": 1490224400
+    },
+    "void": {
+        "colour": {
+            "blue": 133,
+            "green": 83,
+            "red": 0
+        },
+        "enabled": 1
+    },
+    "waves": {
+        "UV-Scale-X": 1,
+        "UV-Scale-Y": 1,
+        "UV-Scroll-X": 1,
+        "UV-Scroll-Y": 1,
+        "seed-size": 120,
+        "sine-base-0": 0,
+        "sine-base-1": 0,
+        "sine-height-0": 1536,
+        "sine-height-1": 768,
+        "sine-step-0": 1,
+        "sine-step-1": 2,
+        "subdivisions": 4,
+        "texture-ID": "ASSET_TEX2D_WATER_DETAIL",
+        "unk57": 16,
+        "unk64": 153,
+        "unk66": 1024,
+        "unk70": 1,
+        "unk71": 1,
+        "view-distance": 5,
+        "wave-power": 256
+    },
+    "weather": {
+        "enable": 244,
+        "intensity": 255,
+        "opacity": 255,
+        "type": 0,
+        "velocity": {
+            "x": 0,
+            "y": 172,
+            "z": 325
+        }
+    },
+    "world": "WORLD_SNOWFLAKE_MOUNTAIN"
+}

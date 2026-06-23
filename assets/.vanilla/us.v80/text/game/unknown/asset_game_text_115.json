@@ -1,0 +1,85 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 138,
+                    "right": 217,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "GRANDIOS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 16
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "NOCH EIN TEIL DES"
+            },
+            {
+                "command": "Text",
+                "value": "T.T.-AMULETTS IST"
+            },
+            {
+                "command": "Text",
+                "value": "UEBRIG!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 16
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "BALD HAST DU"
+            },
+            {
+                "command": "Text",
+                "value": "ES GESCHAFFT!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 24
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "VIEL GLUECK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

@@ -1,0 +1,116 @@
+{
+    "behavior": "BHV_VEHICLE_ANIMATION",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008"
+    ],
+    "internal-name": "TigerAnimPlane",
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_TIGERANIMPLANE"
+    ],
+    "particles": [
+        {
+            "arg1": 38,
+            "arg2": 37,
+            "arg3": 1,
+            "arg4": 1,
+            "arg5": 21
+        },
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": 8,
+            "arg4": -8,
+            "arg5": 0
+        },
+        {
+            "arg1": 33,
+            "arg2": 0,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 28
+        },
+        {
+            "arg1": 34,
+            "arg2": 0,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 28
+        },
+        {
+            "arg1": 21,
+            "arg2": 16,
+            "arg3": -18,
+            "arg4": -1,
+            "arg5": 0
+        },
+        {
+            "arg1": 44,
+            "arg2": 42,
+            "arg3": 0,
+            "arg4": -7,
+            "arg5": 11
+        }
+    ],
+    "scale": 0.25999999046325684,
+    "shade-ambient": 1.9900000095367432,
+    "shade-angle-y": -23732,
+    "shade-angle-z": -14504,
+    "shade-brightness": 0.5199999809265137,
+    "shadow-group": 2,
+    "shadow-scale": 9.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 10,
+        "unk38": 227,
+        "unk3A": 0,
+        "unk3B": 40,
+        "unk3C": 150,
+        "unk3D": 100,
+        "unk42": -500,
+        "unk44": 30,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 3000,
+        "unk4C": 10000,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 0,
+        "unk5C": 0,
+        "unk5D": 0,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 1,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 0.0
+    },
+    "vehicle-part-indices": [
+        2,
+        3,
+        0
+    ],
+    "vehicle-part-indices-junk-bytes": [
+        67,
+        53,
+        3,
+        0,
+        0
+    ],
+    "vehicle-parts": [
+        190,
+        190,
+        192
+    ],
+    "water-effect-group": 0
+}

@@ -1,0 +1,15 @@
+{
+    "frame-tex-count": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+    ],
+    "start-texture": "ASSET_TEX2D_PARTICLES_SPARKLE_0",
+    "type": "Sprite",
+    "unk4": 32,
+    "unk6": 18
+}

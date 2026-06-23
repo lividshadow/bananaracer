@@ -1,0 +1,50 @@
+{
+    "files": {
+        "order": [
+            "ASSET_AI_BEHAVIOUR_0",
+            "ASSET_AI_BEHAVIOUR_1",
+            "ASSET_AI_BEHAVIOUR_2",
+            "ASSET_AI_BEHAVIOUR_3",
+            "ASSET_AI_BEHAVIOUR_4",
+            "ASSET_AI_BEHAVIOUR_5",
+            "ASSET_AI_BEHAVIOUR_6",
+            "ASSET_AI_BEHAVIOUR_7",
+            "ASSET_AI_BEHAVIOUR_8",
+            "ASSET_AI_BEHAVIOUR_9"
+        ],
+        "sections": {
+            "ASSET_AI_BEHAVIOUR_0": {
+                "filename": "unknown/asset_ai_behaviour_0.json"
+            },
+            "ASSET_AI_BEHAVIOUR_1": {
+                "filename": "unknown/asset_ai_behaviour_1.json"
+            },
+            "ASSET_AI_BEHAVIOUR_2": {
+                "filename": "unknown/asset_ai_behaviour_2.json"
+            },
+            "ASSET_AI_BEHAVIOUR_3": {
+                "filename": "unknown/asset_ai_behaviour_3.json"
+            },
+            "ASSET_AI_BEHAVIOUR_4": {
+                "filename": "unknown/asset_ai_behaviour_4.json"
+            },
+            "ASSET_AI_BEHAVIOUR_5": {
+                "filename": "unknown/asset_ai_behaviour_5.json"
+            },
+            "ASSET_AI_BEHAVIOUR_6": {
+                "filename": "unknown/asset_ai_behaviour_6.json"
+            },
+            "ASSET_AI_BEHAVIOUR_7": {
+                "filename": "unknown/asset_ai_behaviour_7.json"
+            },
+            "ASSET_AI_BEHAVIOUR_8": {
+                "filename": "unknown/asset_ai_behaviour_8.json"
+            },
+            "ASSET_AI_BEHAVIOUR_9": {
+                "filename": "unknown/asset_ai_behaviour_9.json"
+            }
+        }
+    },
+    "folder": "ai-racers",
+    "type": "Binary"
+}

@@ -1,0 +1,227 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 94,
+        "solid": 32
+      },
+      "name": "Beachtree",
+      "translation": [
+        2341.0,
+        34.0,
+        -294.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 84,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        58.0,
+        45.0,
+        2122.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 83,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -1994.0,
+        164.0,
+        1995.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -1910.0,
+        37.0,
+        -242.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 91,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -1984.0,
+        30.0,
+        -395.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 96,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -2453.0,
+        26.0,
+        -2740.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 78,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -115.0,
+        19.0,
+        -2394.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -5.625,
+        "id": "ASSET_OBJECT_LOG",
+        "modelIndex": 0,
+        "padB": 1,
+        "radius": 49
+      },
+      "name": "log",
+      "translation": [
+        363.0,
+        9.0,
+        -1031.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_LOG",
+        "modelIndex": 0,
+        "padB": 1,
+        "radius": 53
+      },
+      "name": "log",
+      "translation": [
+        -2621.0,
+        0.0,
+        529.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_LOG",
+        "modelIndex": 0,
+        "padB": 1,
+        "radius": 53
+      },
+      "name": "log",
+      "translation": [
+        -207.0,
+        0.0,
+        960.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 83,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        2073.0,
+        13.0,
+        1274.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 79,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -776.0,
+        0.0,
+        -3187.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "Beachtree",
+      "translation": [
+        -1752.0,
+        22.0,
+        -3248.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

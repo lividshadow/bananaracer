@@ -1,0 +1,93 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 138,
+                    "right": 227,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 5
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "WALLY WALRUS"
+            },
+            {
+                "command": "Text",
+                "value": "BOSS LEVEL"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "RACE WALLY "
+            },
+            {
+                "command": "Text",
+                "value": "TO THE BOTTOM "
+            },
+            {
+                "command": "Text",
+                "value": "OF SNOWFLAKE"
+            },
+            {
+                "command": "Text",
+                "value": "MOUNTAIN."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "FIRST PRIZE IS "
+            },
+            {
+                "command": "Text",
+                "value": "SOMETHING SPECIAL!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "GOOD LUCK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

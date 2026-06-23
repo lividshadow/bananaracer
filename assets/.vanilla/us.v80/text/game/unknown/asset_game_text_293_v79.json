@@ -1,0 +1,57 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 180,
+                    "left": 45,
+                    "right": 210,
+                    "top": 60
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "トロフィ-レ-ス"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "まだトロフィ-レ-スには"
+            },
+            {
+                "command": "Text",
+                "value": "さんかできません。"
+            },
+            {
+                "command": "Text",
+                "value": "このゾ-ンで、"
+            },
+            {
+                "command": "Text",
+                "value": "やりのこしている"
+            },
+            {
+                "command": "Text",
+                "value": "レ-スがあります。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

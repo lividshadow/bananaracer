@@ -1,0 +1,1570 @@
+{
+    "files": {
+        "order": [
+            "ASSET_OBJECTMODEL_DOME",
+            "ASSET_OBJECTMODEL_DOME1",
+            "ASSET_OBJECTMODEL_DOME2",
+            "ASSET_OBJECTMODEL_DOME3",
+            "ASSET_OBJECTMODEL_DOME4",
+            "ASSET_OBJECTMODEL_DOME5",
+            "ASSET_OBJECTMODEL_DOME6",
+            "ASSET_OBJECTMODEL_DOME7",
+            "ASSET_OBJECTMODEL_DOME8",
+            "ASSET_OBJECTMODEL_DOME9",
+            "ASSET_OBJECTMODEL_DOME10",
+            "ASSET_OBJECTMODEL_DOME11",
+            "ASSET_OBJECTMODEL_DOME12",
+            "ASSET_OBJECTMODEL_DOME13",
+            "ASSET_OBJECTMODEL_DOME14",
+            "ASSET_OBJECTMODEL_DOME15",
+            "ASSET_OBJECTMODEL_DOME16",
+            "ASSET_OBJECTMODEL_DOME17",
+            "ASSET_OBJECTMODEL_FIRSTPLACE",
+            "ASSET_OBJECTMODEL_DIDDYCAR_0",
+            "ASSET_OBJECTMODEL_DIDDYCAR_1",
+            "ASSET_OBJECTMODEL_DIDDYCAR_2",
+            "ASSET_OBJECTMODEL_DIDDYCAR_3",
+            "ASSET_OBJECTMODEL_DIDDYCAR_4",
+            "ASSET_OBJECTMODEL_DIDDYCAR_5",
+            "ASSET_OBJECTMODEL_SWCAR_0",
+            "ASSET_OBJECTMODEL_SWCAR_1",
+            "ASSET_OBJECTMODEL_SWCAR_2",
+            "ASSET_OBJECTMODEL_SWCAR_3",
+            "ASSET_OBJECTMODEL_SWCAR_4",
+            "ASSET_OBJECTMODEL_SWCAR_5",
+            "ASSET_OBJECTMODEL_BADGERCAR_0",
+            "ASSET_OBJECTMODEL_BADGERCAR_1",
+            "ASSET_OBJECTMODEL_BADGERCAR_2",
+            "ASSET_OBJECTMODEL_BADGERCAR_3",
+            "ASSET_OBJECTMODEL_BADGERCAR_4",
+            "ASSET_OBJECTMODEL_BADGERCAR_5",
+            "ASSET_OBJECTMODEL_TORTCAR_0",
+            "ASSET_OBJECTMODEL_TORTCAR_1",
+            "ASSET_OBJECTMODEL_TORTCAR_2",
+            "ASSET_OBJECTMODEL_TORTCAR_3",
+            "ASSET_OBJECTMODEL_TORTCAR_4",
+            "ASSET_OBJECTMODEL_TORTCAR_5",
+            "ASSET_OBJECTMODEL_KREMCAR_0",
+            "ASSET_OBJECTMODEL_KREMCAR_1",
+            "ASSET_OBJECTMODEL_KREMCAR_2",
+            "ASSET_OBJECTMODEL_KREMCAR_3",
+            "ASSET_OBJECTMODEL_KREMCAR_4",
+            "ASSET_OBJECTMODEL_KREMCAR_5",
+            "ASSET_OBJECTMODEL_TIGERCAR_0",
+            "ASSET_OBJECTMODEL_TIGERCAR_1",
+            "ASSET_OBJECTMODEL_TIGERCAR_2",
+            "ASSET_OBJECTMODEL_TIGERCAR_3",
+            "ASSET_OBJECTMODEL_TIGERCAR_4",
+            "ASSET_OBJECTMODEL_TIGERCAR_5",
+            "ASSET_OBJECTMODEL_CONKACAR_0",
+            "ASSET_OBJECTMODEL_CONKACAR_1",
+            "ASSET_OBJECTMODEL_CONKACAR_2",
+            "ASSET_OBJECTMODEL_CONKACAR_3",
+            "ASSET_OBJECTMODEL_CONKACAR_4",
+            "ASSET_OBJECTMODEL_CONKACAR_5",
+            "ASSET_OBJECTMODEL_BANJOCAR_0",
+            "ASSET_OBJECTMODEL_BANJOCAR_1",
+            "ASSET_OBJECTMODEL_BANJOCAR_2",
+            "ASSET_OBJECTMODEL_BANJOCAR_3",
+            "ASSET_OBJECTMODEL_BANJOCAR_4",
+            "ASSET_OBJECTMODEL_BANJOCAR_5",
+            "ASSET_OBJECTMODEL_CHICKENCAR_0",
+            "ASSET_OBJECTMODEL_CHICKENCAR_1",
+            "ASSET_OBJECTMODEL_CHICKENCAR_2",
+            "ASSET_OBJECTMODEL_CHICKENCAR_3",
+            "ASSET_OBJECTMODEL_CHICKENCAR_4",
+            "ASSET_OBJECTMODEL_CHICKENCAR_5",
+            "ASSET_OBJECTMODEL_MOUSECAR_0",
+            "ASSET_OBJECTMODEL_MOUSECAR_1",
+            "ASSET_OBJECTMODEL_MOUSECAR_2",
+            "ASSET_OBJECTMODEL_MOUSECAR_3",
+            "ASSET_OBJECTMODEL_MOUSECAR_4",
+            "ASSET_OBJECTMODEL_MOUSECAR_5",
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_0",
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_1",
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_2",
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_3",
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_4",
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_5",
+            "ASSET_OBJECTMODEL_KREMLINHOVER_0",
+            "ASSET_OBJECTMODEL_KREMLINHOVER_1",
+            "ASSET_OBJECTMODEL_KREMLINHOVER_2",
+            "ASSET_OBJECTMODEL_KREMLINHOVER_3",
+            "ASSET_OBJECTMODEL_KREMLINHOVER_4",
+            "ASSET_OBJECTMODEL_KREMLINHOVER_5",
+            "ASSET_OBJECTMODEL_BADGERHOVER_0",
+            "ASSET_OBJECTMODEL_BADGERHOVER_1",
+            "ASSET_OBJECTMODEL_BADGERHOVER_2",
+            "ASSET_OBJECTMODEL_BADGERHOVER_3",
+            "ASSET_OBJECTMODEL_BADGERHOVER_4",
+            "ASSET_OBJECTMODEL_BADGERHOVER_5",
+            "ASSET_OBJECTMODEL_CONKAHOVER_0",
+            "ASSET_OBJECTMODEL_CONKAHOVER_1",
+            "ASSET_OBJECTMODEL_CONKAHOVER_2",
+            "ASSET_OBJECTMODEL_CONKAHOVER_3",
+            "ASSET_OBJECTMODEL_CONKAHOVER_4",
+            "ASSET_OBJECTMODEL_CONKAHOVER_5",
+            "ASSET_OBJECTMODEL_TORTHOVER_0",
+            "ASSET_OBJECTMODEL_TORTHOVER_1",
+            "ASSET_OBJECTMODEL_TORTHOVER_2",
+            "ASSET_OBJECTMODEL_TORTHOVER_3",
+            "ASSET_OBJECTMODEL_TORTHOVER_4",
+            "ASSET_OBJECTMODEL_TORTHOVER_5",
+            "ASSET_OBJECTMODEL_BANJOHOVER_0",
+            "ASSET_OBJECTMODEL_BANJOHOVER_1",
+            "ASSET_OBJECTMODEL_BANJOHOVER_2",
+            "ASSET_OBJECTMODEL_BANJOHOVER_3",
+            "ASSET_OBJECTMODEL_BANJOHOVER_4",
+            "ASSET_OBJECTMODEL_BANJOHOVER_5",
+            "ASSET_OBJECTMODEL_TIGERHOVER_0",
+            "ASSET_OBJECTMODEL_TIGERHOVER_1",
+            "ASSET_OBJECTMODEL_TIGERHOVER_2",
+            "ASSET_OBJECTMODEL_TIGERHOVER_3",
+            "ASSET_OBJECTMODEL_TIGERHOVER_4",
+            "ASSET_OBJECTMODEL_TIGERHOVER_5",
+            "ASSET_OBJECTMODEL_CHICKENHOVER_0",
+            "ASSET_OBJECTMODEL_CHICKENHOVER_1",
+            "ASSET_OBJECTMODEL_CHICKENHOVER_2",
+            "ASSET_OBJECTMODEL_CHICKENHOVER_3",
+            "ASSET_OBJECTMODEL_CHICKENHOVER_4",
+            "ASSET_OBJECTMODEL_CHICKENHOVER_5",
+            "ASSET_OBJECTMODEL_MOUSEHOVER_0",
+            "ASSET_OBJECTMODEL_MOUSEHOVER_1",
+            "ASSET_OBJECTMODEL_MOUSEHOVER_2",
+            "ASSET_OBJECTMODEL_MOUSEHOVER_3",
+            "ASSET_OBJECTMODEL_MOUSEHOVER_4",
+            "ASSET_OBJECTMODEL_MOUSEHOVER_5",
+            "ASSET_OBJECTMODEL_DIDDYHOVER_0",
+            "ASSET_OBJECTMODEL_DIDDYHOVER_1",
+            "ASSET_OBJECTMODEL_DIDDYHOVER_2",
+            "ASSET_OBJECTMODEL_DIDDYHOVER_3",
+            "ASSET_OBJECTMODEL_DIDDYHOVER_4",
+            "ASSET_OBJECTMODEL_DIDDYHOVER_5",
+            "ASSET_OBJECTMODEL_DIDDYPLANE_0",
+            "ASSET_OBJECTMODEL_DIDDYPLANE_1",
+            "ASSET_OBJECTMODEL_DIDDYPLANE_2",
+            "ASSET_OBJECTMODEL_DIDDYPLANE_3",
+            "ASSET_OBJECTMODEL_DIDDYPLANE_4",
+            "ASSET_OBJECTMODEL_DIDDYPLANE_5",
+            "ASSET_OBJECTMODEL_TIGERANIMPLANE",
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_0",
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_1",
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_2",
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_3",
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_4",
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_5",
+            "ASSET_OBJECTMODEL_KREMPLANE_0",
+            "ASSET_OBJECTMODEL_KREMPLANE_1",
+            "ASSET_OBJECTMODEL_KREMPLANE_2",
+            "ASSET_OBJECTMODEL_KREMPLANE_3",
+            "ASSET_OBJECTMODEL_KREMPLANE_4",
+            "ASSET_OBJECTMODEL_KREMPLANE_5",
+            "ASSET_OBJECTMODEL_BADGERPLANE_0",
+            "ASSET_OBJECTMODEL_BADGERPLANE_1",
+            "ASSET_OBJECTMODEL_BADGERPLANE_2",
+            "ASSET_OBJECTMODEL_BADGERPLANE_3",
+            "ASSET_OBJECTMODEL_BADGERPLANE_4",
+            "ASSET_OBJECTMODEL_BADGERPLANE_5",
+            "ASSET_OBJECTMODEL_TORTPLANE_0",
+            "ASSET_OBJECTMODEL_TORTPLANE_1",
+            "ASSET_OBJECTMODEL_TORTPLANE_2",
+            "ASSET_OBJECTMODEL_TORTPLANE_3",
+            "ASSET_OBJECTMODEL_TORTPLANE_4",
+            "ASSET_OBJECTMODEL_TORTPLANE_5",
+            "ASSET_OBJECTMODEL_CONKA_0",
+            "ASSET_OBJECTMODEL_CONKA_1",
+            "ASSET_OBJECTMODEL_CONKA_2",
+            "ASSET_OBJECTMODEL_CONKA_3",
+            "ASSET_OBJECTMODEL_CONKA_4",
+            "ASSET_OBJECTMODEL_CONKA_5",
+            "ASSET_OBJECTMODEL_TIGPLANE_0",
+            "ASSET_OBJECTMODEL_TIGPLANE_1",
+            "ASSET_OBJECTMODEL_TIGPLANE_2",
+            "ASSET_OBJECTMODEL_TIGPLANE_3",
+            "ASSET_OBJECTMODEL_TIGPLANE_4",
+            "ASSET_OBJECTMODEL_TIGPLANE_5",
+            "ASSET_OBJECTMODEL_BANJOPLANE_0",
+            "ASSET_OBJECTMODEL_BANJOPLANE_1",
+            "ASSET_OBJECTMODEL_BANJOPLANE_2",
+            "ASSET_OBJECTMODEL_BANJOPLANE_3",
+            "ASSET_OBJECTMODEL_BANJOPLANE_4",
+            "ASSET_OBJECTMODEL_BANJOPLANE_5",
+            "ASSET_OBJECTMODEL_CHICKENPLANE_0",
+            "ASSET_OBJECTMODEL_CHICKENPLANE_1",
+            "ASSET_OBJECTMODEL_CHICKENPLANE_2",
+            "ASSET_OBJECTMODEL_CHICKENPLANE_3",
+            "ASSET_OBJECTMODEL_CHICKENPLANE_4",
+            "ASSET_OBJECTMODEL_CHICKENPLANE_5",
+            "ASSET_OBJECTMODEL_MOUSEPLANE_0",
+            "ASSET_OBJECTMODEL_MOUSEPLANE_1",
+            "ASSET_OBJECTMODEL_MOUSEPLANE_2",
+            "ASSET_OBJECTMODEL_MOUSEPLANE_3",
+            "ASSET_OBJECTMODEL_MOUSEPLANE_4",
+            "ASSET_OBJECTMODEL_MOUSEPLANE_5",
+            "ASSET_OBJECTMODEL_EMPTYPLANE",
+            "ASSET_OBJECTMODEL_EMPTYCAR",
+            "ASSET_OBJECTMODEL_EMPTYHOVER",
+            "ASSET_OBJECTMODEL_MAGICCARPET",
+            "ASSET_OBJECTMODEL_POLYGOLDBALOON_0",
+            "ASSET_OBJECTMODEL_POLYGOLDBALOON_1",
+            "ASSET_OBJECTMODEL_STOPWATCHMAN",
+            "ASSET_OBJECTMODEL_STOPWATCHSELECT",
+            "ASSET_OBJECTMODEL_PARKWARDEN",
+            "ASSET_OBJECTMODEL_ANIMGENIE2",
+            "ASSET_OBJECTMODEL_GENIEHEAD",
+            "ASSET_OBJECTMODEL_PIGBOSS",
+            "ASSET_OBJECTMODEL_PIGBOSS2",
+            "ASSET_OBJECTMODEL_WIZPIG",
+            "ASSET_OBJECTMODEL_PIGROCKETEER",
+            "ASSET_OBJECTMODEL_WIZPIGROCKET",
+            "ASSET_OBJECTMODEL_ROCKETBIT1",
+            "ASSET_OBJECTMODEL_ROCKETBIT2",
+            "ASSET_OBJECTMODEL_PIGBOULDER",
+            "ASSET_OBJECTMODEL_PIGBOULDER2",
+            "ASSET_OBJECTMODEL_PIGBOULDER3",
+            "ASSET_OBJECTMODEL_PIGBOULDER4",
+            "ASSET_OBJECTMODEL_PIGBOULDER5",
+            "ASSET_OBJECTMODEL_BIGPLANET",
+            "ASSET_OBJECTMODEL_WIZPIGSHIP",
+            "ASSET_OBJECTMODEL_TRICKYTOPS",
+            "ASSET_OBJECTMODEL_TRICKYANIM",
+            "ASSET_OBJECTMODEL_TRICKYANIM2",
+            "ASSET_OBJECTMODEL_TRICKYANIM3",
+            "ASSET_OBJECTMODEL_DRAGONBOSS",
+            "ASSET_OBJECTMODEL_DRAGONANIM",
+            "ASSET_OBJECTMODEL_TERRYBOSS",
+            "ASSET_OBJECTMODEL_WALRUS",
+            "ASSET_OBJECTMODEL_WALRUS_ANIM",
+            "ASSET_OBJECTMODEL_OCTOPUS",
+            "ASSET_OBJECTMODEL_STOPWATCHICON",
+            "ASSET_OBJECTMODEL_STOPWATCHHAND",
+            "ASSET_OBJECTMODEL_SNOWBALL",
+            "ASSET_OBJECTMODEL_SNOWBALL2",
+            "ASSET_OBJECTMODEL_DINOSAUR1",
+            "ASSET_OBJECTMODEL_DINOSAUR2",
+            "ASSET_OBJECTMODEL_DINOSAUR3",
+            "ASSET_OBJECTMODEL_SEAMONSTER",
+            "ASSET_OBJECTMODEL_WOODBLOCK",
+            "ASSET_OBJECTMODEL_WHALE",
+            "ASSET_OBJECTMODEL_LEVELDOOR_2",
+            "ASSET_OBJECTMODEL_LEVELDOOR_3",
+            "ASSET_OBJECTMODEL_LEVELDOOR_0",
+            "ASSET_OBJECTMODEL_LEVELDOOR_4",
+            "ASSET_OBJECTMODEL_LEVELDOOR_1",
+            "ASSET_OBJECTMODEL_LEVELDOOR_7",
+            "ASSET_OBJECTMODEL_LEVELDOOR_8",
+            "ASSET_OBJECTMODEL_LEVELDOOR_5",
+            "ASSET_OBJECTMODEL_LEVELDOOR_6",
+            "ASSET_OBJECTMODEL_SIGNS_0",
+            "ASSET_OBJECTMODEL_SIGNS_1",
+            "ASSET_OBJECTMODEL_SIGNS_2",
+            "ASSET_OBJECTMODEL_SIGNS_3",
+            "ASSET_OBJECTMODEL_LOG",
+            "ASSET_OBJECTMODEL_BOULDER",
+            "ASSET_OBJECTMODEL_AIRZIPPERS",
+            "ASSET_OBJECTMODEL_WATERZIPPERS",
+            "ASSET_OBJECTMODEL_GROUNDZIPPER2",
+            "ASSET_OBJECTMODEL_BETAAIRZIPPER",
+            "ASSET_OBJECTMODEL_DINOISLE",
+            "ASSET_OBJECTMODEL_BETABUMPERICON",
+            "ASSET_OBJECTMODEL_BETADRUMSTICKICON",
+            "ASSET_OBJECTMODEL_BETAKRUNCHICON",
+            "ASSET_OBJECTMODEL_BETAPIPSYICON",
+            "ASSET_OBJECTMODEL_BETATIPTUPICON",
+            "ASSET_OBJECTMODEL_BETAKRUNCHBALLOON",
+            "ASSET_OBJECTMODEL_BETABUMPERBALLOON",
+            "ASSET_OBJECTMODEL_BETATIPTUPBALLOON",
+            "ASSET_OBJECTMODEL_BETATIMBERBALLOON",
+            "ASSET_OBJECTMODEL_BETABANJOBALLOON",
+            "ASSET_OBJECTMODEL_BETADRUMSTICKBALLOON",
+            "ASSET_OBJECTMODEL_BETAPIPSYBALLOON",
+            "ASSET_OBJECTMODEL_SELECTIONSHADOW",
+            "ASSET_OBJECTMODEL_BETAPLAYER1BALLOON",
+            "ASSET_OBJECTMODEL_BETAPLAYER2BALLOON",
+            "ASSET_OBJECTMODEL_BETAPLAYER3BALLOON",
+            "ASSET_OBJECTMODEL_BETAPLAYER4BALLOON",
+            "ASSET_OBJECTMODEL_BADGERANIMWALK",
+            "ASSET_OBJECTMODEL_TIMBERDANCER",
+            "ASSET_OBJECTMODEL_TIPTUPDANCER",
+            "ASSET_OBJECTMODEL_RAREWARELOGO",
+            "ASSET_OBJECTMODEL_FROG_0",
+            "ASSET_OBJECTMODEL_FROG_1",
+            "ASSET_OBJECTMODEL_CHECKPOINT",
+            "ASSET_OBJECTMODEL_MIDIFADE",
+            "ASSET_OBJECTMODEL_MODECHANGE",
+            "ASSET_OBJECTMODEL_EXIT",
+            "ASSET_OBJECTMODEL_BONUS",
+            "ASSET_OBJECTMODEL_ANIMCAMERA",
+            "ASSET_OBJECTMODEL_ANIMATION",
+            "ASSET_OBJECTMODEL_RGBALIGHT_0",
+            "ASSET_OBJECTMODEL_RGBALIGHT_1",
+            "ASSET_OBJECTMODEL_RGBALIGHT_2",
+            "ASSET_OBJECTMODEL_RGBALIGHT_3",
+            "ASSET_OBJECTMODEL_N64LOGO",
+            "ASSET_OBJECTMODEL_WIDESCREEN",
+            "ASSET_OBJECTMODEL_ANIMDOME",
+            "ASSET_OBJECTMODEL_DIDDYSELECT",
+            "ASSET_OBJECTMODEL_ELECTRICITY",
+            "ASSET_OBJECTMODEL_KREMSELECT",
+            "ASSET_OBJECTMODEL_BADGERSELECT",
+            "ASSET_OBJECTMODEL_TORTSELECT",
+            "ASSET_OBJECTMODEL_BANJOSELECT",
+            "ASSET_OBJECTMODEL_TIGERSELECT",
+            "ASSET_OBJECTMODEL_CHICKSELECT",
+            "ASSET_OBJECTMODEL_MOUSESELECT",
+            "ASSET_OBJECTMODEL_CONKSELECT",
+            "ASSET_OBJECTMODEL_POSTFORPARTY",
+            "ASSET_OBJECTMODEL_LIGHTHOUSE",
+            "ASSET_OBJECTMODEL_LIGHTHOUSE1",
+            "ASSET_OBJECTMODEL_SELECTIONHILL",
+            "ASSET_OBJECTMODEL_RARELOGO",
+            "ASSET_OBJECTMODEL_WORLDKEY",
+            "ASSET_OBJECTMODEL_ANIMKEY",
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_0",
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_1",
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_2",
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_3",
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_4",
+            "ASSET_OBJECTMODEL_MAGICRING",
+            "ASSET_OBJECTMODEL_LEEFAN",
+            "ASSET_OBJECTMODEL_SPACESHIP1",
+            "ASSET_OBJECTMODEL_SPACESHIP2",
+            "ASSET_OBJECTMODEL_SPACESHIP3",
+            "ASSET_OBJECTMODEL_MONORAIL",
+            "ASSET_OBJECTMODEL_BRIDGE",
+            "ASSET_OBJECTMODEL_PIRATESHIP",
+            "ASSET_OBJECTMODEL_WORLDGATE_0",
+            "ASSET_OBJECTMODEL_WORLDGATE_1",
+            "ASSET_OBJECTMODEL_WORLDGATE_2",
+            "ASSET_OBJECTMODEL_WORLDGATE_3",
+            "ASSET_OBJECTMODEL_BIGBOSSDOOR_0",
+            "ASSET_OBJECTMODEL_BIGBOSSDOOR_1",
+            "ASSET_OBJECTMODEL_CHALDOOR_0",
+            "ASSET_OBJECTMODEL_CHALDOOR_1",
+            "ASSET_OBJECTMODEL_BOSSDOOR_0",
+            "ASSET_OBJECTMODEL_BOSSDOOR_1",
+            "ASSET_OBJECTMODEL_BOSSDOOR_2",
+            "ASSET_OBJECTMODEL_SPACECOLUMN1",
+            "ASSET_OBJECTMODEL_SPACECOLUMN2",
+            "ASSET_OBJECTMODEL_SPACECOLUMN3",
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAME",
+            "ASSET_OBJECTMODEL_WINDSAIL",
+            "ASSET_OBJECTMODEL_EFFECTBOX",
+            "ASSET_OBJECTMODEL_ASTEROID",
+            "ASSET_OBJECTMODEL_TROPHYCAB",
+            "ASSET_OBJECTMODEL_LASERBOLT",
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAMEUNKNOWN",
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAMECHALLENGE",
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAMETROPHYRACE",
+            "ASSET_OBJECTMODEL_LETTER",
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_0",
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_1",
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_2",
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_3",
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_4",
+            "ASSET_OBJECTMODEL_PTERODACTYL",
+            "ASSET_OBJECTMODEL_AMULETPIECE1",
+            "ASSET_OBJECTMODEL_AMULETPIECE2",
+            "ASSET_OBJECTMODEL_AMULETPIECE3",
+            "ASSET_OBJECTMODEL_AMULETPIECE4",
+            "ASSET_OBJECTMODEL_SWAMULET1",
+            "ASSET_OBJECTMODEL_SWAMULET2",
+            "ASSET_OBJECTMODEL_SWAMULET3",
+            "ASSET_OBJECTMODEL_SWAMULET4",
+            "ASSET_OBJECTMODEL_PIGFACEANIMATOR",
+            "ASSET_OBJECTMODEL_PILLAR",
+            "ASSET_OBJECTMODEL_BOULDERANIM",
+            "ASSET_OBJECTMODEL_HAYSTACK",
+            "ASSET_OBJECTMODEL_BETAPROAM64HOTAIRBALLOON",
+            "ASSET_OBJECTMODEL_MINISHIP",
+            "ASSET_OBJECTMODEL_GOLDTROPHY",
+            "ASSET_OBJECTMODEL_PARKTROPHY",
+            "ASSET_OBJECTMODEL_TICKTROPHY",
+            "ASSET_OBJECTMODEL_SPACEDOME",
+            "ASSET_OBJECTMODEL_MISSILE",
+            "ASSET_OBJECTMODEL_SHIELD_1",
+            "ASSET_OBJECTMODEL_SHIELD_0",
+            "ASSET_OBJECTMODEL_SHIELD_2",
+            "ASSET_OBJECTMODEL_TTDOOR_0",
+            "ASSET_OBJECTMODEL_TTDOOR_1",
+            "ASSET_OBJECTMODEL_TTDOOR_2",
+            "ASSET_OBJECTMODEL_PIGLOG",
+            "ASSET_OBJECTMODEL_KEITHPIGDOOR",
+            "ASSET_OBJECTMODEL_MAGNETFX"
+        ],
+        "sections": {
+            "ASSET_OBJECTMODEL_AIRZIPPERS": {
+                "filename": "AirZippers.json"
+            },
+            "ASSET_OBJECTMODEL_AMULETPIECE1": {
+                "filename": "amuletpiece1.json"
+            },
+            "ASSET_OBJECTMODEL_AMULETPIECE2": {
+                "filename": "amuletpiece2.json"
+            },
+            "ASSET_OBJECTMODEL_AMULETPIECE3": {
+                "filename": "amuletpiece3.json"
+            },
+            "ASSET_OBJECTMODEL_AMULETPIECE4": {
+                "filename": "amuletpiece4.json"
+            },
+            "ASSET_OBJECTMODEL_ANIMATION": {
+                "filename": "Animation.json"
+            },
+            "ASSET_OBJECTMODEL_ANIMCAMERA": {
+                "filename": "AnimCamera.json"
+            },
+            "ASSET_OBJECTMODEL_ANIMDOME": {
+                "filename": "AnimDome.json"
+            },
+            "ASSET_OBJECTMODEL_ANIMGENIE2": {
+                "filename": "AnimGenie2.json"
+            },
+            "ASSET_OBJECTMODEL_ANIMKEY": {
+                "filename": "AnimKey.json"
+            },
+            "ASSET_OBJECTMODEL_ASTEROID": {
+                "filename": "Asteroid.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERANIMWALK": {
+                "filename": "BadgerAnimWalk.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERCAR_0": {
+                "filename": "BadgerCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERCAR_1": {
+                "filename": "BadgerCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERCAR_2": {
+                "filename": "BadgerCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERCAR_3": {
+                "filename": "BadgerCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERCAR_4": {
+                "filename": "BadgerCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERCAR_5": {
+                "filename": "BadgerCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERHOVER_0": {
+                "filename": "BadgerHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERHOVER_1": {
+                "filename": "BadgerHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERHOVER_2": {
+                "filename": "BadgerHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERHOVER_3": {
+                "filename": "BadgerHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERHOVER_4": {
+                "filename": "BadgerHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERHOVER_5": {
+                "filename": "BadgerHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERPLANE_0": {
+                "filename": "BadgerPlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERPLANE_1": {
+                "filename": "BadgerPlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERPLANE_2": {
+                "filename": "BadgerPlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERPLANE_3": {
+                "filename": "BadgerPlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERPLANE_4": {
+                "filename": "BadgerPlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERPLANE_5": {
+                "filename": "BadgerPlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_BADGERSELECT": {
+                "filename": "BadgerSelect.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOCAR_0": {
+                "filename": "BanjoCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOCAR_1": {
+                "filename": "BanjoCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOCAR_2": {
+                "filename": "BanjoCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOCAR_3": {
+                "filename": "BanjoCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOCAR_4": {
+                "filename": "BanjoCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOCAR_5": {
+                "filename": "BanjoCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOHOVER_0": {
+                "filename": "BanjoHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOHOVER_1": {
+                "filename": "BanjoHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOHOVER_2": {
+                "filename": "BanjoHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOHOVER_3": {
+                "filename": "BanjoHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOHOVER_4": {
+                "filename": "BanjoHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOHOVER_5": {
+                "filename": "BanjoHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOPLANE_0": {
+                "filename": "BanjoPlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOPLANE_1": {
+                "filename": "BanjoPlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOPLANE_2": {
+                "filename": "BanjoPlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOPLANE_3": {
+                "filename": "BanjoPlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOPLANE_4": {
+                "filename": "BanjoPlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOPLANE_5": {
+                "filename": "BanjoPlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_BANJOSELECT": {
+                "filename": "BanjoSelect.json"
+            },
+            "ASSET_OBJECTMODEL_BETAAIRZIPPER": {
+                "filename": "BetaAirZipper.json"
+            },
+            "ASSET_OBJECTMODEL_BETABANJOBALLOON": {
+                "filename": "BetaBanjoBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETABUMPERBALLOON": {
+                "filename": "BetaBumperBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETABUMPERICON": {
+                "filename": "BetaBumperIcon.json"
+            },
+            "ASSET_OBJECTMODEL_BETADRUMSTICKBALLOON": {
+                "filename": "BetaDrumstickBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETADRUMSTICKICON": {
+                "filename": "BetaDrumstickIcon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAKRUNCHBALLOON": {
+                "filename": "BetaKrunchBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAKRUNCHICON": {
+                "filename": "BetaKrunchIcon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPIPSYBALLOON": {
+                "filename": "BetaPipsyBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPIPSYICON": {
+                "filename": "BetaPipsyIcon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPLAYER1BALLOON": {
+                "filename": "BetaPlayer1Balloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPLAYER2BALLOON": {
+                "filename": "BetaPlayer2Balloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPLAYER3BALLOON": {
+                "filename": "BetaPlayer3Balloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPLAYER4BALLOON": {
+                "filename": "BetaPlayer4Balloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETAPROAM64HOTAIRBALLOON": {
+                "filename": "BetaProAM64HotAirBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETATIMBERBALLOON": {
+                "filename": "BetaTimberBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETATIPTUPBALLOON": {
+                "filename": "BetaTiptupBalloon.json"
+            },
+            "ASSET_OBJECTMODEL_BETATIPTUPICON": {
+                "filename": "BetaTiptupIcon.json"
+            },
+            "ASSET_OBJECTMODEL_BIGBOSSDOOR_0": {
+                "filename": "bigbossdoor_0.json"
+            },
+            "ASSET_OBJECTMODEL_BIGBOSSDOOR_1": {
+                "filename": "bigbossdoor_1.json"
+            },
+            "ASSET_OBJECTMODEL_BIGPLANET": {
+                "filename": "Bigplanet.json"
+            },
+            "ASSET_OBJECTMODEL_BONUS": {
+                "filename": "bonus.json"
+            },
+            "ASSET_OBJECTMODEL_BOSSDOOR_0": {
+                "filename": "BossDoor_0.json"
+            },
+            "ASSET_OBJECTMODEL_BOSSDOOR_1": {
+                "filename": "BossDoor_1.json"
+            },
+            "ASSET_OBJECTMODEL_BOSSDOOR_2": {
+                "filename": "BossDoor_2.json"
+            },
+            "ASSET_OBJECTMODEL_BOULDER": {
+                "filename": "boulder.json"
+            },
+            "ASSET_OBJECTMODEL_BOULDERANIM": {
+                "filename": "boulderanim.json"
+            },
+            "ASSET_OBJECTMODEL_BRIDGE": {
+                "filename": "bridge.json"
+            },
+            "ASSET_OBJECTMODEL_CHALDOOR_0": {
+                "filename": "ChalDoor_0.json"
+            },
+            "ASSET_OBJECTMODEL_CHALDOOR_1": {
+                "filename": "ChalDoor_1.json"
+            },
+            "ASSET_OBJECTMODEL_CHECKPOINT": {
+                "filename": "checkpoint.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENCAR_0": {
+                "filename": "ChickenCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENCAR_1": {
+                "filename": "ChickenCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENCAR_2": {
+                "filename": "ChickenCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENCAR_3": {
+                "filename": "ChickenCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENCAR_4": {
+                "filename": "ChickenCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENCAR_5": {
+                "filename": "ChickenCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENHOVER_0": {
+                "filename": "ChickenHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENHOVER_1": {
+                "filename": "ChickenHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENHOVER_2": {
+                "filename": "ChickenHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENHOVER_3": {
+                "filename": "ChickenHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENHOVER_4": {
+                "filename": "ChickenHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENHOVER_5": {
+                "filename": "ChickenHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENPLANE_0": {
+                "filename": "ChickenPlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENPLANE_1": {
+                "filename": "ChickenPlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENPLANE_2": {
+                "filename": "ChickenPlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENPLANE_3": {
+                "filename": "ChickenPlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENPLANE_4": {
+                "filename": "ChickenPlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKENPLANE_5": {
+                "filename": "ChickenPlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_CHICKSELECT": {
+                "filename": "ChickSelect.json"
+            },
+            "ASSET_OBJECTMODEL_CONKACAR_0": {
+                "filename": "ConkaCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_CONKACAR_1": {
+                "filename": "ConkaCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_CONKACAR_2": {
+                "filename": "ConkaCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_CONKACAR_3": {
+                "filename": "ConkaCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_CONKACAR_4": {
+                "filename": "ConkaCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_CONKACAR_5": {
+                "filename": "ConkaCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_CONKAHOVER_0": {
+                "filename": "ConkaHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_CONKAHOVER_1": {
+                "filename": "ConkaHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_CONKAHOVER_2": {
+                "filename": "ConkaHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_CONKAHOVER_3": {
+                "filename": "ConkaHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_CONKAHOVER_4": {
+                "filename": "ConkaHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_CONKAHOVER_5": {
+                "filename": "ConkaHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_CONKA_0": {
+                "filename": "Conka_0.json"
+            },
+            "ASSET_OBJECTMODEL_CONKA_1": {
+                "filename": "Conka_1.json"
+            },
+            "ASSET_OBJECTMODEL_CONKA_2": {
+                "filename": "Conka_2.json"
+            },
+            "ASSET_OBJECTMODEL_CONKA_3": {
+                "filename": "Conka_3.json"
+            },
+            "ASSET_OBJECTMODEL_CONKA_4": {
+                "filename": "Conka_4.json"
+            },
+            "ASSET_OBJECTMODEL_CONKA_5": {
+                "filename": "Conka_5.json"
+            },
+            "ASSET_OBJECTMODEL_CONKSELECT": {
+                "filename": "ConkSelect.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYCAR_0": {
+                "filename": "diddycar_0.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYCAR_1": {
+                "filename": "diddycar_1.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYCAR_2": {
+                "filename": "diddycar_2.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYCAR_3": {
+                "filename": "diddycar_3.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYCAR_4": {
+                "filename": "diddycar_4.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYCAR_5": {
+                "filename": "diddycar_5.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYHOVER_0": {
+                "filename": "diddyhover_0.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYHOVER_1": {
+                "filename": "diddyhover_1.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYHOVER_2": {
+                "filename": "diddyhover_2.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYHOVER_3": {
+                "filename": "diddyhover_3.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYHOVER_4": {
+                "filename": "diddyhover_4.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYHOVER_5": {
+                "filename": "diddyhover_5.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYPLANE_0": {
+                "filename": "diddyplane_0.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYPLANE_1": {
+                "filename": "diddyplane_1.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYPLANE_2": {
+                "filename": "diddyplane_2.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYPLANE_3": {
+                "filename": "diddyplane_3.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYPLANE_4": {
+                "filename": "diddyplane_4.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYPLANE_5": {
+                "filename": "diddyplane_5.json"
+            },
+            "ASSET_OBJECTMODEL_DIDDYSELECT": {
+                "filename": "DiddySelect.json"
+            },
+            "ASSET_OBJECTMODEL_DINOISLE": {
+                "filename": "Dinoisle.json"
+            },
+            "ASSET_OBJECTMODEL_DINOSAUR1": {
+                "filename": "Dinosaur1.json"
+            },
+            "ASSET_OBJECTMODEL_DINOSAUR2": {
+                "filename": "Dinosaur2.json"
+            },
+            "ASSET_OBJECTMODEL_DINOSAUR3": {
+                "filename": "Dinosaur3.json"
+            },
+            "ASSET_OBJECTMODEL_DOME": {
+                "filename": "dome.json"
+            },
+            "ASSET_OBJECTMODEL_DOME1": {
+                "filename": "dome1.json"
+            },
+            "ASSET_OBJECTMODEL_DOME10": {
+                "filename": "dome10.json"
+            },
+            "ASSET_OBJECTMODEL_DOME11": {
+                "filename": "dome11.json"
+            },
+            "ASSET_OBJECTMODEL_DOME12": {
+                "filename": "dome12.json"
+            },
+            "ASSET_OBJECTMODEL_DOME13": {
+                "filename": "dome13.json"
+            },
+            "ASSET_OBJECTMODEL_DOME14": {
+                "filename": "dome14.json"
+            },
+            "ASSET_OBJECTMODEL_DOME15": {
+                "filename": "dome15.json"
+            },
+            "ASSET_OBJECTMODEL_DOME16": {
+                "filename": "dome16.json"
+            },
+            "ASSET_OBJECTMODEL_DOME17": {
+                "filename": "dome17.json"
+            },
+            "ASSET_OBJECTMODEL_DOME2": {
+                "filename": "dome2.json"
+            },
+            "ASSET_OBJECTMODEL_DOME3": {
+                "filename": "dome3.json"
+            },
+            "ASSET_OBJECTMODEL_DOME4": {
+                "filename": "dome4.json"
+            },
+            "ASSET_OBJECTMODEL_DOME5": {
+                "filename": "dome5.json"
+            },
+            "ASSET_OBJECTMODEL_DOME6": {
+                "filename": "dome6.json"
+            },
+            "ASSET_OBJECTMODEL_DOME7": {
+                "filename": "dome7.json"
+            },
+            "ASSET_OBJECTMODEL_DOME8": {
+                "filename": "dome8.json"
+            },
+            "ASSET_OBJECTMODEL_DOME9": {
+                "filename": "dome9.json"
+            },
+            "ASSET_OBJECTMODEL_DRAGONANIM": {
+                "filename": "DragonAnim.json"
+            },
+            "ASSET_OBJECTMODEL_DRAGONBOSS": {
+                "filename": "Dragonboss.json"
+            },
+            "ASSET_OBJECTMODEL_EFFECTBOX": {
+                "filename": "EffectBox.json"
+            },
+            "ASSET_OBJECTMODEL_ELECTRICITY": {
+                "filename": "Electricity.json"
+            },
+            "ASSET_OBJECTMODEL_EMPTYCAR": {
+                "filename": "EmptyCar.json"
+            },
+            "ASSET_OBJECTMODEL_EMPTYHOVER": {
+                "filename": "EmptyHover.json"
+            },
+            "ASSET_OBJECTMODEL_EMPTYPLANE": {
+                "filename": "EmptyPlane.json"
+            },
+            "ASSET_OBJECTMODEL_EXIT": {
+                "filename": "exit.json"
+            },
+            "ASSET_OBJECTMODEL_FIRSTPLACE": {
+                "filename": "FirstPlace.json"
+            },
+            "ASSET_OBJECTMODEL_FROG_0": {
+                "filename": "Frog_0.json"
+            },
+            "ASSET_OBJECTMODEL_FROG_1": {
+                "filename": "Frog_1.json"
+            },
+            "ASSET_OBJECTMODEL_GENIEHEAD": {
+                "filename": "Geniehead.json"
+            },
+            "ASSET_OBJECTMODEL_GOLDTROPHY": {
+                "filename": "GoldTrophy.json"
+            },
+            "ASSET_OBJECTMODEL_GROUNDZIPPER2": {
+                "filename": "GroundZipper2.json"
+            },
+            "ASSET_OBJECTMODEL_HAYSTACK": {
+                "filename": "Haystack.json"
+            },
+            "ASSET_OBJECTMODEL_KEITHPIGDOOR": {
+                "filename": "KeithPigDoor.json"
+            },
+            "ASSET_OBJECTMODEL_KREMCAR_0": {
+                "filename": "KremCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_KREMCAR_1": {
+                "filename": "KremCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_KREMCAR_2": {
+                "filename": "KremCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_KREMCAR_3": {
+                "filename": "KremCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_KREMCAR_4": {
+                "filename": "KremCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_KREMCAR_5": {
+                "filename": "KremCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_KREMLINHOVER_0": {
+                "filename": "KremlinHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_KREMLINHOVER_1": {
+                "filename": "KremlinHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_KREMLINHOVER_2": {
+                "filename": "KremlinHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_KREMLINHOVER_3": {
+                "filename": "KremlinHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_KREMLINHOVER_4": {
+                "filename": "KremlinHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_KREMLINHOVER_5": {
+                "filename": "KremlinHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_KREMPLANE_0": {
+                "filename": "KremPlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_KREMPLANE_1": {
+                "filename": "KremPlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_KREMPLANE_2": {
+                "filename": "KremPlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_KREMPLANE_3": {
+                "filename": "KremPlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_KREMPLANE_4": {
+                "filename": "KremPlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_KREMPLANE_5": {
+                "filename": "KremPlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_KREMSELECT": {
+                "filename": "KremSelect.json"
+            },
+            "ASSET_OBJECTMODEL_LASERBOLT": {
+                "filename": "laserbolt.json"
+            },
+            "ASSET_OBJECTMODEL_LEEFAN": {
+                "filename": "Leefan.json"
+            },
+            "ASSET_OBJECTMODEL_LETTER": {
+                "filename": "letter.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_0": {
+                "filename": "LevelDoor_0.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_1": {
+                "filename": "LevelDoor_1.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_2": {
+                "filename": "LevelDoor_2.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_3": {
+                "filename": "LevelDoor_3.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_4": {
+                "filename": "LevelDoor_4.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_5": {
+                "filename": "LevelDoor_5.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_6": {
+                "filename": "LevelDoor_6.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_7": {
+                "filename": "LevelDoor_7.json"
+            },
+            "ASSET_OBJECTMODEL_LEVELDOOR_8": {
+                "filename": "LevelDoor_8.json"
+            },
+            "ASSET_OBJECTMODEL_LIGHTHOUSE": {
+                "filename": "Lighthouse.json"
+            },
+            "ASSET_OBJECTMODEL_LIGHTHOUSE1": {
+                "filename": "lighthouse1.json"
+            },
+            "ASSET_OBJECTMODEL_LOG": {
+                "filename": "log.json"
+            },
+            "ASSET_OBJECTMODEL_MAGICCARPET": {
+                "filename": "MagicCarpet.json"
+            },
+            "ASSET_OBJECTMODEL_MAGICRING": {
+                "filename": "MagicRing.json"
+            },
+            "ASSET_OBJECTMODEL_MAGNETFX": {
+                "filename": "MagnetFX.json"
+            },
+            "ASSET_OBJECTMODEL_MIDIFADE": {
+                "filename": "midifade.json"
+            },
+            "ASSET_OBJECTMODEL_MINISHIP": {
+                "filename": "MiniShip.json"
+            },
+            "ASSET_OBJECTMODEL_MISSILE": {
+                "filename": "Missile.json"
+            },
+            "ASSET_OBJECTMODEL_MODECHANGE": {
+                "filename": "modechange.json"
+            },
+            "ASSET_OBJECTMODEL_MONORAIL": {
+                "filename": "MonoRail.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSECAR_0": {
+                "filename": "MouseCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSECAR_1": {
+                "filename": "MouseCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSECAR_2": {
+                "filename": "MouseCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSECAR_3": {
+                "filename": "MouseCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSECAR_4": {
+                "filename": "MouseCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSECAR_5": {
+                "filename": "MouseCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEHOVER_0": {
+                "filename": "MouseHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEHOVER_1": {
+                "filename": "MouseHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEHOVER_2": {
+                "filename": "MouseHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEHOVER_3": {
+                "filename": "MouseHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEHOVER_4": {
+                "filename": "MouseHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEHOVER_5": {
+                "filename": "MouseHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEPLANE_0": {
+                "filename": "MousePlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEPLANE_1": {
+                "filename": "MousePlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEPLANE_2": {
+                "filename": "MousePlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEPLANE_3": {
+                "filename": "MousePlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEPLANE_4": {
+                "filename": "MousePlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSEPLANE_5": {
+                "filename": "MousePlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_MOUSESELECT": {
+                "filename": "MouseSelect.json"
+            },
+            "ASSET_OBJECTMODEL_N64LOGO": {
+                "filename": "N64logo.json"
+            },
+            "ASSET_OBJECTMODEL_OCTOPUS": {
+                "filename": "octopus.json"
+            },
+            "ASSET_OBJECTMODEL_PARKTROPHY": {
+                "filename": "Parktrophy.json"
+            },
+            "ASSET_OBJECTMODEL_PARKWARDEN": {
+                "filename": "Parkwarden.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOSS": {
+                "filename": "Pigboss.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOSS2": {
+                "filename": "Pigboss2.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOULDER": {
+                "filename": "Pigboulder.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOULDER2": {
+                "filename": "Pigboulder2.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOULDER3": {
+                "filename": "Pigboulder3.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOULDER4": {
+                "filename": "Pigboulder4.json"
+            },
+            "ASSET_OBJECTMODEL_PIGBOULDER5": {
+                "filename": "Pigboulder5.json"
+            },
+            "ASSET_OBJECTMODEL_PIGFACEANIMATOR": {
+                "filename": "pigfaceanimator.json"
+            },
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_0": {
+                "filename": "pigheadcolours_0.json"
+            },
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_1": {
+                "filename": "pigheadcolours_1.json"
+            },
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_2": {
+                "filename": "pigheadcolours_2.json"
+            },
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_3": {
+                "filename": "pigheadcolours_3.json"
+            },
+            "ASSET_OBJECTMODEL_PIGHEADCOLOURS_4": {
+                "filename": "pigheadcolours_4.json"
+            },
+            "ASSET_OBJECTMODEL_PIGLOG": {
+                "filename": "piglog.json"
+            },
+            "ASSET_OBJECTMODEL_PIGROCKETEER": {
+                "filename": "PigRocketeer.json"
+            },
+            "ASSET_OBJECTMODEL_PILLAR": {
+                "filename": "pillar.json"
+            },
+            "ASSET_OBJECTMODEL_PIRATESHIP": {
+                "filename": "pirateship.json"
+            },
+            "ASSET_OBJECTMODEL_POLYGOLDBALOON_0": {
+                "filename": "PolyGoldBaloon_0.json"
+            },
+            "ASSET_OBJECTMODEL_POLYGOLDBALOON_1": {
+                "filename": "PolyGoldBaloon_1.json"
+            },
+            "ASSET_OBJECTMODEL_POSTFORPARTY": {
+                "filename": "postforparty.json"
+            },
+            "ASSET_OBJECTMODEL_PTERODACTYL": {
+                "filename": "pterodactyl.json"
+            },
+            "ASSET_OBJECTMODEL_RARELOGO": {
+                "filename": "Rarelogo.json"
+            },
+            "ASSET_OBJECTMODEL_RAREWARELOGO": {
+                "filename": "rarewarelogo.json"
+            },
+            "ASSET_OBJECTMODEL_RGBALIGHT_0": {
+                "filename": "rgbalight_0.json"
+            },
+            "ASSET_OBJECTMODEL_RGBALIGHT_1": {
+                "filename": "rgbalight_1.json"
+            },
+            "ASSET_OBJECTMODEL_RGBALIGHT_2": {
+                "filename": "rgbalight_2.json"
+            },
+            "ASSET_OBJECTMODEL_RGBALIGHT_3": {
+                "filename": "rgbalight_3.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETBIT1": {
+                "filename": "rocketbit1.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETBIT2": {
+                "filename": "rocketbit2.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_0": {
+                "filename": "rocketsignpost_0.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_1": {
+                "filename": "rocketsignpost_1.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_2": {
+                "filename": "rocketsignpost_2.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_3": {
+                "filename": "rocketsignpost_3.json"
+            },
+            "ASSET_OBJECTMODEL_ROCKETSIGNPOST_4": {
+                "filename": "rocketsignpost_4.json"
+            },
+            "ASSET_OBJECTMODEL_SEAMONSTER": {
+                "filename": "SeaMonster.json"
+            },
+            "ASSET_OBJECTMODEL_SELECTIONHILL": {
+                "filename": "SelectionHill.json"
+            },
+            "ASSET_OBJECTMODEL_SELECTIONSHADOW": {
+                "filename": "selectionshadow.json"
+            },
+            "ASSET_OBJECTMODEL_SHIELD_0": {
+                "filename": "Shield_0.json"
+            },
+            "ASSET_OBJECTMODEL_SHIELD_1": {
+                "filename": "Shield_1.json"
+            },
+            "ASSET_OBJECTMODEL_SHIELD_2": {
+                "filename": "Shield_2.json"
+            },
+            "ASSET_OBJECTMODEL_SIGNS_0": {
+                "filename": "Signs_0.json"
+            },
+            "ASSET_OBJECTMODEL_SIGNS_1": {
+                "filename": "Signs_1.json"
+            },
+            "ASSET_OBJECTMODEL_SIGNS_2": {
+                "filename": "Signs_2.json"
+            },
+            "ASSET_OBJECTMODEL_SIGNS_3": {
+                "filename": "Signs_3.json"
+            },
+            "ASSET_OBJECTMODEL_SNOWBALL": {
+                "filename": "SnowBall.json"
+            },
+            "ASSET_OBJECTMODEL_SNOWBALL2": {
+                "filename": "SnowBall2.json"
+            },
+            "ASSET_OBJECTMODEL_SPACECOLUMN1": {
+                "filename": "SpaceColumn1.json"
+            },
+            "ASSET_OBJECTMODEL_SPACECOLUMN2": {
+                "filename": "SpaceColumn2.json"
+            },
+            "ASSET_OBJECTMODEL_SPACECOLUMN3": {
+                "filename": "SpaceColumn3.json"
+            },
+            "ASSET_OBJECTMODEL_SPACEDOME": {
+                "filename": "SpaceDome.json"
+            },
+            "ASSET_OBJECTMODEL_SPACESHIP1": {
+                "filename": "SpaceShip1.json"
+            },
+            "ASSET_OBJECTMODEL_SPACESHIP2": {
+                "filename": "SpaceShip2.json"
+            },
+            "ASSET_OBJECTMODEL_SPACESHIP3": {
+                "filename": "SpaceShip3.json"
+            },
+            "ASSET_OBJECTMODEL_STOPWATCHHAND": {
+                "filename": "stopwatchhand.json"
+            },
+            "ASSET_OBJECTMODEL_STOPWATCHICON": {
+                "filename": "stopwatchicon.json"
+            },
+            "ASSET_OBJECTMODEL_STOPWATCHMAN": {
+                "filename": "Stopwatch-man.json"
+            },
+            "ASSET_OBJECTMODEL_STOPWATCHSELECT": {
+                "filename": "stopwatchselect.json"
+            },
+            "ASSET_OBJECTMODEL_SWAMULET1": {
+                "filename": "swamulet1.json"
+            },
+            "ASSET_OBJECTMODEL_SWAMULET2": {
+                "filename": "swamulet2.json"
+            },
+            "ASSET_OBJECTMODEL_SWAMULET3": {
+                "filename": "swamulet3.json"
+            },
+            "ASSET_OBJECTMODEL_SWAMULET4": {
+                "filename": "swamulet4.json"
+            },
+            "ASSET_OBJECTMODEL_SWCAR_0": {
+                "filename": "SWcar_0.json"
+            },
+            "ASSET_OBJECTMODEL_SWCAR_1": {
+                "filename": "SWcar_1.json"
+            },
+            "ASSET_OBJECTMODEL_SWCAR_2": {
+                "filename": "SWcar_2.json"
+            },
+            "ASSET_OBJECTMODEL_SWCAR_3": {
+                "filename": "SWcar_3.json"
+            },
+            "ASSET_OBJECTMODEL_SWCAR_4": {
+                "filename": "SWcar_4.json"
+            },
+            "ASSET_OBJECTMODEL_SWCAR_5": {
+                "filename": "SWcar_5.json"
+            },
+            "ASSET_OBJECTMODEL_TERRYBOSS": {
+                "filename": "Terryboss.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_0": {
+                "filename": "ticktockhover_0.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_1": {
+                "filename": "ticktockhover_1.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_2": {
+                "filename": "ticktockhover_2.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_3": {
+                "filename": "ticktockhover_3.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_4": {
+                "filename": "ticktockhover_4.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKHOVER_5": {
+                "filename": "ticktockhover_5.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_0": {
+                "filename": "ticktockplane_0.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_1": {
+                "filename": "ticktockplane_1.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_2": {
+                "filename": "ticktockplane_2.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_3": {
+                "filename": "ticktockplane_3.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_4": {
+                "filename": "ticktockplane_4.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTOCKPLANE_5": {
+                "filename": "ticktockplane_5.json"
+            },
+            "ASSET_OBJECTMODEL_TICKTROPHY": {
+                "filename": "Ticktrophy.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERANIMPLANE": {
+                "filename": "TigerAnimPlane.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERCAR_0": {
+                "filename": "TigerCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERCAR_1": {
+                "filename": "TigerCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERCAR_2": {
+                "filename": "TigerCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERCAR_3": {
+                "filename": "TigerCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERCAR_4": {
+                "filename": "TigerCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERCAR_5": {
+                "filename": "TigerCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERHOVER_0": {
+                "filename": "TigerHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERHOVER_1": {
+                "filename": "TigerHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERHOVER_2": {
+                "filename": "TigerHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERHOVER_3": {
+                "filename": "TigerHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERHOVER_4": {
+                "filename": "TigerHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERHOVER_5": {
+                "filename": "TigerHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_TIGERSELECT": {
+                "filename": "TigerSelect.json"
+            },
+            "ASSET_OBJECTMODEL_TIGPLANE_0": {
+                "filename": "TigPlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_TIGPLANE_1": {
+                "filename": "TigPlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_TIGPLANE_2": {
+                "filename": "TigPlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_TIGPLANE_3": {
+                "filename": "TigPlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_TIGPLANE_4": {
+                "filename": "TigPlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_TIGPLANE_5": {
+                "filename": "TigPlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_TIMBERDANCER": {
+                "filename": "timberdancer.json"
+            },
+            "ASSET_OBJECTMODEL_TIPTUPDANCER": {
+                "filename": "tiptupdancer.json"
+            },
+            "ASSET_OBJECTMODEL_TORTCAR_0": {
+                "filename": "TortCar_0.json"
+            },
+            "ASSET_OBJECTMODEL_TORTCAR_1": {
+                "filename": "TortCar_1.json"
+            },
+            "ASSET_OBJECTMODEL_TORTCAR_2": {
+                "filename": "TortCar_2.json"
+            },
+            "ASSET_OBJECTMODEL_TORTCAR_3": {
+                "filename": "TortCar_3.json"
+            },
+            "ASSET_OBJECTMODEL_TORTCAR_4": {
+                "filename": "TortCar_4.json"
+            },
+            "ASSET_OBJECTMODEL_TORTCAR_5": {
+                "filename": "TortCar_5.json"
+            },
+            "ASSET_OBJECTMODEL_TORTHOVER_0": {
+                "filename": "TortHover_0.json"
+            },
+            "ASSET_OBJECTMODEL_TORTHOVER_1": {
+                "filename": "TortHover_1.json"
+            },
+            "ASSET_OBJECTMODEL_TORTHOVER_2": {
+                "filename": "TortHover_2.json"
+            },
+            "ASSET_OBJECTMODEL_TORTHOVER_3": {
+                "filename": "TortHover_3.json"
+            },
+            "ASSET_OBJECTMODEL_TORTHOVER_4": {
+                "filename": "TortHover_4.json"
+            },
+            "ASSET_OBJECTMODEL_TORTHOVER_5": {
+                "filename": "TortHover_5.json"
+            },
+            "ASSET_OBJECTMODEL_TORTPLANE_0": {
+                "filename": "TortPlane_0.json"
+            },
+            "ASSET_OBJECTMODEL_TORTPLANE_1": {
+                "filename": "TortPlane_1.json"
+            },
+            "ASSET_OBJECTMODEL_TORTPLANE_2": {
+                "filename": "TortPlane_2.json"
+            },
+            "ASSET_OBJECTMODEL_TORTPLANE_3": {
+                "filename": "TortPlane_3.json"
+            },
+            "ASSET_OBJECTMODEL_TORTPLANE_4": {
+                "filename": "TortPlane_4.json"
+            },
+            "ASSET_OBJECTMODEL_TORTPLANE_5": {
+                "filename": "TortPlane_5.json"
+            },
+            "ASSET_OBJECTMODEL_TORTSELECT": {
+                "filename": "TortSelect.json"
+            },
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAME": {
+                "filename": "TrackSelectFrame.json"
+            },
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAMECHALLENGE": {
+                "filename": "TrackSelectFrameChallenge.json"
+            },
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAMETROPHYRACE": {
+                "filename": "TrackSelectFrameTrophyRace.json"
+            },
+            "ASSET_OBJECTMODEL_TRACKSELECTFRAMEUNKNOWN": {
+                "filename": "TrackSelectFrameUnknown.json"
+            },
+            "ASSET_OBJECTMODEL_TRICKYANIM": {
+                "filename": "Trickyanim.json"
+            },
+            "ASSET_OBJECTMODEL_TRICKYANIM2": {
+                "filename": "Trickyanim2.json"
+            },
+            "ASSET_OBJECTMODEL_TRICKYANIM3": {
+                "filename": "Trickyanim3.json"
+            },
+            "ASSET_OBJECTMODEL_TRICKYTOPS": {
+                "filename": "Trickytops.json"
+            },
+            "ASSET_OBJECTMODEL_TROPHYCAB": {
+                "filename": "trophycab.json"
+            },
+            "ASSET_OBJECTMODEL_TTDOOR_0": {
+                "filename": "TTDoor_0.json"
+            },
+            "ASSET_OBJECTMODEL_TTDOOR_1": {
+                "filename": "TTDoor_1.json"
+            },
+            "ASSET_OBJECTMODEL_TTDOOR_2": {
+                "filename": "TTDoor_2.json"
+            },
+            "ASSET_OBJECTMODEL_WALRUS": {
+                "filename": "Walrus.json"
+            },
+            "ASSET_OBJECTMODEL_WALRUS_ANIM": {
+                "filename": "Walrus_anim.json"
+            },
+            "ASSET_OBJECTMODEL_WATERZIPPERS": {
+                "filename": "WaterZippers.json"
+            },
+            "ASSET_OBJECTMODEL_WHALE": {
+                "filename": "Whale.json"
+            },
+            "ASSET_OBJECTMODEL_WIDESCREEN": {
+                "filename": "Widescreen.json"
+            },
+            "ASSET_OBJECTMODEL_WINDSAIL": {
+                "filename": "windsail.json"
+            },
+            "ASSET_OBJECTMODEL_WIZPIG": {
+                "filename": "Wizpig.json"
+            },
+            "ASSET_OBJECTMODEL_WIZPIGROCKET": {
+                "filename": "WizpigRocket.json"
+            },
+            "ASSET_OBJECTMODEL_WIZPIGSHIP": {
+                "filename": "wizpigship.json"
+            },
+            "ASSET_OBJECTMODEL_WOODBLOCK": {
+                "filename": "WoodBlock.json"
+            },
+            "ASSET_OBJECTMODEL_WORLDGATE_0": {
+                "filename": "WorldGate_0.json"
+            },
+            "ASSET_OBJECTMODEL_WORLDGATE_1": {
+                "filename": "WorldGate_1.json"
+            },
+            "ASSET_OBJECTMODEL_WORLDGATE_2": {
+                "filename": "WorldGate_2.json"
+            },
+            "ASSET_OBJECTMODEL_WORLDGATE_3": {
+                "filename": "WorldGate_3.json"
+            },
+            "ASSET_OBJECTMODEL_WORLDKEY": {
+                "filename": "WorldKey.json"
+            }
+        }
+    },
+    "folder": "objects/models",
+    "type": "ObjectModel"
+}

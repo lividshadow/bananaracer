@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "rubber_snow_tree_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 42,
+    "sprite-y": 76,
+    "type": "Texture"
+}

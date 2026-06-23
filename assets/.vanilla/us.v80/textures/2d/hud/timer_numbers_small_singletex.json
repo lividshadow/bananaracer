@@ -1,0 +1,24 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "format": "RGBA32",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "timer_numbers_small_singletex_0.png",
+        "timer_numbers_small_singletex_1.png",
+        "timer_numbers_small_singletex_2.png",
+        "timer_numbers_small_singletex_3.png",
+        "timer_numbers_small_singletex_4.png",
+        "timer_numbers_small_singletex_5.png",
+        "timer_numbers_small_singletex_6.png",
+        "timer_numbers_small_singletex_7.png",
+        "timer_numbers_small_singletex_8.png",
+        "timer_numbers_small_singletex_9.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

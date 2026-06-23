@@ -1,0 +1,22 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "format": "RGBA32",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "place_numbers_singletex_0.png",
+        "place_numbers_singletex_1.png",
+        "place_numbers_singletex_2.png",
+        "place_numbers_singletex_3.png",
+        "place_numbers_singletex_4.png",
+        "place_numbers_singletex_5.png",
+        "place_numbers_singletex_6.png",
+        "place_numbers_singletex_7.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

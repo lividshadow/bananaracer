@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "IA8",
+    "images": [
+        "snowball_valley.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 15,
+    "sprite-y": 2,
+    "type": "Texture"
+}

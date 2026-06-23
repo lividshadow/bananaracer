@@ -1,0 +1,24 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "unknown_effect_0.png",
+        "unknown_effect_1.png",
+        "unknown_effect_2.png",
+        "unknown_effect_3.png",
+        "unknown_effect_4.png",
+        "unknown_effect_5.png",
+        "unknown_effect_6.png",
+        "unknown_effect_7.png",
+        "unknown_effect_8.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 0.1,
+    "images": [
+        "blinking_computer_lights_0.png",
+        "blinking_computer_lights_1.png",
+        "blinking_computer_lights_2.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

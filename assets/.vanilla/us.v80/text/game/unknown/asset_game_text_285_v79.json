@@ -1,0 +1,85 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 138,
+                    "right": 217,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "やったね!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "3つめの"
+            },
+            {
+                "command": "Text",
+                "value": "T.T.アミュレットの"
+            },
+            {
+                "command": "Text",
+                "value": "かけらです。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "のこりは"
+            },
+            {
+                "command": "Text",
+                "value": "あと1つ!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "がんばってね。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

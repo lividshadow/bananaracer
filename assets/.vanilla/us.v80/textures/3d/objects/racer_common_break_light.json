@@ -1,0 +1,22 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "RGBA32",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "racer_common_break_light_0.png",
+        "racer_common_break_light_1.png",
+        "racer_common_break_light_2.png",
+        "racer_common_break_light_3.png",
+        "racer_common_break_light_4.png",
+        "racer_common_break_light_5.png",
+        "racer_common_break_light_6.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

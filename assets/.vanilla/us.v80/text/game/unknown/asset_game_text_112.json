@@ -1,0 +1,97 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 24,
+                    "right": 103,
+                    "top": 16
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "GLUECKWUNSCH!!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "DU HAST ALLE"
+            },
+            {
+                "command": "Text",
+                "value": "VIER TEILE DES"
+            },
+            {
+                "command": "Text",
+                "value": "AMULETTS"
+            },
+            {
+                "command": "Text",
+                "value": "EINGESAMMELT."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "NUN BIST DU"
+            },
+            {
+                "command": "Text",
+                "value": "WUERDIG, WIZPIG"
+            },
+            {
+                "command": "Text",
+                "value": "GEGENUEBER-"
+            },
+            {
+                "command": "Text",
+                "value": "ZUTRETEN."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "VIEL GLUECK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

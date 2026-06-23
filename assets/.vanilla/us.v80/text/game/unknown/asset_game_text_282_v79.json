@@ -1,0 +1,85 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 24,
+                    "right": 131,
+                    "top": 16
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "おめでとう。すごいね!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "とうとう"
+            },
+            {
+                "command": "Text",
+                "value": "まほうのアミュレットが"
+            },
+            {
+                "command": "Text",
+                "value": "かんせいしました。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "いよいよウィズピッグとの"
+            },
+            {
+                "command": "Text",
+                "value": "けっせんです。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "ぶじをいのります。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

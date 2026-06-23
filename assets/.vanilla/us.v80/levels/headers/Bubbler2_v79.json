@@ -1,0 +1,187 @@
+{
+    "ai-levels": {
+        "adv1": {
+            "base": 0,
+            "completed": 0,
+            "silver-coins": 0,
+            "tracks-mode": 0,
+            "trophy-race": 0
+        },
+        "adv2": {
+            "base": 0,
+            "completed": 0,
+            "silver-coins": 0,
+            "tracks-mode": 0,
+            "trophy-race": 0
+        }
+    },
+    "avaliable-vehicles": [
+        "VEHICLE_HOVERCRAFT"
+    ],
+    "background": {
+        "colour": {
+            "blue": 0,
+            "green": 150,
+            "red": 255
+        },
+        "multiplayer": {
+            "gradient-colour": {
+                "bottom": {
+                    "blue": 255,
+                    "green": 128,
+                    "red": 128
+                },
+                "top": {
+                    "blue": 255,
+                    "green": 0,
+                    "red": 0
+                }
+            }
+        },
+        "skybox": {
+            "id": "ASSET_OBJECT_DOME1"
+        }
+    },
+    "boss-race-id": "BOSS_RACE_BUBBLER2",
+    "course-height": 300.0,
+    "default-vehicle": "VEHICLE_HOVERCRAFT",
+    "fog": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "far": 0,
+        "near": 0
+    },
+    "fov": 60,
+    "instruments": 65535,
+    "map-2": "ASSET_LEVEL_OBJECT_MAPS_54",
+    "map-collectables": "ASSET_LEVEL_OBJECT_MAPS_124",
+    "model": "ASSET_LEVELMODEL_BUBBLER",
+    "music": 57,
+    "name": {
+        "LANGUAGE_ENGLISH": "Sherbet 2",
+        "LANGUAGE_FRENCH": "Sherbet 2",
+        "LANGUAGE_GERMAN": "Sherbet 2",
+        "LANGUAGE_JAPANESE": ""
+    },
+    "race-type": "RACETYPE_BOSS",
+    "type": "LevelHeader",
+    "unknown": {
+        "unk1": 0,
+        "unk16": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "unk2": 0,
+        "unk2A": 80,
+        "unk2B": [
+            50,
+            50,
+            50,
+            20,
+            20,
+            100,
+            0,
+            0,
+            0
+        ],
+        "unk3": 1,
+        "unk4": [
+            3,
+            4,
+            4,
+            4
+        ],
+        "unk44": [
+            0,
+            0,
+            0,
+            0,
+            12
+        ],
+        "unk4F": [
+            0,
+            0,
+            0
+        ],
+        "unk53": 101,
+        "unk72": 105,
+        "unk73": 110,
+        "unkA0": 257,
+        "unkA2": 0,
+        "unkA3": 0,
+        "unkA8": 4101,
+        "unkAA": -11512,
+        "unkB0": 3600,
+        "unkB2": 0,
+        "unkB3": 18,
+        "unkB9": 1,
+        "unkBC": 0,
+        "unkBD": 0,
+        "unkC": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "unkC4": 1490224400
+    },
+    "void": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "enabled": 1
+    },
+    "waves": {
+        "UV-Scale-X": 4,
+        "UV-Scale-Y": 4,
+        "UV-Scroll-X": 1,
+        "UV-Scroll-Y": 1,
+        "seed-size": 120,
+        "sine-base-0": 0,
+        "sine-base-1": 0,
+        "sine-height-0": 1536,
+        "sine-height-1": 768,
+        "sine-step-0": 1,
+        "sine-step-1": 2,
+        "subdivisions": 6,
+        "texture-ID": "ASSET_TEX2D_WATER_DETAIL",
+        "unk57": 4,
+        "unk64": 153,
+        "unk66": 2048,
+        "unk70": 1,
+        "unk71": 1,
+        "view-distance": 3,
+        "wave-power": 256
+    },
+    "weather": {
+        "enable": 0,
+        "intensity": 0,
+        "opacity": 0,
+        "type": 0,
+        "velocity": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "world": "WORLD_SHERBET_ISLAND"
+}

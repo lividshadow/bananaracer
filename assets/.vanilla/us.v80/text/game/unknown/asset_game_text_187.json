@@ -1,0 +1,53 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 160,
+                    "left": 22,
+                    "right": 129,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "MES TALENTS SONT"
+            },
+            {
+                "command": "Text",
+                "value": "NETTEMENT SUPERIEURS."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOUS SEREZ PLUS"
+            },
+            {
+                "command": "Text",
+                "value": "CHANCEUX LA "
+            },
+            {
+                "command": "Text",
+                "value": "PROCHAINE FOIS."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOULEZ-VOUS"
+            },
+            {
+                "command": "Text",
+                "value": "RECOMMENCER?"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

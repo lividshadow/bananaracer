@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "COURSE DU TROPHEE"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "POUR AVOIR ACCES A"
+            },
+            {
+                "command": "Text",
+                "value": "LA COURSE DU TROPHEE,"
+            },
+            {
+                "command": "Text",
+                "value": "VOUS DEVEZ POSSEDER"
+            },
+            {
+                "command": "Text",
+                "value": "TOUS LES BALLONS"
+            },
+            {
+                "command": "Text",
+                "value": "D'OR DE CE MONDE."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "CONTINUEZ A FAIRE"
+            },
+            {
+                "command": "Text",
+                "value": "DES COURSES."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

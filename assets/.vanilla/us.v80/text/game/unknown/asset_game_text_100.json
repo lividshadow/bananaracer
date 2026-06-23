@@ -1,0 +1,53 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 188,
+                    "left": 40,
+                    "right": 205,
+                    "top": 42
+                }
+            },
+            {
+                "command": "Text",
+                "value": "SHERBET ISLAND"
+            },
+            {
+                "command": "Text",
+                "value": "SCHLUESSEL ZUM"
+            },
+            {
+                "command": "Text",
+                "value": "T.T.-RENNEN "
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "NIMM DIESEN"
+            },
+            {
+                "command": "Text",
+                "value": "SCHLUESSEL, UM"
+            },
+            {
+                "command": "Text",
+                "value": "DIE TUER IN DER"
+            },
+            {
+                "command": "Text",
+                "value": "SHERBET ISLAND-HALLE"
+            },
+            {
+                "command": "Text",
+                "value": "ZU OEFFNEN."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

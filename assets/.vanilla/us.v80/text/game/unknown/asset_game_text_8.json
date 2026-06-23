@@ -1,0 +1,93 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 18,
+                    "right": 97,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 4
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "HELLO OLD FRIEND!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "MY NAME IS"
+            },
+            {
+                "command": "Text",
+                "value": "PARK WARDEN"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "YOU CAN"
+            },
+            {
+                "command": "Text",
+                "value": "CHANGE YOUR"
+            },
+            {
+                "command": "Text",
+                "value": "VEHICLE HERE"
+            },
+            {
+                "command": "Text",
+                "value": "BY HONKING "
+            },
+            {
+                "command": "Text",
+                "value": "YOUR HORN!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "GOOD LUCK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

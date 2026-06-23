@@ -1,0 +1,77 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 212,
+                    "left": 40,
+                    "right": 205,
+                    "top": 28
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "MONTAGNE DE FEU"
+            },
+            {
+                "command": "Text",
+                "value": "DEFI DE T.T."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOUS DEVEZ TROUVER"
+            },
+            {
+                "command": "Text",
+                "value": "UNE CLE POUR OUVRIR"
+            },
+            {
+                "command": "Text",
+                "value": "CETTE PORTE."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "LA CLE EST CACHEE"
+            },
+            {
+                "command": "Text",
+                "value": "SUR L'UNE DES"
+            },
+            {
+                "command": "Text",
+                "value": "COURSE DU DOMAINE DINO."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "CONTINUEZ A CHERCHER"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

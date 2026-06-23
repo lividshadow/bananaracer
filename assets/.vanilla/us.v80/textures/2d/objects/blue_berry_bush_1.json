@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "blue_berry_bush_1.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 37,
+    "sprite-y": 34,
+    "type": "Texture"
+}

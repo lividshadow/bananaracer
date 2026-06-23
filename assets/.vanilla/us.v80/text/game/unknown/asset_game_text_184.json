@@ -1,0 +1,45 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "Text",
+                "value": "MONTAGNE FLOCON"
+            },
+            {
+                "command": "Text",
+                "value": "DEFI DES CLES DE T.T."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "UTILISE CETTE CLE POUR"
+            },
+            {
+                "command": "Text",
+                "value": "PENETRER DANS LA SALLE"
+            },
+            {
+                "command": "Text",
+                "value": "AUX DEFIS DANS LE HALL"
+            },
+            {
+                "command": "Text",
+                "value": "DE LA MONTAGNE FLOCON."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

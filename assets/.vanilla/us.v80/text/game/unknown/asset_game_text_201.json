@@ -1,0 +1,85 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 18,
+                    "right": 97,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "INCROYABLE!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "L'AMULETTE"
+            },
+            {
+                "command": "Text",
+                "value": "EST COMPLETE"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "UTILISEZ-LA"
+            },
+            {
+                "command": "Text",
+                "value": "POUR OUVRIR"
+            },
+            {
+                "command": "Text",
+                "value": "LA PORTE DE T.T."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "BONNE CHANCE."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

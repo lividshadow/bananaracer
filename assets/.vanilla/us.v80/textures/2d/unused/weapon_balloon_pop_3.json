@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "anti-aliased": true,
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA32",
+    "images": [
+        "weapon_balloon_pop_3.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 32,
+    "sprite-y": 22,
+    "type": "Texture"
+}

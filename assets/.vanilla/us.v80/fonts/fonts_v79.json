@@ -1,0 +1,15 @@
+{
+    "fonts": {
+        "ASSET_FONTS_BIGFONT": "game_fonts/BigFont.meta.json",
+        "ASSET_FONTS_FUNFONT": "game_fonts/FunFont.meta.json",
+        "ASSET_FONTS_SMALLFONT": "game_fonts/SmallFont.meta.json",
+        "ASSET_FONTS_SUBTITLEFONT": "game_fonts/SubtitleFont.meta.json"
+    },
+    "fonts-order": [
+        "ASSET_FONTS_FUNFONT",
+        "ASSET_FONTS_SMALLFONT",
+        "ASSET_FONTS_BIGFONT",
+        "ASSET_FONTS_SUBTITLEFONT"
+    ],
+    "type": "Fonts"
+}

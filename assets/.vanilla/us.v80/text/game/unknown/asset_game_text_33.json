@@ -1,0 +1,73 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "FIRE MOUNTAIN"
+            },
+            {
+                "command": "Text",
+                "value": "T.T. CHALLENGE"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "TO ENTER THIS DOOR,"
+            },
+            {
+                "command": "Text",
+                "value": "YOU MUST FIND THE KEY."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "THE KEY IS HIDDEN ON ONE"
+            },
+            {
+                "command": "Text",
+                "value": "OF THE DINO DOMAIN"
+            },
+            {
+                "command": "Text",
+                "value": "RACE TRACKS."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "KEEP SEARCHING!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

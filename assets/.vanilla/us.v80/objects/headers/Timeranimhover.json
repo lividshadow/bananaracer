@@ -1,0 +1,101 @@
+{
+    "behavior": "BHV_VEHICLE_ANIMATION",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008",
+        "FLAG_0010"
+    ],
+    "internal-name": "Timeranimhover",
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_TIGERHOVER_0"
+    ],
+    "particles": [
+        {
+            "arg1": 15,
+            "arg2": 28,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 16,
+            "arg2": 28,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 14,
+            "arg2": 25,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 7,
+            "arg2": 29,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 0
+        }
+    ],
+    "scale": 0.20000000298023224,
+    "shade-ambient": 0.902999997138977,
+    "shade-angle-y": 5144,
+    "shade-angle-z": -9320,
+    "shade-brightness": 0.48399999737739563,
+    "shadow-group": 2,
+    "shadow-scale": 4.800000190734863,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 16384,
+        "unk34": 9,
+        "unk38": 61,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -100,
+        "unk44": 30,
+        "unk46": -100,
+        "unk48": 30,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": 1,
+        "unk59": 0,
+        "unk5B": 2,
+        "unk5C": 41,
+        "unk5D": 51,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 5.0
+    },
+    "vehicle-part-indices": [
+        0
+    ],
+    "vehicle-part-indices-junk-bytes": [
+        0,
+        0,
+        0,
+        67,
+        67,
+        0,
+        0
+    ],
+    "vehicle-parts": [
+        191
+    ],
+    "water-effect-group": 2
+}

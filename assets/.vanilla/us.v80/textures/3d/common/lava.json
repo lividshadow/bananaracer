@@ -1,0 +1,20 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 1.067,
+    "images": [
+        "lava_0.png",
+        "lava_1.png",
+        "lava_2.png",
+        "lava_3.png",
+        "lava_4.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

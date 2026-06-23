@@ -1,0 +1,49 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 24,
+                    "right": 103,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "FLUGZEUGRENNEN"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "UM DEINE"
+            },
+            {
+                "command": "Text",
+                "value": "FAHRKUENSTE ZU"
+            },
+            {
+                "command": "Text",
+                "value": "BEWEISEN, MUSST"
+            },
+            {
+                "command": "Text",
+                "value": "DU MICH RUND"
+            },
+            {
+                "command": "Text",
+                "value": "UM DIE INSEL"
+            },
+            {
+                "command": "Text",
+                "value": "JAGEN!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

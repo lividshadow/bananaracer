@@ -1,0 +1,37 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 220,
+                    "left": 32,
+                    "right": 223,
+                    "top": 158
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "LE PREMIER A RECUPERER"
+            },
+            {
+                "command": "Text",
+                "value": "10 PIECES SERA"
+            },
+            {
+                "command": "Text",
+                "value": "DESIGNE VAINQUEUR"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

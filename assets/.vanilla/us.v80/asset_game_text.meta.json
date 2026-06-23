@@ -1,0 +1,1370 @@
+{
+    "files": {
+        "order": [
+            "ASSET_GAME_TEXT_0",
+            "ASSET_GAME_TEXT_1",
+            "ASSET_GAME_TEXT_2",
+            "ASSET_GAME_TEXT_3",
+            "ASSET_GAME_TEXT_4",
+            "ASSET_GAME_TEXT_5",
+            "ASSET_GAME_TEXT_6",
+            "ASSET_GAME_TEXT_7",
+            "ASSET_GAME_TEXT_8",
+            "ASSET_GAME_TEXT_9",
+            "ASSET_GAME_TEXT_10",
+            "ASSET_GAME_TEXT_11",
+            "ASSET_GAME_TEXT_12",
+            "ASSET_GAME_TEXT_13",
+            "ASSET_GAME_TEXT_14",
+            "ASSET_GAME_TEXT_15",
+            "ASSET_GAME_TEXT_16",
+            "ASSET_GAME_TEXT_17",
+            "ASSET_GAME_TEXT_18",
+            "ASSET_GAME_TEXT_19",
+            "ASSET_GAME_TEXT_20",
+            "ASSET_GAME_TEXT_21",
+            "ASSET_GAME_TEXT_22",
+            "ASSET_GAME_TEXT_23",
+            "ASSET_GAME_TEXT_24",
+            "ASSET_GAME_TEXT_25",
+            "ASSET_GAME_TEXT_26",
+            "ASSET_GAME_TEXT_27",
+            "ASSET_GAME_TEXT_28",
+            "ASSET_GAME_TEXT_29",
+            "ASSET_GAME_TEXT_30",
+            "ASSET_GAME_TEXT_31",
+            "ASSET_GAME_TEXT_32",
+            "ASSET_GAME_TEXT_33",
+            "ASSET_GAME_TEXT_34",
+            "ASSET_GAME_TEXT_35",
+            "ASSET_GAME_TEXT_36",
+            "ASSET_GAME_TEXT_37",
+            "ASSET_GAME_TEXT_38",
+            "ASSET_GAME_TEXT_39",
+            "ASSET_GAME_TEXT_40",
+            "ASSET_GAME_TEXT_41",
+            "ASSET_GAME_TEXT_42",
+            "ASSET_GAME_TEXT_43",
+            "ASSET_GAME_TEXT_44",
+            "ASSET_GAME_TEXT_45",
+            "ASSET_GAME_TEXT_46",
+            "ASSET_GAME_TEXT_47",
+            "ASSET_GAME_TEXT_48",
+            "ASSET_GAME_TEXT_49",
+            "ASSET_GAME_TEXT_50",
+            "ASSET_GAME_TEXT_51",
+            "ASSET_GAME_TEXT_52",
+            "ASSET_GAME_TEXT_53",
+            "ASSET_GAME_TEXT_54",
+            "ASSET_GAME_TEXT_55",
+            "ASSET_GAME_TEXT_56",
+            "ASSET_GAME_TEXT_57",
+            "ASSET_GAME_TEXT_58",
+            "ASSET_GAME_TEXT_59",
+            "ASSET_GAME_TEXT_60",
+            "ASSET_GAME_TEXT_61",
+            "ASSET_GAME_TEXT_62",
+            "ASSET_GAME_TEXT_63",
+            "ASSET_GAME_TEXT_64",
+            "ASSET_GAME_TEXT_65",
+            "ASSET_GAME_TEXT_66",
+            "ASSET_GAME_TEXT_67",
+            "ASSET_GAME_TEXT_68",
+            "ASSET_GAME_TEXT_69",
+            "ASSET_GAME_TEXT_70",
+            "ASSET_GAME_TEXT_71",
+            "ASSET_GAME_TEXT_72",
+            "ASSET_GAME_TEXT_73",
+            "ASSET_GAME_TEXT_74",
+            "ASSET_GAME_TEXT_75",
+            "ASSET_GAME_TEXT_76",
+            "ASSET_GAME_TEXT_77",
+            "ASSET_GAME_TEXT_78",
+            "ASSET_GAME_TEXT_79",
+            "ASSET_GAME_TEXT_80",
+            "ASSET_GAME_TEXT_81",
+            "ASSET_GAME_TEXT_82",
+            "ASSET_GAME_TEXT_83",
+            "ASSET_GAME_TEXT_84",
+            "ASSET_GAME_TEXT_85",
+            "ASSET_GAME_TEXT_86",
+            "ASSET_GAME_TEXT_87",
+            "ASSET_GAME_TEXT_88",
+            "ASSET_GAME_TEXT_89",
+            "ASSET_GAME_TEXT_90",
+            "ASSET_GAME_TEXT_91",
+            "ASSET_GAME_TEXT_92",
+            "ASSET_GAME_TEXT_93",
+            "ASSET_GAME_TEXT_94",
+            "ASSET_GAME_TEXT_95",
+            "ASSET_GAME_TEXT_96",
+            "ASSET_GAME_TEXT_97",
+            "ASSET_GAME_TEXT_98",
+            "ASSET_GAME_TEXT_99",
+            "ASSET_GAME_TEXT_100",
+            "ASSET_GAME_TEXT_101",
+            "ASSET_GAME_TEXT_102",
+            "ASSET_GAME_TEXT_103",
+            "ASSET_GAME_TEXT_104",
+            "ASSET_GAME_TEXT_105",
+            "ASSET_GAME_TEXT_106",
+            "ASSET_GAME_TEXT_107",
+            "ASSET_GAME_TEXT_108",
+            "ASSET_GAME_TEXT_109",
+            "ASSET_GAME_TEXT_110",
+            "ASSET_GAME_TEXT_111",
+            "ASSET_GAME_TEXT_112",
+            "ASSET_GAME_TEXT_113",
+            "ASSET_GAME_TEXT_114",
+            "ASSET_GAME_TEXT_115",
+            "ASSET_GAME_TEXT_116",
+            "ASSET_GAME_TEXT_117",
+            "ASSET_GAME_TEXT_118",
+            "ASSET_GAME_TEXT_119",
+            "ASSET_GAME_TEXT_120",
+            "ASSET_GAME_TEXT_121",
+            "ASSET_GAME_TEXT_122",
+            "ASSET_GAME_TEXT_123",
+            "ASSET_GAME_TEXT_124",
+            "ASSET_GAME_TEXT_125",
+            "ASSET_GAME_TEXT_126",
+            "ASSET_GAME_TEXT_127",
+            "ASSET_GAME_TEXT_128",
+            "ASSET_GAME_TEXT_129",
+            "ASSET_GAME_TEXT_130",
+            "ASSET_GAME_TEXT_131",
+            "ASSET_GAME_TEXT_132",
+            "ASSET_GAME_TEXT_133",
+            "ASSET_GAME_TEXT_134",
+            "ASSET_GAME_TEXT_135",
+            "ASSET_GAME_TEXT_136",
+            "ASSET_GAME_TEXT_137",
+            "ASSET_GAME_TEXT_138",
+            "ASSET_GAME_TEXT_139",
+            "ASSET_GAME_TEXT_140",
+            "ASSET_GAME_TEXT_141",
+            "ASSET_GAME_TEXT_142",
+            "ASSET_GAME_TEXT_143",
+            "ASSET_GAME_TEXT_144",
+            "ASSET_GAME_TEXT_145",
+            "ASSET_GAME_TEXT_146",
+            "ASSET_GAME_TEXT_147",
+            "ASSET_GAME_TEXT_148",
+            "ASSET_GAME_TEXT_149",
+            "ASSET_GAME_TEXT_150",
+            "ASSET_GAME_TEXT_151",
+            "ASSET_GAME_TEXT_152",
+            "ASSET_GAME_TEXT_153",
+            "ASSET_GAME_TEXT_154",
+            "ASSET_GAME_TEXT_155",
+            "ASSET_GAME_TEXT_156",
+            "ASSET_GAME_TEXT_157",
+            "ASSET_GAME_TEXT_158",
+            "ASSET_GAME_TEXT_159",
+            "ASSET_GAME_TEXT_160",
+            "ASSET_GAME_TEXT_161",
+            "ASSET_GAME_TEXT_162",
+            "ASSET_GAME_TEXT_163",
+            "ASSET_GAME_TEXT_164",
+            "ASSET_GAME_TEXT_165",
+            "ASSET_GAME_TEXT_166",
+            "ASSET_GAME_TEXT_167",
+            "ASSET_GAME_TEXT_168",
+            "ASSET_GAME_TEXT_169",
+            "ASSET_GAME_TEXT_170",
+            "ASSET_GAME_TEXT_171",
+            "ASSET_GAME_TEXT_172",
+            "ASSET_GAME_TEXT_173",
+            "ASSET_GAME_TEXT_174",
+            "ASSET_GAME_TEXT_175",
+            "ASSET_GAME_TEXT_176",
+            "ASSET_GAME_TEXT_177",
+            "ASSET_GAME_TEXT_178",
+            "ASSET_GAME_TEXT_179",
+            "ASSET_GAME_TEXT_180",
+            "ASSET_GAME_TEXT_181",
+            "ASSET_GAME_TEXT_182",
+            "ASSET_GAME_TEXT_183",
+            "ASSET_GAME_TEXT_184",
+            "ASSET_GAME_TEXT_185",
+            "ASSET_GAME_TEXT_186",
+            "ASSET_GAME_TEXT_187",
+            "ASSET_GAME_TEXT_188",
+            "ASSET_GAME_TEXT_189",
+            "ASSET_GAME_TEXT_190",
+            "ASSET_GAME_TEXT_191",
+            "ASSET_GAME_TEXT_192",
+            "ASSET_GAME_TEXT_193",
+            "ASSET_GAME_TEXT_194",
+            "ASSET_GAME_TEXT_195",
+            "ASSET_GAME_TEXT_196",
+            "ASSET_GAME_TEXT_197",
+            "ASSET_GAME_TEXT_198",
+            "ASSET_GAME_TEXT_199",
+            "ASSET_GAME_TEXT_200",
+            "ASSET_GAME_TEXT_201",
+            "ASSET_GAME_TEXT_202",
+            "ASSET_GAME_TEXT_203",
+            "ASSET_GAME_TEXT_204",
+            "ASSET_GAME_TEXT_205",
+            "ASSET_GAME_TEXT_206",
+            "ASSET_GAME_TEXT_207",
+            "ASSET_GAME_TEXT_208",
+            "ASSET_GAME_TEXT_209",
+            "ASSET_GAME_TEXT_210",
+            "ASSET_GAME_TEXT_211",
+            "ASSET_GAME_TEXT_212",
+            "ASSET_GAME_TEXT_213",
+            "ASSET_GAME_TEXT_214",
+            "ASSET_GAME_TEXT_215",
+            "ASSET_GAME_TEXT_216",
+            "ASSET_GAME_TEXT_217",
+            "ASSET_GAME_TEXT_218",
+            "ASSET_GAME_TEXT_219",
+            "ASSET_GAME_TEXT_220",
+            "ASSET_GAME_TEXT_221",
+            "ASSET_GAME_TEXT_222",
+            "ASSET_GAME_TEXT_223",
+            "ASSET_GAME_TEXT_224",
+            "ASSET_GAME_TEXT_225",
+            "ASSET_GAME_TEXT_226",
+            "ASSET_GAME_TEXT_227",
+            "ASSET_GAME_TEXT_228",
+            "ASSET_GAME_TEXT_229",
+            "ASSET_GAME_TEXT_230",
+            "ASSET_GAME_TEXT_231",
+            "ASSET_GAME_TEXT_232",
+            "ASSET_GAME_TEXT_233",
+            "ASSET_GAME_TEXT_234",
+            "ASSET_GAME_TEXT_235",
+            "ASSET_GAME_TEXT_236",
+            "ASSET_GAME_TEXT_237",
+            "ASSET_GAME_TEXT_238",
+            "ASSET_GAME_TEXT_239",
+            "ASSET_GAME_TEXT_240",
+            "ASSET_GAME_TEXT_241",
+            "ASSET_GAME_TEXT_242",
+            "ASSET_GAME_TEXT_243",
+            "ASSET_GAME_TEXT_244",
+            "ASSET_GAME_TEXT_245",
+            "ASSET_GAME_TEXT_246",
+            "ASSET_GAME_TEXT_247",
+            "ASSET_GAME_TEXT_248",
+            "ASSET_GAME_TEXT_249",
+            "ASSET_GAME_TEXT_250",
+            "ASSET_GAME_TEXT_251",
+            "ASSET_GAME_TEXT_252",
+            "ASSET_GAME_TEXT_253",
+            "ASSET_GAME_TEXT_254",
+            "ASSET_GAME_TEXT_255",
+            "ASSET_GAME_TEXT_256",
+            "ASSET_GAME_TEXT_257",
+            "ASSET_GAME_TEXT_258",
+            "ASSET_GAME_TEXT_259",
+            "ASSET_GAME_TEXT_260",
+            "ASSET_GAME_TEXT_261",
+            "ASSET_GAME_TEXT_262",
+            "ASSET_GAME_TEXT_263",
+            "ASSET_GAME_TEXT_264",
+            "ASSET_GAME_TEXT_265",
+            "ASSET_GAME_TEXT_266",
+            "ASSET_GAME_TEXT_267",
+            "ASSET_GAME_TEXT_268",
+            "ASSET_GAME_TEXT_269",
+            "ASSET_GAME_TEXT_270",
+            "ASSET_GAME_TEXT_271",
+            "ASSET_GAME_TEXT_272",
+            "ASSET_GAME_TEXT_273",
+            "ASSET_GAME_TEXT_274",
+            "ASSET_GAME_TEXT_275",
+            "ASSET_GAME_TEXT_276",
+            "ASSET_GAME_TEXT_277",
+            "ASSET_GAME_TEXT_278",
+            "ASSET_GAME_TEXT_279",
+            "ASSET_GAME_TEXT_280",
+            "ASSET_GAME_TEXT_281",
+            "ASSET_GAME_TEXT_282",
+            "ASSET_GAME_TEXT_283",
+            "ASSET_GAME_TEXT_284",
+            "ASSET_GAME_TEXT_285",
+            "ASSET_GAME_TEXT_286",
+            "ASSET_GAME_TEXT_287",
+            "ASSET_GAME_TEXT_288",
+            "ASSET_GAME_TEXT_289",
+            "ASSET_GAME_TEXT_290",
+            "ASSET_GAME_TEXT_291",
+            "ASSET_GAME_TEXT_292",
+            "ASSET_GAME_TEXT_293",
+            "ASSET_GAME_TEXT_294",
+            "ASSET_GAME_TEXT_295",
+            "ASSET_GAME_TEXT_296",
+            "ASSET_GAME_TEXT_297",
+            "ASSET_GAME_TEXT_298",
+            "ASSET_GAME_TEXT_299",
+            "ASSET_GAME_TEXT_300",
+            "ASSET_GAME_TEXT_301",
+            "ASSET_GAME_TEXT_302",
+            "ASSET_GAME_TEXT_303",
+            "ASSET_GAME_TEXT_304",
+            "ASSET_GAME_TEXT_305",
+            "ASSET_GAME_TEXT_306",
+            "ASSET_GAME_TEXT_307",
+            "ASSET_GAME_TEXT_308",
+            "ASSET_GAME_TEXT_309",
+            "ASSET_GAME_TEXT_310",
+            "ASSET_GAME_TEXT_311",
+            "ASSET_GAME_TEXT_312",
+            "ASSET_GAME_TEXT_313",
+            "ASSET_GAME_TEXT_314",
+            "ASSET_GAME_TEXT_315",
+            "ASSET_GAME_TEXT_316",
+            "ASSET_GAME_TEXT_317",
+            "ASSET_GAME_TEXT_318",
+            "ASSET_GAME_TEXT_319",
+            "ASSET_GAME_TEXT_320",
+            "ASSET_GAME_TEXT_321",
+            "ASSET_GAME_TEXT_322",
+            "ASSET_GAME_TEXT_323",
+            "ASSET_GAME_TEXT_324",
+            "ASSET_GAME_TEXT_325",
+            "ASSET_GAME_TEXT_326",
+            "ASSET_GAME_TEXT_327",
+            "ASSET_GAME_TEXT_328",
+            "ASSET_GAME_TEXT_329",
+            "ASSET_GAME_TEXT_330",
+            "ASSET_GAME_TEXT_331",
+            "ASSET_GAME_TEXT_332",
+            "ASSET_GAME_TEXT_333",
+            "ASSET_GAME_TEXT_334",
+            "ASSET_GAME_TEXT_335",
+            "ASSET_GAME_TEXT_336",
+            "ASSET_GAME_TEXT_337",
+            "ASSET_GAME_TEXT_338",
+            "ASSET_GAME_TEXT_339"
+        ],
+        "sections": {
+            "ASSET_GAME_TEXT_0": {
+                "filename": "unknown/asset_game_text_0_v79.json"
+            },
+            "ASSET_GAME_TEXT_1": {
+                "filename": "unknown/asset_game_text_1.json"
+            },
+            "ASSET_GAME_TEXT_10": {
+                "filename": "unknown/asset_game_text_10.json"
+            },
+            "ASSET_GAME_TEXT_100": {
+                "filename": "unknown/asset_game_text_100.json"
+            },
+            "ASSET_GAME_TEXT_101": {
+                "filename": "unknown/asset_game_text_101.json"
+            },
+            "ASSET_GAME_TEXT_102": {
+                "filename": "unknown/asset_game_text_102.json"
+            },
+            "ASSET_GAME_TEXT_103": {
+                "filename": "unknown/asset_game_text_103.json"
+            },
+            "ASSET_GAME_TEXT_104": {
+                "filename": "unknown/asset_game_text_104.json"
+            },
+            "ASSET_GAME_TEXT_105": {
+                "filename": "unknown/asset_game_text_105.json"
+            },
+            "ASSET_GAME_TEXT_106": {
+                "filename": "unknown/asset_game_text_106.json"
+            },
+            "ASSET_GAME_TEXT_107": {
+                "filename": "unknown/asset_game_text_107.json"
+            },
+            "ASSET_GAME_TEXT_108": {
+                "filename": "unknown/asset_game_text_108.json"
+            },
+            "ASSET_GAME_TEXT_109": {
+                "filename": "unknown/asset_game_text_109.json"
+            },
+            "ASSET_GAME_TEXT_11": {
+                "filename": "unknown/asset_game_text_11.json"
+            },
+            "ASSET_GAME_TEXT_110": {
+                "filename": "unknown/asset_game_text_110.json"
+            },
+            "ASSET_GAME_TEXT_111": {
+                "filename": "unknown/asset_game_text_111.json"
+            },
+            "ASSET_GAME_TEXT_112": {
+                "filename": "unknown/asset_game_text_112.json"
+            },
+            "ASSET_GAME_TEXT_113": {
+                "filename": "unknown/asset_game_text_113.json"
+            },
+            "ASSET_GAME_TEXT_114": {
+                "filename": "unknown/asset_game_text_114.json"
+            },
+            "ASSET_GAME_TEXT_115": {
+                "filename": "unknown/asset_game_text_115.json"
+            },
+            "ASSET_GAME_TEXT_116": {
+                "filename": "unknown/asset_game_text_116.json"
+            },
+            "ASSET_GAME_TEXT_117": {
+                "filename": "unknown/asset_game_text_117.json"
+            },
+            "ASSET_GAME_TEXT_118": {
+                "filename": "unknown/asset_game_text_118.json"
+            },
+            "ASSET_GAME_TEXT_119": {
+                "filename": "unknown/asset_game_text_119.json"
+            },
+            "ASSET_GAME_TEXT_12": {
+                "filename": "unknown/asset_game_text_12.json"
+            },
+            "ASSET_GAME_TEXT_120": {
+                "filename": "unknown/asset_game_text_120.json"
+            },
+            "ASSET_GAME_TEXT_121": {
+                "filename": "unknown/asset_game_text_121.json"
+            },
+            "ASSET_GAME_TEXT_122": {
+                "filename": "unknown/asset_game_text_122.json"
+            },
+            "ASSET_GAME_TEXT_123": {
+                "filename": "unknown/asset_game_text_123.json"
+            },
+            "ASSET_GAME_TEXT_124": {
+                "filename": "unknown/asset_game_text_124.json"
+            },
+            "ASSET_GAME_TEXT_125": {
+                "filename": "unknown/asset_game_text_125.json"
+            },
+            "ASSET_GAME_TEXT_126": {
+                "filename": "unknown/asset_game_text_126.json"
+            },
+            "ASSET_GAME_TEXT_127": {
+                "filename": "unknown/asset_game_text_127.json"
+            },
+            "ASSET_GAME_TEXT_128": {
+                "filename": "unknown/asset_game_text_128.json"
+            },
+            "ASSET_GAME_TEXT_129": {
+                "filename": "unknown/asset_game_text_129.json"
+            },
+            "ASSET_GAME_TEXT_13": {
+                "filename": "unknown/asset_game_text_13.json"
+            },
+            "ASSET_GAME_TEXT_130": {
+                "filename": "unknown/asset_game_text_130.json"
+            },
+            "ASSET_GAME_TEXT_131": {
+                "filename": "unknown/asset_game_text_131.json"
+            },
+            "ASSET_GAME_TEXT_132": {
+                "filename": "unknown/asset_game_text_132.json"
+            },
+            "ASSET_GAME_TEXT_133": {
+                "filename": "unknown/asset_game_text_133.json"
+            },
+            "ASSET_GAME_TEXT_134": {
+                "filename": "unknown/asset_game_text_134.json"
+            },
+            "ASSET_GAME_TEXT_135": {
+                "filename": "unknown/asset_game_text_135.json"
+            },
+            "ASSET_GAME_TEXT_136": {
+                "filename": "unknown/asset_game_text_136.json"
+            },
+            "ASSET_GAME_TEXT_137": {
+                "filename": "unknown/asset_game_text_137.json"
+            },
+            "ASSET_GAME_TEXT_138": {
+                "filename": "unknown/asset_game_text_138.json"
+            },
+            "ASSET_GAME_TEXT_139": {
+                "filename": "unknown/asset_game_text_139.json"
+            },
+            "ASSET_GAME_TEXT_14": {
+                "filename": "unknown/asset_game_text_14.json"
+            },
+            "ASSET_GAME_TEXT_140": {
+                "filename": "unknown/asset_game_text_140.json"
+            },
+            "ASSET_GAME_TEXT_141": {
+                "filename": "unknown/asset_game_text_141.json"
+            },
+            "ASSET_GAME_TEXT_142": {
+                "filename": "unknown/asset_game_text_142.json"
+            },
+            "ASSET_GAME_TEXT_143": {
+                "filename": "unknown/asset_game_text_143.json"
+            },
+            "ASSET_GAME_TEXT_144": {
+                "filename": "unknown/asset_game_text_144.json"
+            },
+            "ASSET_GAME_TEXT_145": {
+                "filename": "unknown/asset_game_text_145.json"
+            },
+            "ASSET_GAME_TEXT_146": {
+                "filename": "unknown/asset_game_text_146.json"
+            },
+            "ASSET_GAME_TEXT_147": {
+                "filename": "unknown/asset_game_text_147.json"
+            },
+            "ASSET_GAME_TEXT_148": {
+                "filename": "unknown/asset_game_text_148.json"
+            },
+            "ASSET_GAME_TEXT_149": {
+                "filename": "unknown/asset_game_text_149.json"
+            },
+            "ASSET_GAME_TEXT_15": {
+                "filename": "unknown/asset_game_text_15.json"
+            },
+            "ASSET_GAME_TEXT_150": {
+                "filename": "unknown/asset_game_text_150.json"
+            },
+            "ASSET_GAME_TEXT_151": {
+                "filename": "unknown/asset_game_text_151.json"
+            },
+            "ASSET_GAME_TEXT_152": {
+                "filename": "unknown/asset_game_text_152.json"
+            },
+            "ASSET_GAME_TEXT_153": {
+                "filename": "unknown/asset_game_text_153.json"
+            },
+            "ASSET_GAME_TEXT_154": {
+                "filename": "unknown/asset_game_text_154.json"
+            },
+            "ASSET_GAME_TEXT_155": {
+                "filename": "unknown/asset_game_text_155.json"
+            },
+            "ASSET_GAME_TEXT_156": {
+                "filename": "unknown/asset_game_text_156.json"
+            },
+            "ASSET_GAME_TEXT_157": {
+                "filename": "unknown/asset_game_text_157.json"
+            },
+            "ASSET_GAME_TEXT_158": {
+                "filename": "unknown/asset_game_text_158.json"
+            },
+            "ASSET_GAME_TEXT_159": {
+                "filename": "unknown/asset_game_text_159.json"
+            },
+            "ASSET_GAME_TEXT_16": {
+                "filename": "unknown/asset_game_text_16.json"
+            },
+            "ASSET_GAME_TEXT_160": {
+                "filename": "unknown/asset_game_text_160.json"
+            },
+            "ASSET_GAME_TEXT_161": {
+                "filename": "unknown/asset_game_text_161.json"
+            },
+            "ASSET_GAME_TEXT_162": {
+                "filename": "unknown/asset_game_text_162.json"
+            },
+            "ASSET_GAME_TEXT_163": {
+                "filename": "unknown/asset_game_text_163.json"
+            },
+            "ASSET_GAME_TEXT_164": {
+                "filename": "unknown/asset_game_text_164.json"
+            },
+            "ASSET_GAME_TEXT_165": {
+                "filename": "unknown/asset_game_text_165.json"
+            },
+            "ASSET_GAME_TEXT_166": {
+                "filename": "unknown/asset_game_text_166.json"
+            },
+            "ASSET_GAME_TEXT_167": {
+                "filename": "unknown/asset_game_text_167.json"
+            },
+            "ASSET_GAME_TEXT_168": {
+                "filename": "unknown/asset_game_text_168.json"
+            },
+            "ASSET_GAME_TEXT_169": {
+                "filename": "unknown/asset_game_text_169.json"
+            },
+            "ASSET_GAME_TEXT_17": {
+                "filename": "unknown/asset_game_text_17.json"
+            },
+            "ASSET_GAME_TEXT_170": {
+                "filename": "unknown/asset_game_text_170.json"
+            },
+            "ASSET_GAME_TEXT_171": {
+                "filename": "unknown/asset_game_text_171.json"
+            },
+            "ASSET_GAME_TEXT_172": {
+                "filename": "unknown/asset_game_text_172.json"
+            },
+            "ASSET_GAME_TEXT_173": {
+                "filename": "unknown/asset_game_text_173.json"
+            },
+            "ASSET_GAME_TEXT_174": {
+                "filename": "unknown/asset_game_text_174.json"
+            },
+            "ASSET_GAME_TEXT_175": {
+                "filename": "unknown/asset_game_text_175.json"
+            },
+            "ASSET_GAME_TEXT_176": {
+                "filename": "unknown/asset_game_text_176.json"
+            },
+            "ASSET_GAME_TEXT_177": {
+                "filename": "unknown/asset_game_text_177.json"
+            },
+            "ASSET_GAME_TEXT_178": {
+                "filename": "unknown/asset_game_text_178.json"
+            },
+            "ASSET_GAME_TEXT_179": {
+                "filename": "unknown/asset_game_text_179.json"
+            },
+            "ASSET_GAME_TEXT_18": {
+                "filename": "unknown/asset_game_text_18.json"
+            },
+            "ASSET_GAME_TEXT_180": {
+                "filename": "unknown/asset_game_text_180.json"
+            },
+            "ASSET_GAME_TEXT_181": {
+                "filename": "unknown/asset_game_text_181.json"
+            },
+            "ASSET_GAME_TEXT_182": {
+                "filename": "unknown/asset_game_text_182.json"
+            },
+            "ASSET_GAME_TEXT_183": {
+                "filename": "unknown/asset_game_text_183.json"
+            },
+            "ASSET_GAME_TEXT_184": {
+                "filename": "unknown/asset_game_text_184.json"
+            },
+            "ASSET_GAME_TEXT_185": {
+                "filename": "unknown/asset_game_text_185.json"
+            },
+            "ASSET_GAME_TEXT_186": {
+                "filename": "unknown/asset_game_text_186.json"
+            },
+            "ASSET_GAME_TEXT_187": {
+                "filename": "unknown/asset_game_text_187.json"
+            },
+            "ASSET_GAME_TEXT_188": {
+                "filename": "unknown/asset_game_text_188.json"
+            },
+            "ASSET_GAME_TEXT_189": {
+                "filename": "unknown/asset_game_text_189.json"
+            },
+            "ASSET_GAME_TEXT_19": {
+                "filename": "unknown/asset_game_text_19.json"
+            },
+            "ASSET_GAME_TEXT_190": {
+                "filename": "unknown/asset_game_text_190.json"
+            },
+            "ASSET_GAME_TEXT_191": {
+                "filename": "unknown/asset_game_text_191.json"
+            },
+            "ASSET_GAME_TEXT_192": {
+                "filename": "unknown/asset_game_text_192.json"
+            },
+            "ASSET_GAME_TEXT_193": {
+                "filename": "unknown/asset_game_text_193.json"
+            },
+            "ASSET_GAME_TEXT_194": {
+                "filename": "unknown/asset_game_text_194.json"
+            },
+            "ASSET_GAME_TEXT_195": {
+                "filename": "unknown/asset_game_text_195.json"
+            },
+            "ASSET_GAME_TEXT_196": {
+                "filename": "unknown/asset_game_text_196.json"
+            },
+            "ASSET_GAME_TEXT_197": {
+                "filename": "unknown/asset_game_text_197.json"
+            },
+            "ASSET_GAME_TEXT_198": {
+                "filename": "unknown/asset_game_text_198.json"
+            },
+            "ASSET_GAME_TEXT_199": {
+                "filename": "unknown/asset_game_text_199.json"
+            },
+            "ASSET_GAME_TEXT_2": {
+                "filename": "unknown/asset_game_text_2.json"
+            },
+            "ASSET_GAME_TEXT_20": {
+                "filename": "unknown/asset_game_text_20.json"
+            },
+            "ASSET_GAME_TEXT_200": {
+                "filename": "unknown/asset_game_text_200.json"
+            },
+            "ASSET_GAME_TEXT_201": {
+                "filename": "unknown/asset_game_text_201.json"
+            },
+            "ASSET_GAME_TEXT_202": {
+                "filename": "unknown/asset_game_text_202.json"
+            },
+            "ASSET_GAME_TEXT_203": {
+                "filename": "unknown/asset_game_text_203.json"
+            },
+            "ASSET_GAME_TEXT_204": {
+                "filename": "unknown/asset_game_text_204.json"
+            },
+            "ASSET_GAME_TEXT_205": {
+                "filename": "unknown/asset_game_text_205.json"
+            },
+            "ASSET_GAME_TEXT_206": {
+                "filename": "unknown/asset_game_text_206.json"
+            },
+            "ASSET_GAME_TEXT_207": {
+                "filename": "unknown/asset_game_text_207.json"
+            },
+            "ASSET_GAME_TEXT_208": {
+                "filename": "unknown/asset_game_text_208.json"
+            },
+            "ASSET_GAME_TEXT_209": {
+                "filename": "unknown/asset_game_text_209.json"
+            },
+            "ASSET_GAME_TEXT_21": {
+                "filename": "unknown/asset_game_text_21.json"
+            },
+            "ASSET_GAME_TEXT_210": {
+                "filename": "unknown/asset_game_text_210.json"
+            },
+            "ASSET_GAME_TEXT_211": {
+                "filename": "unknown/asset_game_text_211.json"
+            },
+            "ASSET_GAME_TEXT_212": {
+                "filename": "unknown/asset_game_text_212.json"
+            },
+            "ASSET_GAME_TEXT_213": {
+                "filename": "unknown/asset_game_text_213.json"
+            },
+            "ASSET_GAME_TEXT_214": {
+                "filename": "unknown/asset_game_text_214.json"
+            },
+            "ASSET_GAME_TEXT_215": {
+                "filename": "unknown/asset_game_text_215.json"
+            },
+            "ASSET_GAME_TEXT_216": {
+                "filename": "unknown/asset_game_text_216.json"
+            },
+            "ASSET_GAME_TEXT_217": {
+                "filename": "unknown/asset_game_text_217.json"
+            },
+            "ASSET_GAME_TEXT_218": {
+                "filename": "unknown/asset_game_text_218.json"
+            },
+            "ASSET_GAME_TEXT_219": {
+                "filename": "unknown/asset_game_text_219.json"
+            },
+            "ASSET_GAME_TEXT_22": {
+                "filename": "unknown/asset_game_text_22.json"
+            },
+            "ASSET_GAME_TEXT_220": {
+                "filename": "unknown/asset_game_text_220.json"
+            },
+            "ASSET_GAME_TEXT_221": {
+                "filename": "unknown/asset_game_text_221.json"
+            },
+            "ASSET_GAME_TEXT_222": {
+                "filename": "unknown/asset_game_text_222.json"
+            },
+            "ASSET_GAME_TEXT_223": {
+                "filename": "unknown/asset_game_text_223.json"
+            },
+            "ASSET_GAME_TEXT_224": {
+                "filename": "unknown/asset_game_text_224.json"
+            },
+            "ASSET_GAME_TEXT_225": {
+                "filename": "unknown/asset_game_text_225.json"
+            },
+            "ASSET_GAME_TEXT_226": {
+                "filename": "unknown/asset_game_text_226.json"
+            },
+            "ASSET_GAME_TEXT_227": {
+                "filename": "unknown/asset_game_text_227.json"
+            },
+            "ASSET_GAME_TEXT_228": {
+                "filename": "unknown/asset_game_text_228.json"
+            },
+            "ASSET_GAME_TEXT_229": {
+                "filename": "unknown/asset_game_text_229.json"
+            },
+            "ASSET_GAME_TEXT_23": {
+                "filename": "unknown/asset_game_text_23.json"
+            },
+            "ASSET_GAME_TEXT_230": {
+                "filename": "unknown/asset_game_text_230.json"
+            },
+            "ASSET_GAME_TEXT_231": {
+                "filename": "unknown/asset_game_text_231.json"
+            },
+            "ASSET_GAME_TEXT_232": {
+                "filename": "unknown/asset_game_text_232.json"
+            },
+            "ASSET_GAME_TEXT_233": {
+                "filename": "unknown/asset_game_text_233.json"
+            },
+            "ASSET_GAME_TEXT_234": {
+                "filename": "unknown/asset_game_text_234.json"
+            },
+            "ASSET_GAME_TEXT_235": {
+                "filename": "unknown/asset_game_text_235.json"
+            },
+            "ASSET_GAME_TEXT_236": {
+                "filename": "unknown/asset_game_text_236.json"
+            },
+            "ASSET_GAME_TEXT_237": {
+                "filename": "unknown/asset_game_text_237.json"
+            },
+            "ASSET_GAME_TEXT_238": {
+                "filename": "unknown/asset_game_text_238.json"
+            },
+            "ASSET_GAME_TEXT_239": {
+                "filename": "unknown/asset_game_text_239.json"
+            },
+            "ASSET_GAME_TEXT_24": {
+                "filename": "unknown/asset_game_text_24.json"
+            },
+            "ASSET_GAME_TEXT_240": {
+                "filename": "unknown/asset_game_text_240.json"
+            },
+            "ASSET_GAME_TEXT_241": {
+                "filename": "unknown/asset_game_text_241.json"
+            },
+            "ASSET_GAME_TEXT_242": {
+                "filename": "unknown/asset_game_text_242.json"
+            },
+            "ASSET_GAME_TEXT_243": {
+                "filename": "unknown/asset_game_text_243.json"
+            },
+            "ASSET_GAME_TEXT_244": {
+                "filename": "unknown/asset_game_text_244.json"
+            },
+            "ASSET_GAME_TEXT_245": {
+                "filename": "unknown/asset_game_text_245.json"
+            },
+            "ASSET_GAME_TEXT_246": {
+                "filename": "unknown/asset_game_text_246.json"
+            },
+            "ASSET_GAME_TEXT_247": {
+                "filename": "unknown/asset_game_text_247.json"
+            },
+            "ASSET_GAME_TEXT_248": {
+                "filename": "unknown/asset_game_text_248.json"
+            },
+            "ASSET_GAME_TEXT_249": {
+                "filename": "unknown/asset_game_text_249.json"
+            },
+            "ASSET_GAME_TEXT_25": {
+                "filename": "unknown/asset_game_text_25.json"
+            },
+            "ASSET_GAME_TEXT_250": {
+                "filename": "unknown/asset_game_text_250.json"
+            },
+            "ASSET_GAME_TEXT_251": {
+                "filename": "unknown/asset_game_text_251.json"
+            },
+            "ASSET_GAME_TEXT_252": {
+                "filename": "unknown/asset_game_text_252.json"
+            },
+            "ASSET_GAME_TEXT_253": {
+                "filename": "unknown/asset_game_text_253.json"
+            },
+            "ASSET_GAME_TEXT_254": {
+                "filename": "unknown/asset_game_text_254.json"
+            },
+            "ASSET_GAME_TEXT_255": {
+                "filename": "unknown/asset_game_text_255_v79.json"
+            },
+            "ASSET_GAME_TEXT_256": {
+                "filename": "unknown/asset_game_text_256_v79.json"
+            },
+            "ASSET_GAME_TEXT_257": {
+                "filename": "unknown/asset_game_text_257_v79.json"
+            },
+            "ASSET_GAME_TEXT_258": {
+                "filename": "unknown/asset_game_text_258_v79.json"
+            },
+            "ASSET_GAME_TEXT_259": {
+                "filename": "unknown/asset_game_text_259_v79.json"
+            },
+            "ASSET_GAME_TEXT_26": {
+                "filename": "unknown/asset_game_text_26.json"
+            },
+            "ASSET_GAME_TEXT_260": {
+                "filename": "unknown/asset_game_text_260_v79.json"
+            },
+            "ASSET_GAME_TEXT_261": {
+                "filename": "unknown/asset_game_text_261_v79.json"
+            },
+            "ASSET_GAME_TEXT_262": {
+                "filename": "unknown/asset_game_text_262_v79.json"
+            },
+            "ASSET_GAME_TEXT_263": {
+                "filename": "unknown/asset_game_text_263_v79.json"
+            },
+            "ASSET_GAME_TEXT_264": {
+                "filename": "unknown/asset_game_text_264_v79.json"
+            },
+            "ASSET_GAME_TEXT_265": {
+                "filename": "unknown/asset_game_text_265_v79.json"
+            },
+            "ASSET_GAME_TEXT_266": {
+                "filename": "unknown/asset_game_text_266_v79.json"
+            },
+            "ASSET_GAME_TEXT_267": {
+                "filename": "unknown/asset_game_text_267_v79.json"
+            },
+            "ASSET_GAME_TEXT_268": {
+                "filename": "unknown/asset_game_text_268_v79.json"
+            },
+            "ASSET_GAME_TEXT_269": {
+                "filename": "unknown/asset_game_text_269_v79.json"
+            },
+            "ASSET_GAME_TEXT_27": {
+                "filename": "unknown/asset_game_text_27.json"
+            },
+            "ASSET_GAME_TEXT_270": {
+                "filename": "unknown/asset_game_text_270_v79.json"
+            },
+            "ASSET_GAME_TEXT_271": {
+                "filename": "unknown/asset_game_text_271_v79.json"
+            },
+            "ASSET_GAME_TEXT_272": {
+                "filename": "unknown/asset_game_text_272_v79.json"
+            },
+            "ASSET_GAME_TEXT_273": {
+                "filename": "unknown/asset_game_text_273_v79.json"
+            },
+            "ASSET_GAME_TEXT_274": {
+                "filename": "unknown/asset_game_text_274_v79.json"
+            },
+            "ASSET_GAME_TEXT_275": {
+                "filename": "unknown/asset_game_text_275_v79.json"
+            },
+            "ASSET_GAME_TEXT_276": {
+                "filename": "unknown/asset_game_text_276_v79.json"
+            },
+            "ASSET_GAME_TEXT_277": {
+                "filename": "unknown/asset_game_text_277_v79.json"
+            },
+            "ASSET_GAME_TEXT_278": {
+                "filename": "unknown/asset_game_text_278_v79.json"
+            },
+            "ASSET_GAME_TEXT_279": {
+                "filename": "unknown/asset_game_text_279_v79.json"
+            },
+            "ASSET_GAME_TEXT_28": {
+                "filename": "unknown/asset_game_text_28.json"
+            },
+            "ASSET_GAME_TEXT_280": {
+                "filename": "unknown/asset_game_text_280_v79.json"
+            },
+            "ASSET_GAME_TEXT_281": {
+                "filename": "unknown/asset_game_text_281_v79.json"
+            },
+            "ASSET_GAME_TEXT_282": {
+                "filename": "unknown/asset_game_text_282_v79.json"
+            },
+            "ASSET_GAME_TEXT_283": {
+                "filename": "unknown/asset_game_text_283_v79.json"
+            },
+            "ASSET_GAME_TEXT_284": {
+                "filename": "unknown/asset_game_text_284_v79.json"
+            },
+            "ASSET_GAME_TEXT_285": {
+                "filename": "unknown/asset_game_text_285_v79.json"
+            },
+            "ASSET_GAME_TEXT_286": {
+                "filename": "unknown/asset_game_text_286_v79.json"
+            },
+            "ASSET_GAME_TEXT_287": {
+                "filename": "unknown/asset_game_text_287_v79.json"
+            },
+            "ASSET_GAME_TEXT_288": {
+                "filename": "unknown/asset_game_text_288_v79.json"
+            },
+            "ASSET_GAME_TEXT_289": {
+                "filename": "unknown/asset_game_text_289_v79.json"
+            },
+            "ASSET_GAME_TEXT_29": {
+                "filename": "unknown/asset_game_text_29.json"
+            },
+            "ASSET_GAME_TEXT_290": {
+                "filename": "unknown/asset_game_text_290_v79.json"
+            },
+            "ASSET_GAME_TEXT_291": {
+                "filename": "unknown/asset_game_text_291_v79.json"
+            },
+            "ASSET_GAME_TEXT_292": {
+                "filename": "unknown/asset_game_text_292_v79.json"
+            },
+            "ASSET_GAME_TEXT_293": {
+                "filename": "unknown/asset_game_text_293_v79.json"
+            },
+            "ASSET_GAME_TEXT_294": {
+                "filename": "unknown/asset_game_text_294_v79.json"
+            },
+            "ASSET_GAME_TEXT_295": {
+                "filename": "unknown/asset_game_text_295_v79.json"
+            },
+            "ASSET_GAME_TEXT_296": {
+                "filename": "unknown/asset_game_text_296_v79.json"
+            },
+            "ASSET_GAME_TEXT_297": {
+                "filename": "unknown/asset_game_text_297_v79.json"
+            },
+            "ASSET_GAME_TEXT_298": {
+                "filename": "unknown/asset_game_text_298_v79.json"
+            },
+            "ASSET_GAME_TEXT_299": {
+                "filename": "unknown/asset_game_text_299_v79.json"
+            },
+            "ASSET_GAME_TEXT_3": {
+                "filename": "unknown/asset_game_text_3.json"
+            },
+            "ASSET_GAME_TEXT_30": {
+                "filename": "unknown/asset_game_text_30.json"
+            },
+            "ASSET_GAME_TEXT_300": {
+                "filename": "unknown/asset_game_text_300_v79.json"
+            },
+            "ASSET_GAME_TEXT_301": {
+                "filename": "unknown/asset_game_text_301_v79.json"
+            },
+            "ASSET_GAME_TEXT_302": {
+                "filename": "unknown/asset_game_text_302_v79.json"
+            },
+            "ASSET_GAME_TEXT_303": {
+                "filename": "unknown/asset_game_text_303_v79.json"
+            },
+            "ASSET_GAME_TEXT_304": {
+                "filename": "unknown/asset_game_text_304_v79.json"
+            },
+            "ASSET_GAME_TEXT_305": {
+                "filename": "unknown/asset_game_text_305_v79.json"
+            },
+            "ASSET_GAME_TEXT_306": {
+                "filename": "unknown/asset_game_text_306_v79.json"
+            },
+            "ASSET_GAME_TEXT_307": {
+                "filename": "unknown/asset_game_text_307_v79.json"
+            },
+            "ASSET_GAME_TEXT_308": {
+                "filename": "unknown/asset_game_text_308_v79.json"
+            },
+            "ASSET_GAME_TEXT_309": {
+                "filename": "unknown/asset_game_text_309_v79.json"
+            },
+            "ASSET_GAME_TEXT_31": {
+                "filename": "unknown/asset_game_text_31.json"
+            },
+            "ASSET_GAME_TEXT_310": {
+                "filename": "unknown/asset_game_text_310_v79.json"
+            },
+            "ASSET_GAME_TEXT_311": {
+                "filename": "unknown/asset_game_text_311_v79.json"
+            },
+            "ASSET_GAME_TEXT_312": {
+                "filename": "unknown/asset_game_text_312_v79.json"
+            },
+            "ASSET_GAME_TEXT_313": {
+                "filename": "unknown/asset_game_text_313_v79.json"
+            },
+            "ASSET_GAME_TEXT_314": {
+                "filename": "unknown/asset_game_text_314_v79.json"
+            },
+            "ASSET_GAME_TEXT_315": {
+                "filename": "unknown/asset_game_text_315_v79.json"
+            },
+            "ASSET_GAME_TEXT_316": {
+                "filename": "unknown/asset_game_text_316_v79.json"
+            },
+            "ASSET_GAME_TEXT_317": {
+                "filename": "unknown/asset_game_text_317_v79.json"
+            },
+            "ASSET_GAME_TEXT_318": {
+                "filename": "unknown/asset_game_text_318_v79.json"
+            },
+            "ASSET_GAME_TEXT_319": {
+                "filename": "unknown/asset_game_text_319_v79.json"
+            },
+            "ASSET_GAME_TEXT_32": {
+                "filename": "unknown/asset_game_text_32.json"
+            },
+            "ASSET_GAME_TEXT_320": {
+                "filename": "unknown/asset_game_text_320_v79.json"
+            },
+            "ASSET_GAME_TEXT_321": {
+                "filename": "unknown/asset_game_text_321_v79.json"
+            },
+            "ASSET_GAME_TEXT_322": {
+                "filename": "unknown/asset_game_text_322_v79.json"
+            },
+            "ASSET_GAME_TEXT_323": {
+                "filename": "unknown/asset_game_text_323_v79.json"
+            },
+            "ASSET_GAME_TEXT_324": {
+                "filename": "unknown/asset_game_text_324_v79.json"
+            },
+            "ASSET_GAME_TEXT_325": {
+                "filename": "unknown/asset_game_text_325_v79.json"
+            },
+            "ASSET_GAME_TEXT_326": {
+                "filename": "unknown/asset_game_text_326_v79.json"
+            },
+            "ASSET_GAME_TEXT_327": {
+                "filename": "unknown/asset_game_text_327_v79.json"
+            },
+            "ASSET_GAME_TEXT_328": {
+                "filename": "unknown/asset_game_text_328_v79.json"
+            },
+            "ASSET_GAME_TEXT_329": {
+                "filename": "unknown/asset_game_text_329_v79.json"
+            },
+            "ASSET_GAME_TEXT_33": {
+                "filename": "unknown/asset_game_text_33.json"
+            },
+            "ASSET_GAME_TEXT_330": {
+                "filename": "unknown/asset_game_text_330_v79.json"
+            },
+            "ASSET_GAME_TEXT_331": {
+                "filename": "unknown/asset_game_text_331_v79.json"
+            },
+            "ASSET_GAME_TEXT_332": {
+                "filename": "unknown/asset_game_text_332_v79.json"
+            },
+            "ASSET_GAME_TEXT_333": {
+                "filename": "unknown/asset_game_text_333_v79.json"
+            },
+            "ASSET_GAME_TEXT_334": {
+                "filename": "unknown/asset_game_text_334_v79.json"
+            },
+            "ASSET_GAME_TEXT_335": {
+                "filename": "unknown/asset_game_text_335_v79.json"
+            },
+            "ASSET_GAME_TEXT_336": {
+                "filename": "unknown/asset_game_text_336_v79.json"
+            },
+            "ASSET_GAME_TEXT_337": {
+                "filename": "unknown/asset_game_text_337_v79.json"
+            },
+            "ASSET_GAME_TEXT_338": {
+                "filename": "unknown/asset_game_text_338_v79.json"
+            },
+            "ASSET_GAME_TEXT_339": {
+                "filename": "unknown/asset_game_text_339_v79.json"
+            },
+            "ASSET_GAME_TEXT_34": {
+                "filename": "unknown/asset_game_text_34.json"
+            },
+            "ASSET_GAME_TEXT_35": {
+                "filename": "unknown/asset_game_text_35.json"
+            },
+            "ASSET_GAME_TEXT_36": {
+                "filename": "unknown/asset_game_text_36.json"
+            },
+            "ASSET_GAME_TEXT_37": {
+                "filename": "unknown/asset_game_text_37.json"
+            },
+            "ASSET_GAME_TEXT_38": {
+                "filename": "unknown/asset_game_text_38.json"
+            },
+            "ASSET_GAME_TEXT_39": {
+                "filename": "unknown/asset_game_text_39.json"
+            },
+            "ASSET_GAME_TEXT_4": {
+                "filename": "unknown/asset_game_text_4.json"
+            },
+            "ASSET_GAME_TEXT_40": {
+                "filename": "unknown/asset_game_text_40.json"
+            },
+            "ASSET_GAME_TEXT_41": {
+                "filename": "unknown/asset_game_text_41.json"
+            },
+            "ASSET_GAME_TEXT_42": {
+                "filename": "unknown/asset_game_text_42.json"
+            },
+            "ASSET_GAME_TEXT_43": {
+                "filename": "unknown/asset_game_text_43.json"
+            },
+            "ASSET_GAME_TEXT_44": {
+                "filename": "unknown/asset_game_text_44.json"
+            },
+            "ASSET_GAME_TEXT_45": {
+                "filename": "unknown/asset_game_text_45.json"
+            },
+            "ASSET_GAME_TEXT_46": {
+                "filename": "unknown/asset_game_text_46.json"
+            },
+            "ASSET_GAME_TEXT_47": {
+                "filename": "unknown/asset_game_text_47.json"
+            },
+            "ASSET_GAME_TEXT_48": {
+                "filename": "unknown/asset_game_text_48.json"
+            },
+            "ASSET_GAME_TEXT_49": {
+                "filename": "unknown/asset_game_text_49.json"
+            },
+            "ASSET_GAME_TEXT_5": {
+                "filename": "unknown/asset_game_text_5.json"
+            },
+            "ASSET_GAME_TEXT_50": {
+                "filename": "unknown/asset_game_text_50_v79.json"
+            },
+            "ASSET_GAME_TEXT_51": {
+                "filename": "unknown/asset_game_text_51.json"
+            },
+            "ASSET_GAME_TEXT_52": {
+                "filename": "unknown/asset_game_text_52_v79.json"
+            },
+            "ASSET_GAME_TEXT_53": {
+                "filename": "unknown/asset_game_text_53.json"
+            },
+            "ASSET_GAME_TEXT_54": {
+                "filename": "unknown/asset_game_text_54.json"
+            },
+            "ASSET_GAME_TEXT_55": {
+                "filename": "unknown/asset_game_text_55.json"
+            },
+            "ASSET_GAME_TEXT_56": {
+                "filename": "unknown/asset_game_text_56.json"
+            },
+            "ASSET_GAME_TEXT_57": {
+                "filename": "unknown/asset_game_text_57.json"
+            },
+            "ASSET_GAME_TEXT_58": {
+                "filename": "unknown/asset_game_text_58.json"
+            },
+            "ASSET_GAME_TEXT_59": {
+                "filename": "unknown/asset_game_text_59.json"
+            },
+            "ASSET_GAME_TEXT_6": {
+                "filename": "unknown/asset_game_text_6.json"
+            },
+            "ASSET_GAME_TEXT_60": {
+                "filename": "unknown/asset_game_text_60.json"
+            },
+            "ASSET_GAME_TEXT_61": {
+                "filename": "unknown/asset_game_text_61.json"
+            },
+            "ASSET_GAME_TEXT_62": {
+                "filename": "unknown/asset_game_text_62.json"
+            },
+            "ASSET_GAME_TEXT_63": {
+                "filename": "unknown/asset_game_text_63.json"
+            },
+            "ASSET_GAME_TEXT_64": {
+                "filename": "unknown/asset_game_text_64.json"
+            },
+            "ASSET_GAME_TEXT_65": {
+                "filename": "unknown/asset_game_text_65.json"
+            },
+            "ASSET_GAME_TEXT_66": {
+                "filename": "unknown/asset_game_text_66.json"
+            },
+            "ASSET_GAME_TEXT_67": {
+                "filename": "unknown/asset_game_text_67.json"
+            },
+            "ASSET_GAME_TEXT_68": {
+                "filename": "unknown/asset_game_text_68.json"
+            },
+            "ASSET_GAME_TEXT_69": {
+                "filename": "unknown/asset_game_text_69_v79.json"
+            },
+            "ASSET_GAME_TEXT_7": {
+                "filename": "unknown/asset_game_text_7.json"
+            },
+            "ASSET_GAME_TEXT_70": {
+                "filename": "unknown/asset_game_text_70.json"
+            },
+            "ASSET_GAME_TEXT_71": {
+                "filename": "unknown/asset_game_text_71.json"
+            },
+            "ASSET_GAME_TEXT_72": {
+                "filename": "unknown/asset_game_text_72.json"
+            },
+            "ASSET_GAME_TEXT_73": {
+                "filename": "unknown/asset_game_text_73.json"
+            },
+            "ASSET_GAME_TEXT_74": {
+                "filename": "unknown/asset_game_text_74.json"
+            },
+            "ASSET_GAME_TEXT_75": {
+                "filename": "unknown/asset_game_text_75.json"
+            },
+            "ASSET_GAME_TEXT_76": {
+                "filename": "unknown/asset_game_text_76.json"
+            },
+            "ASSET_GAME_TEXT_77": {
+                "filename": "unknown/asset_game_text_77.json"
+            },
+            "ASSET_GAME_TEXT_78": {
+                "filename": "unknown/asset_game_text_78.json"
+            },
+            "ASSET_GAME_TEXT_79": {
+                "filename": "unknown/asset_game_text_79.json"
+            },
+            "ASSET_GAME_TEXT_8": {
+                "filename": "unknown/asset_game_text_8.json"
+            },
+            "ASSET_GAME_TEXT_80": {
+                "filename": "unknown/asset_game_text_80.json"
+            },
+            "ASSET_GAME_TEXT_81": {
+                "filename": "unknown/asset_game_text_81.json"
+            },
+            "ASSET_GAME_TEXT_82": {
+                "filename": "unknown/asset_game_text_82.json"
+            },
+            "ASSET_GAME_TEXT_83": {
+                "filename": "unknown/asset_game_text_83.json"
+            },
+            "ASSET_GAME_TEXT_84": {
+                "filename": "unknown/asset_game_text_84.json"
+            },
+            "ASSET_GAME_TEXT_85": {
+                "filename": "unknown/asset_game_text_85.json"
+            },
+            "ASSET_GAME_TEXT_86": {
+                "filename": "unknown/asset_game_text_86.json"
+            },
+            "ASSET_GAME_TEXT_87": {
+                "filename": "unknown/asset_game_text_87.json"
+            },
+            "ASSET_GAME_TEXT_88": {
+                "filename": "unknown/asset_game_text_88.json"
+            },
+            "ASSET_GAME_TEXT_89": {
+                "filename": "unknown/asset_game_text_89.json"
+            },
+            "ASSET_GAME_TEXT_9": {
+                "filename": "unknown/asset_game_text_9.json"
+            },
+            "ASSET_GAME_TEXT_90": {
+                "filename": "unknown/asset_game_text_90.json"
+            },
+            "ASSET_GAME_TEXT_91": {
+                "filename": "unknown/asset_game_text_91.json"
+            },
+            "ASSET_GAME_TEXT_92": {
+                "filename": "unknown/asset_game_text_92.json"
+            },
+            "ASSET_GAME_TEXT_93": {
+                "filename": "unknown/asset_game_text_93.json"
+            },
+            "ASSET_GAME_TEXT_94": {
+                "filename": "unknown/asset_game_text_94.json"
+            },
+            "ASSET_GAME_TEXT_95": {
+                "filename": "unknown/asset_game_text_95.json"
+            },
+            "ASSET_GAME_TEXT_96": {
+                "filename": "unknown/asset_game_text_96.json"
+            },
+            "ASSET_GAME_TEXT_97": {
+                "filename": "unknown/asset_game_text_97.json"
+            },
+            "ASSET_GAME_TEXT_98": {
+                "filename": "unknown/asset_game_text_98.json"
+            },
+            "ASSET_GAME_TEXT_99": {
+                "filename": "unknown/asset_game_text_99.json"
+            }
+        }
+    },
+    "folder": "text/game",
+    "type": "GameText"
+}

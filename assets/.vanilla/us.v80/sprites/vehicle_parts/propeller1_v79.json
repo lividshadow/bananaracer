@@ -1,0 +1,24 @@
+{
+    "frame-tex-count": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "start-texture": "ASSET_TEX2D_VEHICLE_PARTS_PROPELLER1_0",
+    "type": "Sprite",
+    "unk4": 32,
+    "unk6": 18
+}

@@ -1,0 +1,19 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 2.133,
+    "images": [
+        "conker_eyes_0.png",
+        "conker_eyes_1.png",
+        "conker_eyes_2.png",
+        "conker_eyes_3.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

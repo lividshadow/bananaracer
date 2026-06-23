@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "format": "RGBA32",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "place_number_suffixes_0.png",
+        "place_number_suffixes_1.png",
+        "place_number_suffixes_2.png",
+        "place_number_suffixes_3.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

@@ -1,0 +1,65 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 210,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "Text",
+                "value": "ACCES INTERDIT!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOUS DEVEZ RECUPERER"
+            },
+            {
+                "command": "Text",
+                "value": "TOUTES LES PIECES DE"
+            },
+            {
+                "command": "Text",
+                "value": "L'AMULETTE DE T.T."
+            },
+            {
+                "command": "Text",
+                "value": "ET 47 BALLONS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "ENSUITE VOUS POURREZ"
+            },
+            {
+                "command": "Text",
+                "value": "OUVRIR CETTE PORTE."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "CONTINUEZ A FAIRE"
+            },
+            {
+                "command": "Text",
+                "value": "DES COURSES."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

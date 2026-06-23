@@ -1,0 +1,60 @@
+{
+    "behavior": "BHV_ANIMATED_OBJECT",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0008"
+    ],
+    "internal-name": "GoldTrophy",
+    "junk-data": [
+        0,
+        0,
+        1,
+        30
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_GOLDTROPHY"
+    ],
+    "scale": 0.25,
+    "shade-ambient": 1.9900000095367432,
+    "shade-angle-y": -7772,
+    "shade-angle-z": 15524,
+    "shade-brightness": 0.4880000054836273,
+    "shadow-group": 0,
+    "shadow-scale": 4.5,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 16,
+        "unk38": 61,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 0,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 0,
+        "unk5C": 0,
+        "unk5D": 0,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "water-effect-group": 0
+}

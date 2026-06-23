@@ -1,0 +1,105 @@
+{
+    "behavior": "BHV_ANIMATED_OBJECT",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008"
+    ],
+    "internal-name": "MagicCarpet",
+    "junk-data": [
+        29,
+        2,
+        0,
+        12
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_MAGICCARPET"
+    ],
+    "particles": [
+        {
+            "arg1": 45,
+            "arg2": 42,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 45,
+            "arg2": 42,
+            "arg3": 0,
+            "arg4": -2,
+            "arg5": 19
+        },
+        {
+            "arg1": 45,
+            "arg2": 42,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 41,
+            "arg2": 42,
+            "arg3": 0,
+            "arg4": -3,
+            "arg5": 0
+        },
+        {
+            "arg1": 21,
+            "arg2": 16,
+            "arg3": -49,
+            "arg4": -1,
+            "arg5": 0
+        },
+        {
+            "arg1": 21,
+            "arg2": 16,
+            "arg3": 55,
+            "arg4": -1,
+            "arg5": 2
+        }
+    ],
+    "scale": 0.6000000238418579,
+    "shade-ambient": 1.9900000095367432,
+    "shade-angle-y": -7380,
+    "shade-angle-z": -12,
+    "shade-brightness": 0.4000000059604645,
+    "shadow-group": 2,
+    "shadow-scale": 5.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 11,
+        "unk38": 227,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 0,
+        "unk5C": 0,
+        "unk5D": 0,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 0.0
+    },
+    "water-effect-group": 0
+}

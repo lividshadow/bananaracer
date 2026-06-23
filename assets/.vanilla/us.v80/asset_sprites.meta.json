@@ -1,0 +1,782 @@
+{
+    "files": {
+        "order": [
+            "ASSET_SPRITE_MINIMAP_FOSSILCANYON",
+            "ASSET_SPRITE_MINIMAP_ANCIENTLAKE",
+            "ASSET_SPRITE_MINIMAP_PIRATELAGOON",
+            "ASSET_SPRITE_MINIMAP_WHALEBAY",
+            "ASSET_SPRITE_MINIMAP_SNOWBALLVALLEY",
+            "ASSET_SPRITE_MINIMAP_HOTTOPVOLCANO",
+            "ASSET_SPRITE_MINIMAP_CRESCENTISLAND",
+            "ASSET_SPRITE_MINIMAP_UNUSED",
+            "ASSET_SPRITE_MINIMAP_EVERFROSTPEAK",
+            "ASSET_SPRITE_MINIMAP_UNUSED2",
+            "ASSET_SPRITE_MINIMAP_WALRUSCOVE",
+            "ASSET_SPRITE_MINIMAP_UNUSED3",
+            "ASSET_SPRITE_MINIMAP_BOULDERCANYON",
+            "ASSET_SPRITE_MINIMAP_SMOKEYCASTLE",
+            "ASSET_SPRITE_MINIMAP_CENTRALAREA",
+            "ASSET_SPRITE_MINIMAP_FIREMOUNTAIN",
+            "ASSET_SPRITE_MINIMAP_SPACEPORTALPHA",
+            "ASSET_SPRITE_MINIMAP_SPACEDUSTALLEY",
+            "ASSET_SPRITE_MINIMAP_TREASURECAVES",
+            "ASSET_SPRITE_MINIMAP_GREENWOODVILLAGE",
+            "ASSET_SPRITE_MINIMAP_DARKMOONCAVERNS",
+            "ASSET_SPRITE_MINIMAP_STARCITY",
+            "ASSET_SPRITE_MINIMAP_WINDMILLPLAINS",
+            "ASSET_SPRITE_MINIMAP_FROSTYVILLAGE",
+            "ASSET_SPRITE_MINIMAP_DARKWATERBEACH",
+            "ASSET_SPRITE_MINIMAP_JUNGLEFALLS",
+            "ASSET_SPRITE_MINIMAP_ICICLEPYRAMID",
+            "ASSET_SPRITE_MINIMAP_HAUNTEDWOODS",
+            "ASSET_SPRITE_MINIMAP_BLUEY",
+            "ASSET_SPRITE_MINIMAP_BUBBLER",
+            "ASSET_SPRITE_MINIMAP_SMOKEY",
+            "ASSET_SPRITE_MINIMAP_TRICKYTOPS",
+            "ASSET_SPRITE_MINIMAP_WIZPIG1",
+            "ASSET_SPRITE_MINIMAP_WIZPIG2",
+            "ASSET_SPRITE_WEATHER_RAINDROP",
+            "ASSET_SPRITE_WEATHER_SNOWFLAKE",
+            "ASSET_SPRITE_OBJECTS_LENSFLARE1",
+            "ASSET_SPRITE_OBJECTS_LENSFLARE2",
+            "ASSET_SPRITE_OBJECTS_LENSFLARE3",
+            "ASSET_SPRITE_UNKNOWN_BROWNEGG",
+            "ASSET_SPRITE_PARTICLES_SMOKE",
+            "ASSET_SPRITE_PARTICLES_SMOKE2",
+            "ASSET_SPRITE_PARTICLES_BUBBLESSMALL",
+            "ASSET_SPRITE_PARTICLES_SMOKE3",
+            "ASSET_SPRITE_OBJECTS_BUBBLEWEAPON",
+            "ASSET_SPRITE_OBJECTS_SPARKLE",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONBLUE",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONYELLOW",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONRED",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONGREEN",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONCYAN",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONWHITE",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONORANGE",
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONPURPLE",
+            "ASSET_SPRITE_OBJECTS_RAINBOW",
+            "ASSET_SPRITE_OBJECTS_EGG",
+            "ASSET_SPRITE_OBJECTS_BOMB",
+            "ASSET_SPRITE_OBJECTS_OILSLICK",
+            "ASSET_SPRITE_OBJECTS_EYESINDARK",
+            "ASSET_SPRITE_HUD_TIMERCOLON",
+            "ASSET_SPRITE_HUD_RETICALHOMING",
+            "ASSET_SPRITE_OBJECTS_DEBUGREDSPHERE",
+            "ASSET_SPRITE_HUD_FINISH",
+            "ASSET_SPRITE_HUD_GETREADY",
+            "ASSET_SPRITE_HUD_GO",
+            "ASSET_SPRITE_HUD_LAP",
+            "ASSET_SPRITE_HUD_FORWARDSLASH",
+            "ASSET_SPRITE_HUD_TIME",
+            "ASSET_SPRITE_HUD_PLACENUMBERS",
+            "ASSET_SPRITE_HUD_TIMERNUMBERS",
+            "ASSET_SPRITE_HUD_TIMERCOLORSMALL",
+            "ASSET_SPRITE_HUD_TIMERNUMBERSSMALL",
+            "ASSET_SPRITE_HUD_GOSMALL",
+            "ASSET_SPRITE_HUD_LAPSMALL",
+            "ASSET_SPRITE_HUD_GETREADY2",
+            "ASSET_SPRITE_HUD_FINALSMALL",
+            "ASSET_SPRITE_HUD_FINISHSMALL",
+            "ASSET_SPRITE_HUD_LAP2SMALL",
+            "ASSET_SPRITE_HUD_WAYSMALL",
+            "ASSET_SPRITE_HUD_WRONGSMALL",
+            "ASSET_SPRITE_OBJECTS_POSITIONARROW",
+            "ASSET_SPRITE_HUD_GOLDENBALLOONICON",
+            "ASSET_SPRITE_HUD_SILVERBALLOONICON",
+            "ASSET_SPRITE_OBJECTS_LEVELNAME",
+            "ASSET_SPRITE_MINIMAP_NPC",
+            "ASSET_SPRITE_MINIMAP_PLAYER",
+            "ASSET_SPRITE_HUD_WEAPONICONS",
+            "ASSET_SPRITE_HUD_WEAPONICONNUMBERS",
+            "ASSET_SPRITE_UNUSED_BETACHARACTERICON",
+            "ASSET_SPRITE_HUD_FINALLAPFLAG",
+            "ASSET_SPRITE_HUD_FINAL",
+            "ASSET_SPRITE_HUD_LAPLARGE",
+            "ASSET_SPRITE_HUD_LAP22",
+            "ASSET_SPRITE_HUD_WAY",
+            "ASSET_SPRITE_HUD_WRONG",
+            "ASSET_SPRITE_UNUSED_PROAMLOGO",
+            "ASSET_SPRITE_HUD_SPEEDOMETERARROW",
+            "ASSET_SPRITE_HUD_FIRSTPLACEONE",
+            "ASSET_SPRITE_HUD_FIRSTPLACEST",
+            "ASSET_SPRITE_OBJECTS_BALLOONSTRING",
+            "ASSET_SPRITE_UNKNOWN_FIREBALLUNKNOWN",
+            "ASSET_SPRITE_OBJECTS_FIREBALL",
+            "ASSET_SPRITE_OBJECTS_WIZGHOST",
+            "ASSET_SPRITE_UNKNOWN_UNKNOWNLIGHT",
+            "ASSET_SPRITE_UNKNOWN_SMALLSTAR",
+            "ASSET_SPRITE_OBJECTS_BUOY",
+            "ASSET_SPRITE_OBJECTS_SMARTIETREE",
+            "ASSET_SPRITE_OBJECTS_BEACHTREE",
+            "ASSET_SPRITE_OBJECTS_BLUEBERRYBUSH",
+            "ASSET_SPRITE_OBJECTS_RUBBERSNOWTREE",
+            "ASSET_SPRITE_OBJECTS_SKINNYSNOWTREE",
+            "ASSET_SPRITE_OBJECTS_XMASTREE",
+            "ASSET_SPRITE_OBJECTS_ALPINESNOWTREE",
+            "ASSET_SPRITE_OBJECTS_RUBBERTREE",
+            "ASSET_SPRITE_OBJECTS_PALMTREETOP",
+            "ASSET_SPRITE_OBJECTS_PALMPLANT",
+            "ASSET_SPRITE_OBJECTS_PALMTREETOPCHEA",
+            "ASSET_SPRITE_OBJECTS_FIRTREE",
+            "ASSET_SPRITE_OBJECTS_SPACETREE",
+            "ASSET_SPRITE_OBJECTS_LAMPPOST",
+            "ASSET_SPRITE_FLOWERS_WHITEBUTTERCUP",
+            "ASSET_SPRITE_FLOWERS_YELLOWBELLFLOWER",
+            "ASSET_SPRITE_FLOWERS_YELLOWBUTTERCUP",
+            "ASSET_SPRITE_FLOWERS_BLUEBUTTERCUP",
+            "ASSET_SPRITE_FLOWERS_WATERLILY",
+            "ASSET_SPRITE_OBJECTS_REEDNOLEAF",
+            "ASSET_SPRITE_OBJECTS_REEDLEAVES",
+            "ASSET_SPRITE_OBJECTS_READONELEAF",
+            "ASSET_SPRITE_OBJECTS_SNOWMANTOPHAT",
+            "ASSET_SPRITE_OBJECTS_BELL",
+            "ASSET_SPRITE_OBJECTS_SNOWMAN",
+            "ASSET_SPRITE_UNUSED_TORCHWITHEYES",
+            "ASSET_SPRITE_OBJECTS_DEBUGCAMERACONTROL",
+            "ASSET_SPRITE_UNUSED_DEBUGUNKNOWNEXIT",
+            "ASSET_SPRITE_UNUSED_BETAANCIENTLAKESIGN",
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOSEQ",
+            "ASSET_SPRITE_OBJECTS_DEBUGANIMCAR",
+            "ASSET_SPRITE_OBJECTS_DEBUGSKYCONTROL",
+            "ASSET_SPRITE_OBJECTS_DEBUGORBRED",
+            "ASSET_SPRITE_OBJECTS_DEBUGORBYELLOW",
+            "ASSET_SPRITE_OBJECTS_DEBUGFOGCHANGER",
+            "ASSET_SPRITE_OBJECTS_DEBUGANIMATOR",
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIO",
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOLINE",
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOSEQLINE",
+            "ASSET_SPRITE_UNUSED_DEBUGUNKNOWNTRAFFICLIGHT",
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOREVERB",
+            "ASSET_SPRITE_OBJECTS_BALLOONBOOST",
+            "ASSET_SPRITE_OBJECTS_BALLOONMISSLE",
+            "ASSET_SPRITE_OBJECTS_BALLOONTRAP",
+            "ASSET_SPRITE_OBJECTS_BALLOONSHIELD",
+            "ASSET_SPRITE_OBJECTS_BALLOONMAGNET",
+            "ASSET_SPRITE_UNUSED_BALLOONMISSLEGIFT",
+            "ASSET_SPRITE_UNUSED_BALLOONBOOSTGIFT",
+            "ASSET_SPRITE_OBJECTS_BALLOONGOLD",
+            "ASSET_SPRITE_OBJECTS_BALLOONSILVER",
+            "ASSET_SPRITE_OBJECTS_BANANA",
+            "ASSET_SPRITE_OBJECTS_SILVERCOIN",
+            "ASSET_SPRITE_OBJECTS_CHECKPOINTFLAG",
+            "ASSET_SPRITE_UNUSED_RAREWARECOIN",
+            "ASSET_SPRITE_UNUSED_SILVERCOINVERTICAL",
+            "ASSET_SPRITE_HUD_BANANAICON",
+            "ASSET_SPRITE_PARTICLES_SPARKLE",
+            "ASSET_SPRITE_OBJECTS_DEBUGEGGCREATOR",
+            "ASSET_SPRITE_UNUSED_BONUSGEM",
+            "ASSET_SPRITE_HUD_INDICATORICONCAUTION",
+            "ASSET_SPRITE_HUD_INDICATORICONDOWN",
+            "ASSET_SPRITE_HUD_INDICATORICONUTURN",
+            "ASSET_SPRITE_HUD_INDICATORICONTURN",
+            "ASSET_SPRITE_HUD_INDICATORICONSLIGHTTURN",
+            "ASSET_SPRITE_OBJECTS_SMOKEOBJECT",
+            "ASSET_SPRITE_OBJECTS_SMOKECLOUD",
+            "ASSET_SPRITE_OBJECTS_SMOKEGRASS",
+            "ASSET_SPRITE_OBJECTS_MIST",
+            "ASSET_SPRITE_OBJECTS_FLAMINGTORCH",
+            "ASSET_SPRITE_UNUSED_SPLASH",
+            "ASSET_SPRITE_UNUSED_WEAPONBALLOONPOP",
+            "ASSET_SPRITE_OBJECTS_LAVASPURT",
+            "ASSET_SPRITE_UNKNOWN_UNKNOWNSMALLPOP",
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE0",
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE1",
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE2",
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE3",
+            "ASSET_SPRITE_VEHICLE_PARTS_FAN0",
+            "ASSET_SPRITE_VEHICLE_PARTS_FAN1",
+            "ASSET_SPRITE_VEHICLE_PARTS_PROPELLER0",
+            "ASSET_SPRITE_VEHICLE_PARTS_PROPELLER1",
+            "ASSET_SPRITE_UNUSED_RARELETTERS",
+            "ASSET_SPRITE_OBJECTS_BOLTGLOW",
+            "ASSET_SPRITE_MENU_ICONTROPHY",
+            "ASSET_SPRITE_MENU_ICONKEY",
+            "ASSET_SPRITE_MENU_ICONTTAMULET",
+            "ASSET_SPRITE_MENU_ICONWIZPIGAMULET"
+        ],
+        "sections": {
+            "ASSET_SPRITE_FLOWERS_BLUEBUTTERCUP": {
+                "filename": "flowers/blue_buttercup_v79.json"
+            },
+            "ASSET_SPRITE_FLOWERS_WATERLILY": {
+                "filename": "flowers/water_lily_v79.json"
+            },
+            "ASSET_SPRITE_FLOWERS_WHITEBUTTERCUP": {
+                "filename": "flowers/white_buttercup_v79.json"
+            },
+            "ASSET_SPRITE_FLOWERS_YELLOWBELLFLOWER": {
+                "filename": "flowers/yellow_bellflower_v79.json"
+            },
+            "ASSET_SPRITE_FLOWERS_YELLOWBUTTERCUP": {
+                "filename": "flowers/yellow_buttercup_v79.json"
+            },
+            "ASSET_SPRITE_HUD_BANANAICON": {
+                "filename": "hud/banana_icon_v79.json"
+            },
+            "ASSET_SPRITE_HUD_FINAL": {
+                "filename": "hud/final.json"
+            },
+            "ASSET_SPRITE_HUD_FINALLAPFLAG": {
+                "filename": "hud/final_lap_flag.json"
+            },
+            "ASSET_SPRITE_HUD_FINALSMALL": {
+                "filename": "hud/final_small.json"
+            },
+            "ASSET_SPRITE_HUD_FINISH": {
+                "filename": "hud/finish.json"
+            },
+            "ASSET_SPRITE_HUD_FINISHSMALL": {
+                "filename": "hud/finish_small.json"
+            },
+            "ASSET_SPRITE_HUD_FIRSTPLACEONE": {
+                "filename": "hud/first_place_one.json"
+            },
+            "ASSET_SPRITE_HUD_FIRSTPLACEST": {
+                "filename": "hud/first_place_st.json"
+            },
+            "ASSET_SPRITE_HUD_FORWARDSLASH": {
+                "filename": "hud/forward_slash.json"
+            },
+            "ASSET_SPRITE_HUD_GETREADY": {
+                "filename": "hud/get_ready.json"
+            },
+            "ASSET_SPRITE_HUD_GETREADY2": {
+                "filename": "hud/get_ready2.json"
+            },
+            "ASSET_SPRITE_HUD_GO": {
+                "filename": "hud/go.json"
+            },
+            "ASSET_SPRITE_HUD_GOLDENBALLOONICON": {
+                "filename": "hud/golden_balloon_icon.json"
+            },
+            "ASSET_SPRITE_HUD_GOSMALL": {
+                "filename": "hud/go_small.json"
+            },
+            "ASSET_SPRITE_HUD_INDICATORICONCAUTION": {
+                "filename": "hud/indicator_icon_caution_v79.json"
+            },
+            "ASSET_SPRITE_HUD_INDICATORICONDOWN": {
+                "filename": "hud/indicator_icon_down_v79.json"
+            },
+            "ASSET_SPRITE_HUD_INDICATORICONSLIGHTTURN": {
+                "filename": "hud/indicator_icon_slight_turn_v79.json"
+            },
+            "ASSET_SPRITE_HUD_INDICATORICONTURN": {
+                "filename": "hud/indicator_icon_turn_v79.json"
+            },
+            "ASSET_SPRITE_HUD_INDICATORICONUTURN": {
+                "filename": "hud/indicator_icon_uturn_v79.json"
+            },
+            "ASSET_SPRITE_HUD_LAP": {
+                "filename": "hud/lap.json"
+            },
+            "ASSET_SPRITE_HUD_LAP22": {
+                "filename": "hud/lap2_2.json"
+            },
+            "ASSET_SPRITE_HUD_LAP2SMALL": {
+                "filename": "hud/lap2_small.json"
+            },
+            "ASSET_SPRITE_HUD_LAPLARGE": {
+                "filename": "hud/lap_large.json"
+            },
+            "ASSET_SPRITE_HUD_LAPSMALL": {
+                "filename": "hud/lap_small.json"
+            },
+            "ASSET_SPRITE_HUD_PLACENUMBERS": {
+                "filename": "hud/place_numbers.json"
+            },
+            "ASSET_SPRITE_HUD_RETICALHOMING": {
+                "filename": "hud/retical_homing.json"
+            },
+            "ASSET_SPRITE_HUD_SILVERBALLOONICON": {
+                "filename": "hud/silver_balloon_icon.json"
+            },
+            "ASSET_SPRITE_HUD_SPEEDOMETERARROW": {
+                "filename": "hud/speedometer_arrow.json"
+            },
+            "ASSET_SPRITE_HUD_TIME": {
+                "filename": "hud/time.json"
+            },
+            "ASSET_SPRITE_HUD_TIMERCOLON": {
+                "filename": "hud/timer_colon.json"
+            },
+            "ASSET_SPRITE_HUD_TIMERCOLORSMALL": {
+                "filename": "hud/timer_color_small.json"
+            },
+            "ASSET_SPRITE_HUD_TIMERNUMBERS": {
+                "filename": "hud/timer_numbers.json"
+            },
+            "ASSET_SPRITE_HUD_TIMERNUMBERSSMALL": {
+                "filename": "hud/timer_numbers_small.json"
+            },
+            "ASSET_SPRITE_HUD_WAY": {
+                "filename": "hud/way.json"
+            },
+            "ASSET_SPRITE_HUD_WAYSMALL": {
+                "filename": "hud/way_small.json"
+            },
+            "ASSET_SPRITE_HUD_WEAPONICONNUMBERS": {
+                "filename": "hud/weapon_icon_numbers.json"
+            },
+            "ASSET_SPRITE_HUD_WEAPONICONS": {
+                "filename": "hud/weapon_icons.json"
+            },
+            "ASSET_SPRITE_HUD_WRONG": {
+                "filename": "hud/wrong.json"
+            },
+            "ASSET_SPRITE_HUD_WRONGSMALL": {
+                "filename": "hud/wrong_small.json"
+            },
+            "ASSET_SPRITE_MENU_ICONKEY": {
+                "filename": "menu/icon_key_v79.json"
+            },
+            "ASSET_SPRITE_MENU_ICONTROPHY": {
+                "filename": "menu/icon_trophy_v79.json"
+            },
+            "ASSET_SPRITE_MENU_ICONTTAMULET": {
+                "filename": "menu/icon_tt_amulet.json"
+            },
+            "ASSET_SPRITE_MENU_ICONWIZPIGAMULET": {
+                "filename": "menu/icon_wizpig_amulet_v79.json"
+            },
+            "ASSET_SPRITE_MINIMAP_ANCIENTLAKE": {
+                "filename": "minimap/ancient_lake.json"
+            },
+            "ASSET_SPRITE_MINIMAP_BLUEY": {
+                "filename": "minimap/bluey.json"
+            },
+            "ASSET_SPRITE_MINIMAP_BOULDERCANYON": {
+                "filename": "minimap/boulder_canyon.json"
+            },
+            "ASSET_SPRITE_MINIMAP_BUBBLER": {
+                "filename": "minimap/bubbler.json"
+            },
+            "ASSET_SPRITE_MINIMAP_CENTRALAREA": {
+                "filename": "minimap/central_area.json"
+            },
+            "ASSET_SPRITE_MINIMAP_CRESCENTISLAND": {
+                "filename": "minimap/crescent_island.json"
+            },
+            "ASSET_SPRITE_MINIMAP_DARKMOONCAVERNS": {
+                "filename": "minimap/darkmoon_caverns.json"
+            },
+            "ASSET_SPRITE_MINIMAP_DARKWATERBEACH": {
+                "filename": "minimap/darkwater_beach.json"
+            },
+            "ASSET_SPRITE_MINIMAP_EVERFROSTPEAK": {
+                "filename": "minimap/everfrost_peak.json"
+            },
+            "ASSET_SPRITE_MINIMAP_FIREMOUNTAIN": {
+                "filename": "minimap/fire_mountain.json"
+            },
+            "ASSET_SPRITE_MINIMAP_FOSSILCANYON": {
+                "filename": "minimap/fossil_canyon.json"
+            },
+            "ASSET_SPRITE_MINIMAP_FROSTYVILLAGE": {
+                "filename": "minimap/frosty_village.json"
+            },
+            "ASSET_SPRITE_MINIMAP_GREENWOODVILLAGE": {
+                "filename": "minimap/greenwood_village.json"
+            },
+            "ASSET_SPRITE_MINIMAP_HAUNTEDWOODS": {
+                "filename": "minimap/haunted_woods.json"
+            },
+            "ASSET_SPRITE_MINIMAP_HOTTOPVOLCANO": {
+                "filename": "minimap/hot_top_volcano.json"
+            },
+            "ASSET_SPRITE_MINIMAP_ICICLEPYRAMID": {
+                "filename": "minimap/icicle_pyramid.json"
+            },
+            "ASSET_SPRITE_MINIMAP_JUNGLEFALLS": {
+                "filename": "minimap/jungle_falls.json"
+            },
+            "ASSET_SPRITE_MINIMAP_NPC": {
+                "filename": "minimap/npc.json"
+            },
+            "ASSET_SPRITE_MINIMAP_PIRATELAGOON": {
+                "filename": "minimap/pirate_lagoon.json"
+            },
+            "ASSET_SPRITE_MINIMAP_PLAYER": {
+                "filename": "minimap/player.json"
+            },
+            "ASSET_SPRITE_MINIMAP_SMOKEY": {
+                "filename": "minimap/smokey.json"
+            },
+            "ASSET_SPRITE_MINIMAP_SMOKEYCASTLE": {
+                "filename": "minimap/smokey_castle.json"
+            },
+            "ASSET_SPRITE_MINIMAP_SNOWBALLVALLEY": {
+                "filename": "minimap/snowball_valley.json"
+            },
+            "ASSET_SPRITE_MINIMAP_SPACEDUSTALLEY": {
+                "filename": "minimap/spacedust_alley.json"
+            },
+            "ASSET_SPRITE_MINIMAP_SPACEPORTALPHA": {
+                "filename": "minimap/space_port_alpha.json"
+            },
+            "ASSET_SPRITE_MINIMAP_STARCITY": {
+                "filename": "minimap/star_city.json"
+            },
+            "ASSET_SPRITE_MINIMAP_TREASURECAVES": {
+                "filename": "minimap/treasure_caves.json"
+            },
+            "ASSET_SPRITE_MINIMAP_TRICKYTOPS": {
+                "filename": "minimap/trickytops.json"
+            },
+            "ASSET_SPRITE_MINIMAP_UNUSED": {
+                "filename": "minimap/unused.json"
+            },
+            "ASSET_SPRITE_MINIMAP_UNUSED2": {
+                "filename": "minimap/unused2.json"
+            },
+            "ASSET_SPRITE_MINIMAP_UNUSED3": {
+                "filename": "minimap/unused3.json"
+            },
+            "ASSET_SPRITE_MINIMAP_WALRUSCOVE": {
+                "filename": "minimap/walrus_cove.json"
+            },
+            "ASSET_SPRITE_MINIMAP_WHALEBAY": {
+                "filename": "minimap/whale_bay.json"
+            },
+            "ASSET_SPRITE_MINIMAP_WINDMILLPLAINS": {
+                "filename": "minimap/windmill_plains.json"
+            },
+            "ASSET_SPRITE_MINIMAP_WIZPIG1": {
+                "filename": "minimap/wizpig1.json"
+            },
+            "ASSET_SPRITE_MINIMAP_WIZPIG2": {
+                "filename": "minimap/wizpig2.json"
+            },
+            "ASSET_SPRITE_OBJECTS_ALPINESNOWTREE": {
+                "filename": "objects/alpine_snow_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONBOOST": {
+                "filename": "objects/balloon_boost_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONGOLD": {
+                "filename": "objects/balloon_gold_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONMAGNET": {
+                "filename": "objects/balloon_magnet_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONMISSLE": {
+                "filename": "objects/balloon_missle_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONSHIELD": {
+                "filename": "objects/balloon_shield_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONSILVER": {
+                "filename": "objects/balloon_silver_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONSTRING": {
+                "filename": "objects/balloon_string.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BALLOONTRAP": {
+                "filename": "objects/balloon_trap_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BANANA": {
+                "filename": "objects/banana_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BEACHTREE": {
+                "filename": "objects/beach_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BELL": {
+                "filename": "objects/bell_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BLUEBERRYBUSH": {
+                "filename": "objects/blue_berry_bush_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOLTGLOW": {
+                "filename": "objects/bolt_glow_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMB": {
+                "filename": "objects/bomb.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONBLUE": {
+                "filename": "objects/bomb_explosion_blue.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONCYAN": {
+                "filename": "objects/bomb_explosion_cyan.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONGREEN": {
+                "filename": "objects/bomb_explosion_green.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONORANGE": {
+                "filename": "objects/bomb_explosion_orange.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONPURPLE": {
+                "filename": "objects/bomb_explosion_purple.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONRED": {
+                "filename": "objects/bomb_explosion_red.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONWHITE": {
+                "filename": "objects/bomb_explosion_white.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BOMBEXPLOSIONYELLOW": {
+                "filename": "objects/bomb_explosion_yellow.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BUBBLEWEAPON": {
+                "filename": "objects/bubble_weapon.json"
+            },
+            "ASSET_SPRITE_OBJECTS_BUOY": {
+                "filename": "objects/buoy_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_CHECKPOINTFLAG": {
+                "filename": "objects/checkpoint_flag_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGANIMATOR": {
+                "filename": "objects/debug_animator_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGANIMCAR": {
+                "filename": "objects/debug_anim_car_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIO": {
+                "filename": "objects/debug_audio_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOLINE": {
+                "filename": "objects/debug_audio_line_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOREVERB": {
+                "filename": "objects/debug_audio_reverb_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOSEQ": {
+                "filename": "objects/debug_audio_seq.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGAUDIOSEQLINE": {
+                "filename": "objects/debug_audio_seq_line_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGCAMERACONTROL": {
+                "filename": "objects/debug_camera_control.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGEGGCREATOR": {
+                "filename": "objects/debug_egg_creator_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGFOGCHANGER": {
+                "filename": "objects/debug_fog_changer_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGORBRED": {
+                "filename": "objects/debug_orb_red_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGORBYELLOW": {
+                "filename": "objects/debug_orb_yellow_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGREDSPHERE": {
+                "filename": "objects/debug_red_sphere.json"
+            },
+            "ASSET_SPRITE_OBJECTS_DEBUGSKYCONTROL": {
+                "filename": "objects/debug_sky_control_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_EGG": {
+                "filename": "objects/egg.json"
+            },
+            "ASSET_SPRITE_OBJECTS_EYESINDARK": {
+                "filename": "objects/eyes_in_dark.json"
+            },
+            "ASSET_SPRITE_OBJECTS_FIREBALL": {
+                "filename": "objects/fireball_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_FIRTREE": {
+                "filename": "objects/fir_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_FLAMINGTORCH": {
+                "filename": "objects/flaming_torch_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_LAMPPOST": {
+                "filename": "objects/lamp_post_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_LAVASPURT": {
+                "filename": "objects/lava_spurt_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_LENSFLARE1": {
+                "filename": "objects/lensflare1.json"
+            },
+            "ASSET_SPRITE_OBJECTS_LENSFLARE2": {
+                "filename": "objects/lensflare2.json"
+            },
+            "ASSET_SPRITE_OBJECTS_LENSFLARE3": {
+                "filename": "objects/lensflare3.json"
+            },
+            "ASSET_SPRITE_OBJECTS_LEVELNAME": {
+                "filename": "objects/level_name.json"
+            },
+            "ASSET_SPRITE_OBJECTS_MIST": {
+                "filename": "objects/mist_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_OILSLICK": {
+                "filename": "objects/oil_slick.json"
+            },
+            "ASSET_SPRITE_OBJECTS_PALMPLANT": {
+                "filename": "objects/palm_plant_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_PALMTREETOP": {
+                "filename": "objects/palm_tree_top_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_PALMTREETOPCHEA": {
+                "filename": "objects/palm_tree_top_chea_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_POSITIONARROW": {
+                "filename": "objects/position_arrow.json"
+            },
+            "ASSET_SPRITE_OBJECTS_RAINBOW": {
+                "filename": "objects/rainbow.json"
+            },
+            "ASSET_SPRITE_OBJECTS_READONELEAF": {
+                "filename": "objects/read_one_leaf_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_REEDLEAVES": {
+                "filename": "objects/reed_leaves_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_REEDNOLEAF": {
+                "filename": "objects/reed_no_leaf_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_RUBBERSNOWTREE": {
+                "filename": "objects/rubber_snow_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_RUBBERTREE": {
+                "filename": "objects/rubber_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SILVERCOIN": {
+                "filename": "objects/silver_coin_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SKINNYSNOWTREE": {
+                "filename": "objects/skinny_snow_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SMARTIETREE": {
+                "filename": "objects/smartie_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SMOKECLOUD": {
+                "filename": "objects/smoke_cloud_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SMOKEGRASS": {
+                "filename": "objects/smoke_grass_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SMOKEOBJECT": {
+                "filename": "objects/smoke_object_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SNOWMAN": {
+                "filename": "objects/snowman_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SNOWMANTOPHAT": {
+                "filename": "objects/snowman_tophat_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SPACETREE": {
+                "filename": "objects/space_tree_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_SPARKLE": {
+                "filename": "objects/sparkle.json"
+            },
+            "ASSET_SPRITE_OBJECTS_WIZGHOST": {
+                "filename": "objects/wizghost_v79.json"
+            },
+            "ASSET_SPRITE_OBJECTS_XMASTREE": {
+                "filename": "objects/xmas_tree_v79.json"
+            },
+            "ASSET_SPRITE_PARTICLES_BUBBLESSMALL": {
+                "filename": "particles/bubbles_small.json"
+            },
+            "ASSET_SPRITE_PARTICLES_SMOKE": {
+                "filename": "particles/smoke.json"
+            },
+            "ASSET_SPRITE_PARTICLES_SMOKE2": {
+                "filename": "particles/smoke2.json"
+            },
+            "ASSET_SPRITE_PARTICLES_SMOKE3": {
+                "filename": "particles/smoke3.json"
+            },
+            "ASSET_SPRITE_PARTICLES_SPARKLE": {
+                "filename": "particles/sparkle_v79.json"
+            },
+            "ASSET_SPRITE_UNKNOWN_BROWNEGG": {
+                "filename": "unknown/brown_egg.json"
+            },
+            "ASSET_SPRITE_UNKNOWN_FIREBALLUNKNOWN": {
+                "filename": "unknown/fireball_unknown_v79.json"
+            },
+            "ASSET_SPRITE_UNKNOWN_SMALLSTAR": {
+                "filename": "unknown/small_star_v79.json"
+            },
+            "ASSET_SPRITE_UNKNOWN_UNKNOWNLIGHT": {
+                "filename": "unknown/unknown_light_v79.json"
+            },
+            "ASSET_SPRITE_UNKNOWN_UNKNOWNSMALLPOP": {
+                "filename": "unknown/unknown_small_pop_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_BALLOONBOOSTGIFT": {
+                "filename": "unused/balloon_boost_gift_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_BALLOONMISSLEGIFT": {
+                "filename": "unused/balloon_missle_gift_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_BETAANCIENTLAKESIGN": {
+                "filename": "unused/beta_ancient_lake_sign_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_BETACHARACTERICON": {
+                "filename": "unused/beta_character_icon.json"
+            },
+            "ASSET_SPRITE_UNUSED_BONUSGEM": {
+                "filename": "unused/bonus_gem_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_DEBUGUNKNOWNEXIT": {
+                "filename": "unused/debug_unknown_exit.json"
+            },
+            "ASSET_SPRITE_UNUSED_DEBUGUNKNOWNTRAFFICLIGHT": {
+                "filename": "objects/debug_unknown_traffic_light_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_PROAMLOGO": {
+                "filename": "unused/pro_am_logo.json"
+            },
+            "ASSET_SPRITE_UNUSED_RARELETTERS": {
+                "filename": "unused/rare_letters_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_RAREWARECOIN": {
+                "filename": "unused/rareware_coin_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_SILVERCOINVERTICAL": {
+                "filename": "unused/silver_coin_vertical_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_SPLASH": {
+                "filename": "unused/splash_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_TORCHWITHEYES": {
+                "filename": "unused/torch_with_eyes_v79.json"
+            },
+            "ASSET_SPRITE_UNUSED_WEAPONBALLOONPOP": {
+                "filename": "unused/weapon_balloon_pop_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_FAN0": {
+                "filename": "vehicle_parts/fan0_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_FAN1": {
+                "filename": "vehicle_parts/fan1_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_PROPELLER0": {
+                "filename": "vehicle_parts/propeller0_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_PROPELLER1": {
+                "filename": "vehicle_parts/propeller1_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE0": {
+                "filename": "vehicle_parts/tyre0_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE1": {
+                "filename": "vehicle_parts/tyre1_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE2": {
+                "filename": "vehicle_parts/tyre2_v79.json"
+            },
+            "ASSET_SPRITE_VEHICLE_PARTS_TYRE3": {
+                "filename": "vehicle_parts/tyre3_v79.json"
+            },
+            "ASSET_SPRITE_WEATHER_RAINDROP": {
+                "filename": "weather/rain_drop.json"
+            },
+            "ASSET_SPRITE_WEATHER_SNOWFLAKE": {
+                "filename": "weather/snowflake.json"
+            }
+        }
+    },
+    "folder": "sprites",
+    "type": "Sprite"
+}

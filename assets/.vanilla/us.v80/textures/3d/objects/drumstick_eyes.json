@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 2.133,
+    "images": [
+        "drumstick_eyes_0.png",
+        "drumstick_eyes_1.png",
+        "drumstick_eyes_2.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

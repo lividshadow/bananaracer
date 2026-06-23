@@ -1,0 +1,235 @@
+{
+    "behavior": "BHV_RACER",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008",
+        "FLAG_0010"
+    ],
+    "internal-name": "TigerCar",
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_TIGERCAR_0",
+        "ASSET_OBJECTMODEL_TIGERCAR_1",
+        "ASSET_OBJECTMODEL_TIGERCAR_2",
+        "ASSET_OBJECTMODEL_TIGERCAR_3",
+        "ASSET_OBJECTMODEL_TIGERCAR_4",
+        "ASSET_OBJECTMODEL_TIGERCAR_5"
+    ],
+    "particles": [
+        {
+            "arg1": 10,
+            "arg2": 0,
+            "arg3": -12,
+            "arg4": -3,
+            "arg5": 12
+        },
+        {
+            "arg1": 11,
+            "arg2": 0,
+            "arg3": 12,
+            "arg4": -3,
+            "arg5": 12
+        },
+        {
+            "arg1": 12,
+            "arg2": 4,
+            "arg3": -12,
+            "arg4": 0,
+            "arg5": 11
+        },
+        {
+            "arg1": 13,
+            "arg2": 4,
+            "arg3": 12,
+            "arg4": 0,
+            "arg5": 12
+        },
+        {
+            "arg1": 10,
+            "arg2": 1,
+            "arg3": -12,
+            "arg4": 0,
+            "arg5": 10
+        },
+        {
+            "arg1": 11,
+            "arg2": 1,
+            "arg3": 12,
+            "arg4": 0,
+            "arg5": 10
+        },
+        {
+            "arg1": 11,
+            "arg2": 38,
+            "arg3": -12,
+            "arg4": 0,
+            "arg5": 12
+        },
+        {
+            "arg1": 10,
+            "arg2": 38,
+            "arg3": 12,
+            "arg4": 0,
+            "arg5": 12
+        },
+        {
+            "arg1": 10,
+            "arg2": 0,
+            "arg3": -12,
+            "arg4": -3,
+            "arg5": 2
+        },
+        {
+            "arg1": 11,
+            "arg2": 0,
+            "arg3": 12,
+            "arg4": -3,
+            "arg5": 2
+        },
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": -11,
+            "arg4": -3,
+            "arg5": 7
+        },
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": 11,
+            "arg4": -3,
+            "arg5": 7
+        },
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": -10,
+            "arg4": -3,
+            "arg5": -11
+        },
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": 10,
+            "arg4": -3,
+            "arg5": -11
+        },
+        {
+            "arg1": 25,
+            "arg2": 15,
+            "arg3": -3,
+            "arg4": 7,
+            "arg5": 12
+        },
+        {
+            "arg1": 25,
+            "arg2": 15,
+            "arg3": 5,
+            "arg4": 4,
+            "arg5": 12
+        },
+        {
+            "arg1": 49,
+            "arg2": 52,
+            "arg3": 0,
+            "arg4": 6,
+            "arg5": 20
+        },
+        {
+            "arg1": 56,
+            "arg2": 58,
+            "arg3": 0,
+            "arg4": 6,
+            "arg5": 20
+        },
+        {
+            "arg1": 58,
+            "arg2": 60,
+            "arg3": -5,
+            "arg4": 1,
+            "arg5": 16
+        },
+        {
+            "arg1": 58,
+            "arg2": 60,
+            "arg3": 4,
+            "arg4": 1,
+            "arg5": 16
+        },
+        {
+            "arg1": 59,
+            "arg2": 61,
+            "arg3": -5,
+            "arg4": 1,
+            "arg5": 16
+        },
+        {
+            "arg1": 59,
+            "arg2": 61,
+            "arg3": 4,
+            "arg4": 1,
+            "arg5": 16
+        }
+    ],
+    "scale": 0.25999999046325684,
+    "shade-ambient": 0.902999997138977,
+    "shade-angle-y": 5144,
+    "shade-angle-z": -9320,
+    "shade-brightness": 0.48399999737739563,
+    "shadow-group": 2,
+    "shadow-scale": 2.0999999046325684,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 16384,
+        "unk34": 8,
+        "unk38": 61,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": 4,
+        "unk59": 0,
+        "unk5B": 2,
+        "unk5C": 41,
+        "unk5D": 51,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 0,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "vehicle-part-indices": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "vehicle-part-indices-junk-bytes": [
+        78,
+        101,
+        119,
+        83
+    ],
+    "vehicle-parts": [
+        189,
+        189,
+        188,
+        188
+    ],
+    "water-effect-group": 2
+}

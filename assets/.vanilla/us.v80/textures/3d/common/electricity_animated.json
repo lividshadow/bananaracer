@@ -1,0 +1,20 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA32",
+    "frame-advance-delay": 2.133,
+    "images": [
+        "electricity_animated_0.png",
+        "electricity_animated_1.png",
+        "electricity_animated_2.png",
+        "electricity_animated_3.png",
+        "electricity_animated_4.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

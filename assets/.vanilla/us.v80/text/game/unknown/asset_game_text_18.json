@@ -1,0 +1,45 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 180,
+                    "left": 15,
+                    "right": 115,
+                    "top": 15
+                }
+            },
+            {
+                "command": "Text",
+                "value": "Well done! "
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Take this as"
+            },
+            {
+                "command": "Text",
+                "value": "a reward."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "I'll See You"
+            },
+            {
+                "command": "Text",
+                "value": "Later."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

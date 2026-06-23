@@ -1,0 +1,5099 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "cameraID": 5,
+        "id": "ASSET_OBJECT_CAMERA_CONTROL",
+        "pad9": 0
+      },
+      "name": "camera_control",
+      "translation": [
+        1220.0,
+        259.0,
+        -740.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 129.375,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_DINODOMAINHUB",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          0
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          0,
+          255,
+          0
+        ],
+        "radius": 1.9765625,
+        "returnSpawnIndex": 0
+      },
+      "name": "exit",
+      "translation": [
+        -4015.0,
+        383.0,
+        2683.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_SHERBETISLANDHUB",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          255,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          0,
+          255,
+          0
+        ],
+        "radius": 1.4140625,
+        "returnSpawnIndex": 255
+      },
+      "name": "exit",
+      "translation": [
+        5086.0,
+        -123.0,
+        -1187.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 180.0,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_DRAGONFORESTHUB",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          0
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.3984375,
+        "returnSpawnIndex": 0
+      },
+      "name": "exit",
+      "translation": [
+        609.0,
+        592.0,
+        4137.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 97,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        1865.0,
+        417.0,
+        2197.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 91,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        5129.0,
+        -59.0,
+        -809.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 86,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        5242.0,
+        -34.0,
+        -998.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 84,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        4905.0,
+        -6.0,
+        -958.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 86,
+        "solid": 34
+      },
+      "name": "Beachtree",
+      "translation": [
+        -487.0,
+        -65.0,
+        -3647.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 28
+      },
+      "name": "Beachtree",
+      "translation": [
+        -766.0,
+        -63.0,
+        -2807.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 98,
+        "solid": 37
+      },
+      "name": "Beachtree",
+      "translation": [
+        -353.0,
+        -69.0,
+        -2847.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 27
+      },
+      "name": "Beachtree",
+      "translation": [
+        563.0,
+        -70.0,
+        -2871.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 87,
+        "solid": 33
+      },
+      "name": "Beachtree",
+      "translation": [
+        993.0,
+        -57.0,
+        -2804.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 28
+      },
+      "name": "Beachtree",
+      "translation": [
+        1160.0,
+        -74.0,
+        -2898.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 89,
+        "solid": 32
+      },
+      "name": "Beachtree",
+      "translation": [
+        1684.0,
+        -64.0,
+        -3498.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 7,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 160,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -2947.0,
+        558.0,
+        2062.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 7,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 172,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -3049.0,
+        603.0,
+        1776.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_TEXSCROLL",
+        "textureIndex": 26,
+        "unkA": 0,
+        "unkB": 127
+      },
+      "name": "texscroll",
+      "translation": [
+        847.0,
+        427.0,
+        2629.0
+      ]
+    },
+    {
+      "extras": {
+        "fastFalloff": 0,
+        "id": "ASSET_OBJECT_AUDIO",
+        "minVolume": 0,
+        "pitch": 100,
+        "priority": 64,
+        "range": 2140,
+        "soundId": 22,
+        "unk11": 0,
+        "volume": 127
+      },
+      "name": "audio",
+      "translation": [
+        -206.0,
+        502.0,
+        2888.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          5,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -5.0,
+        241.0,
+        53.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          127,
+          0,
+          5,
+          0,
+          0,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        1569.0,
+        242.0,
+        -307.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          1,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        954.0,
+        237.0,
+        1208.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          2,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -858.0,
+        237.0,
+        1303.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          3,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -1451.0,
+        238.0,
+        -461.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          4,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -202.0,
+        284.0,
+        -587.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          6,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        941.0,
+        276.0,
+        -271.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 92,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 54,
+        "unkD": 0,
+        "unkE": 1000
+      },
+      "name": "audioline",
+      "translation": [
+        -96.0,
+        182.0,
+        2411.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 1,
+        "unkE": 1840
+      },
+      "name": "audioline",
+      "translation": [
+        -1892.0,
+        182.0,
+        1886.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 2,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        -2350.0,
+        182.0,
+        509.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          127,
+          0,
+          33,
+          2,
+          0,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2744.0,
+        519.0,
+        1764.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          2,
+          1,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -3781.0,
+        217.0,
+        2498.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 3,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        -4355.0,
+        182.0,
+        -180.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 4,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        -4342.0,
+        182.0,
+        -2951.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 5,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        -2546.0,
+        182.0,
+        -3223.0
+      ]
+    },
+    {
+      "extras": {
+        "fastFalloff": 0,
+        "id": "ASSET_OBJECT_AUDIO",
+        "minVolume": 0,
+        "pitch": 100,
+        "priority": 64,
+        "range": 1500,
+        "soundId": 22,
+        "unk11": 0,
+        "volume": 127
+      },
+      "name": "audio",
+      "translation": [
+        -2140.0,
+        -17.0,
+        -3247.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 97,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        1770.0,
+        414.0,
+        1904.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          127,
+          0,
+          35,
+          3,
+          0,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        4535.0,
+        -297.0,
+        1158.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          1,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        2587.0,
+        -295.0,
+        923.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          2,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        2561.0,
+        -301.0,
+        -874.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          3,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        4212.0,
+        -301.0,
+        -2376.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          4,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        3783.0,
+        -301.0,
+        -4284.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          5,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        4086.0,
+        -301.0,
+        -5803.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          6,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        7282.0,
+        -301.0,
+        -1083.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          7,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        7347.0,
+        -301.0,
+        2392.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          8,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        6082.0,
+        -301.0,
+        1870.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          9,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        5885.0,
+        -301.0,
+        647.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          10,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        5269.0,
+        -301.0,
+        -1792.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          3,
+          11,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        3690.0,
+        -301.0,
+        -197.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 7,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 150,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -4278.0,
+        255.0,
+        269.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 7,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 181,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -3697.0,
+        243.0,
+        8.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 7,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 150,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -4668.0,
+        244.0,
+        -441.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 56.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 0,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 29,
+        "unkC": 28,
+        "unkD": 27,
+        "unkE": 35,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1063.0,
+        282.0,
+        1202.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 11.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 2,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 18,
+        "unkC": 21,
+        "unkD": 22,
+        "unkE": 26,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1480.0,
+        266.0,
+        465.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 208.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 44,
+        "isAltCheckpoint": 0,
+        "scale": 49,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 26,
+        "unkC": 25,
+        "unkD": 22,
+        "unkE": 29,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1562.0,
+        285.0,
+        -720.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 146.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 46,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 22,
+        "unkC": 16,
+        "unkD": 22,
+        "unkE": 20,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1402.0,
+        279.0,
+        591.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 123.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 48,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 18,
+        "unkC": 15,
+        "unkD": 22,
+        "unkE": 26,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        807.0,
+        273.0,
+        1355.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 50,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 31,
+        "unkC": 26,
+        "unkD": 22,
+        "unkE": 33,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        414.0,
+        272.0,
+        1709.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 2,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 34,
+        "unkC": 32,
+        "unkD": 26,
+        "unkE": 36,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1403.0,
+        208.0,
+        1990.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 39.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 4,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 43,
+        "unkC": 42,
+        "unkD": 39,
+        "unkE": 43,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2027.0,
+        193.0,
+        1643.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 22.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 6,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": -1,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -19,
+        "unkC": -22,
+        "unkD": 0,
+        "unkE": -2,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2271.0,
+        296.0,
+        863.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 67.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 8,
+        "isAltCheckpoint": 0,
+        "scale": 118,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -2,
+        "unkC": -4,
+        "unkD": -10,
+        "unkE": 2,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2713.0,
+        204.0,
+        362.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 84.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 10,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -9,
+        "unkC": -7,
+        "unkD": -4,
+        "unkE": 0,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3261.0,
+        194.0,
+        231.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 45.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 12,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 52,
+        "unkC": 50,
+        "unkD": 54,
+        "unkE": 49,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -4045.0,
+        206.0,
+        89.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -39.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 14,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 14,
+        "unkC": 14,
+        "unkD": 17,
+        "unkE": 22,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -4448.0,
+        206.0,
+        -806.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 16,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -12,
+        "unkC": -14,
+        "unkD": -4,
+        "unkE": -2,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -4462.0,
+        194.0,
+        -2455.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -95.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 18,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 5,
+        "unkC": 2,
+        "unkD": 10,
+        "unkE": 14,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3941.0,
+        194.0,
+        -3146.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 20,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -13,
+        "unkC": -10,
+        "unkD": -7,
+        "unkE": -4,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2460.0,
+        197.0,
+        -3216.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 22,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -8,
+        "unkC": -9,
+        "unkD": -5,
+        "unkE": -1,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1593.0,
+        -8.0,
+        -3222.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -112.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 24,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 25,
+        "unkC": 25,
+        "unkD": 22,
+        "unkE": 21,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        1323.0,
+        -38.0,
+        -3164.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -140.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 26,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 4,
+        "unkC": 5,
+        "unkD": 22,
+        "unkE": 28,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        2196.0,
+        -76.0,
+        -2626.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -163.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 28,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -6,
+        "unkC": -7,
+        "unkD": -3,
+        "unkE": -1,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        3023.0,
+        -249.0,
+        -971.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -174.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 30,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -9,
+        "unkC": -11,
+        "unkD": -5,
+        "unkE": -4,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        3339.0,
+        -253.0,
+        921.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 95.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 34,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": -1,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 27,
+        "unkC": 21,
+        "unkD": 22,
+        "unkE": 31,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        3359.0,
+        -48.0,
+        2073.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 84.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 36,
+        "isAltCheckpoint": 0,
+        "scale": 49,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -16,
+        "unkC": -21,
+        "unkD": -8,
+        "unkE": -10,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        2502.0,
+        201.0,
+        2027.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 38,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 5,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 21,
+        "unkC": 18,
+        "unkD": 22,
+        "unkE": 28,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        1411.0,
+        223.0,
+        2008.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 95.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 40,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -8,
+        "unkC": -11,
+        "unkD": -1,
+        "unkE": -3,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        555.0,
+        247.0,
+        2176.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 50.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 2,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 16,
+        "unkC": 15,
+        "unkD": 22,
+        "unkE": 18,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -875.0,
+        329.0,
+        1202.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 28.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 4,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 12,
+        "unkC": 15,
+        "unkD": 16,
+        "unkE": 19,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1303.0,
+        387.0,
+        356.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 6,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 1,
+        "unkC": -6,
+        "unkD": 6,
+        "unkE": 11,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1655.0,
+        580.0,
+        -639.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 95.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 8,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -9,
+        "unkC": -10,
+        "unkD": -4,
+        "unkE": -4,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2350.0,
+        527.0,
+        -794.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 56.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 10,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 24,
+        "unkC": 17,
+        "unkD": 22,
+        "unkE": 29,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2971.0,
+        497.0,
+        -865.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 16.875,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 12,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 19,
+        "unkC": 20,
+        "unkD": 22,
+        "unkE": 24,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3577.0,
+        442.0,
+        -1438.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 270.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 42,
+        "isAltCheckpoint": 0,
+        "scale": 90,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 2,
+        "unkC": -1,
+        "unkD": 4,
+        "unkE": 1,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1089.0,
+        103.0,
+        -3240.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 44,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -14,
+        "unkC": -14,
+        "unkD": -10,
+        "unkE": -4,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        667.0,
+        133.0,
+        -3212.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -151.875,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 46,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 36,
+        "unkC": 33,
+        "unkD": 29,
+        "unkE": 32,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        2250.0,
+        -30.0,
+        -2672.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -163.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 48,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -2,
+        "unkC": -2,
+        "unkD": 4,
+        "unkE": 5,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        2996.0,
+        -233.0,
+        -1166.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -174.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 50,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 22,
+        "unkC": 22,
+        "unkD": 22,
+        "unkE": 23,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        3486.0,
+        -133.0,
+        1067.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 157.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 52,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 21,
+        "unkC": 19,
+        "unkD": 22,
+        "unkE": 24,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        3472.0,
+        -78.0,
+        1731.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 123.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 54,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 25,
+        "unkC": 21,
+        "unkD": 22,
+        "unkE": 22,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        3170.0,
+        -28.0,
+        2088.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 56,
+        "isAltCheckpoint": 0,
+        "scale": 42,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -16,
+        "unkC": -22,
+        "unkD": -6,
+        "unkE": -1,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        2538.0,
+        218.0,
+        2031.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 58,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 4,
+        "unkC": -1,
+        "unkD": 9,
+        "unkE": 7,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        1647.0,
+        275.0,
+        1988.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 73.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 60,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -2,
+        "unkC": -5,
+        "unkD": -1,
+        "unkE": -1,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        283.0,
+        293.0,
+        1730.0
+      ]
+    },
+    {
+      "extras": {
+        "fastFalloff": 0,
+        "id": "ASSET_OBJECT_AUDIO",
+        "minVolume": 0,
+        "pitch": 100,
+        "priority": 64,
+        "range": 1500,
+        "soundId": 22,
+        "unk11": 0,
+        "volume": 127
+      },
+      "name": "audio",
+      "translation": [
+        -2244.0,
+        536.0,
+        2515.0
+      ]
+    },
+    {
+      "extras": {
+        "fastFalloff": 0,
+        "id": "ASSET_OBJECT_AUDIO",
+        "minVolume": 0,
+        "pitch": 100,
+        "priority": 64,
+        "range": 2160,
+        "soundId": 22,
+        "unk11": 0,
+        "volume": 127
+      },
+      "name": "audio",
+      "translation": [
+        886.0,
+        547.0,
+        2804.0
+      ]
+    },
+    {
+      "extras": {
+        "fastFalloff": 0,
+        "id": "ASSET_OBJECT_AUDIO",
+        "minVolume": 0,
+        "pitch": 100,
+        "priority": 64,
+        "range": 2140,
+        "soundId": 22,
+        "unk11": 0,
+        "volume": 127
+      },
+      "name": "audio",
+      "translation": [
+        -2556.0,
+        455.0,
+        728.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 6,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        -2027.0,
+        -82.0,
+        -3225.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 7,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        1274.0,
+        -88.0,
+        -3232.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOLINE",
+        "lineID": 1,
+        "soundID": 0,
+        "unk10": 0,
+        "unk11": 100,
+        "unk12": 0,
+        "unk13": 64,
+        "unk8": 0,
+        "unk9": 100,
+        "unkD": 8,
+        "unkE": 1500
+      },
+      "name": "audioline",
+      "translation": [
+        2324.0,
+        -88.0,
+        -2590.0
+      ]
+    },
+    {
+      "extras": {
+        "fastFalloff": 0,
+        "id": "ASSET_OBJECT_AUDIO",
+        "minVolume": 0,
+        "pitch": 100,
+        "priority": 64,
+        "range": 2140,
+        "soundId": 22,
+        "unk11": 0,
+        "volume": 127
+      },
+      "name": "audio",
+      "translation": [
+        2507.0,
+        -88.0,
+        -2301.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 127,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAMERA",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 143.4375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        1310.0,
+        317.0,
+        865.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 90.0,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -712.0,
+        317.0,
+        1837.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 33.75,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2093.0,
+        242.0,
+        1578.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 334.6875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2219.0,
+        367.0,
+        776.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 4,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 296.71875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1543.0,
+        577.0,
+        -54.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 5,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 281.25,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -213.0,
+        294.0,
+        -394.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 6,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 225.0,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        525.0,
+        657.0,
+        -1016.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": 0,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 7,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 196.875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 11.25
+      },
+      "name": "Animation",
+      "translation": [
+        1132.0,
+        369.0,
+        -301.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          41,
+          5,
+          0,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2735.0,
+        182.0,
+        -2381.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          5,
+          1,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2765.0,
+        243.0,
+        -1702.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          5,
+          2,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -4051.0,
+        191.0,
+        -1594.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          5,
+          3,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -3028.0,
+        231.0,
+        -2771.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          5,
+          4,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -4026.0,
+        216.0,
+        -2433.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 80,
+        "solid": 32
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -1805.0,
+        436.0,
+        -282.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 35
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -1464.0,
+        414.0,
+        -1058.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_TEXSCROLL",
+        "textureIndex": 29,
+        "unkA": 0,
+        "unkB": 47
+      },
+      "name": "texscroll",
+      "translation": [
+        -4366.0,
+        254.0,
+        -2672.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 7,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 181,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        1783.0,
+        315.0,
+        -1462.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_EFFECTBOX",
+        "unk8": 89,
+        "unk9": 113,
+        "unkA": 12,
+        "unkB": 250,
+        "unkC": 0,
+        "unkD": 175,
+        "unkE": 0,
+        "unkF": 0
+      },
+      "name": "EffectBox",
+      "translation": [
+        896.0,
+        479.0,
+        2800.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_EFFECTBOX",
+        "unk8": 70,
+        "unk9": 114,
+        "unkA": 13,
+        "unkB": 87,
+        "unkC": 0,
+        "unkD": 180,
+        "unkE": 0,
+        "unkF": 0
+      },
+      "name": "EffectBox",
+      "translation": [
+        -2236.0,
+        493.0,
+        2536.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_EFFECTBOX",
+        "unk8": 111,
+        "unk9": 116,
+        "unkA": 11,
+        "unkB": 48,
+        "unkC": 0,
+        "unkD": 179,
+        "unkE": 0,
+        "unkF": 0
+      },
+      "name": "EffectBox",
+      "translation": [
+        -2582.0,
+        508.0,
+        716.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -56.25,
+        "entranceID": 2,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -3778.0,
+        282.0,
+        2468.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 1,
+        "balloonCountOverride": 0,
+        "closedRotation": 39.375,
+        "distanceToOpen": 160,
+        "doorID": 0,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 0,
+        "localBalloons": 0,
+        "modelIndex": 0,
+        "openRotation": -22.5,
+        "scale": 44,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        -4105.0,
+        260.0,
+        2435.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 1,
+        "balloonCountOverride": 0,
+        "closedRotation": 39.375,
+        "distanceToOpen": 160,
+        "doorID": 1,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 0,
+        "localBalloons": 0,
+        "modelIndex": 1,
+        "openRotation": 101.25,
+        "scale": 44,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        -3804.0,
+        262.0,
+        2802.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 28
+      },
+      "name": "FirTree",
+      "translation": [
+        2234.0,
+        154.0,
+        -2017.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 76,
+        "solid": 33
+      },
+      "name": "FirTree",
+      "translation": [
+        2155.0,
+        154.0,
+        -2131.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 180.0,
+        "entranceID": 4,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        5094.0,
+        -256.0,
+        -927.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 10,
+        "balloonCountOverride": 0,
+        "closedRotation": 270.0,
+        "distanceToOpen": 120,
+        "doorID": 4,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 14,
+        "localBalloons": 0,
+        "modelIndex": 3,
+        "openRotation": 348.75,
+        "scale": 27,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        4941.0,
+        -264.0,
+        -1125.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 16,
+        "balloonCountOverride": 0,
+        "closedRotation": -990.0,
+        "distanceToOpen": 120,
+        "doorID": 8,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 2,
+        "localBalloons": 0,
+        "modelIndex": 2,
+        "openRotation": -1068.75,
+        "scale": 26,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        467.0,
+        529.0,
+        4073.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 16,
+        "balloonCountOverride": 0,
+        "closedRotation": 90.0,
+        "distanceToOpen": 120,
+        "doorID": 9,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 2,
+        "localBalloons": 0,
+        "modelIndex": 3,
+        "openRotation": 168.75,
+        "scale": 26,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        749.0,
+        529.0,
+        4073.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 10,
+        "balloonCountOverride": 0,
+        "closedRotation": -90.0,
+        "distanceToOpen": 120,
+        "doorID": 13,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 14,
+        "localBalloons": 0,
+        "modelIndex": 2,
+        "openRotation": -168.75,
+        "scale": 27,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        5232.0,
+        -264.0,
+        -1125.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 6,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        607.0,
+        543.0,
+        3831.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BLUEBERRYBUSH",
+        "modelIndex": 0,
+        "radius": 32,
+        "solid": 1
+      },
+      "name": "BlueBerryBush",
+      "translation": [
+        4789.0,
+        -280.0,
+        -835.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BLUEBERRYBUSH",
+        "modelIndex": 0,
+        "radius": 36,
+        "solid": 1
+      },
+      "name": "BlueBerryBush",
+      "translation": [
+        5118.0,
+        -276.0,
+        -659.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BLUEBERRYBUSH",
+        "modelIndex": 0,
+        "radius": 34,
+        "solid": 1
+      },
+      "name": "BlueBerryBush",
+      "translation": [
+        5270.0,
+        -273.0,
+        -899.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 93,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        4686.0,
+        -3.0,
+        1323.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 82,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        5014.0,
+        -78.0,
+        867.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOPCHEA",
+        "modelIndex": 0,
+        "radius": 120,
+        "solid": 0
+      },
+      "name": "PalmTreeTopChea",
+      "translation": [
+        3860.0,
+        101.0,
+        1992.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 140.625,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        25.0,
+        259.0,
+        16.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_PWSAFETELEPOINT"
+      },
+      "name": "PWSafeTelepoint",
+      "translation": [
+        735.0,
+        238.0,
+        58.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_PWSAFETELEPOINT"
+      },
+      "name": "PWSafeTelepoint",
+      "translation": [
+        -714.0,
+        238.0,
+        -29.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_SNOWFLAKEMOUNTAINHUB",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          0
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.84375,
+        "returnSpawnIndex": 0
+      },
+      "name": "exit",
+      "translation": [
+        -3828.0,
+        405.0,
+        -3653.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 3,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -3808.0,
+        201.0,
+        -2381.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 2,
+        "balloonCountOverride": 0,
+        "closedRotation": 270.0,
+        "distanceToOpen": 180,
+        "doorID": 5,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 24,
+        "localBalloons": 0,
+        "modelIndex": 0,
+        "openRotation": 196.875,
+        "scale": 27,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        -3675.0,
+        315.0,
+        -3558.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 2,
+        "balloonCountOverride": 0,
+        "closedRotation": 270.0,
+        "distanceToOpen": 180,
+        "doorID": 7,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 24,
+        "localBalloons": 0,
+        "modelIndex": 1,
+        "openRotation": 343.125,
+        "scale": 27,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        -3966.0,
+        315.0,
+        -3558.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 38,
+        "solid": 1
+      },
+      "name": "Flowers",
+      "translation": [
+        5094.0,
+        -273.0,
+        -784.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_BUTTERFLY",
+        "unk8": 185,
+        "unkA": 0,
+        "unkB": 14
+      },
+      "name": "Butterfly",
+      "translation": [
+        5098.0,
+        -247.0,
+        -786.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 196.875,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 27,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 20,
+        "unkC": 13,
+        "unkD": 16,
+        "unkE": 13,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        2547.0,
+        -188.0,
+        -2217.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOREVERB",
+        "lineID": 0,
+        "magnitude": 6,
+        "unkB": 0,
+        "vertexIndex": 0
+      },
+      "name": "audioreverb",
+      "translation": [
+        -1216.0,
+        238.0,
+        -1247.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOREVERB",
+        "lineID": 0,
+        "magnitude": 10,
+        "unkB": 0,
+        "vertexIndex": 1
+      },
+      "name": "audioreverb",
+      "translation": [
+        -613.0,
+        238.0,
+        -1583.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOREVERB",
+        "lineID": 0,
+        "magnitude": 10,
+        "unkB": 0,
+        "vertexIndex": 2
+      },
+      "name": "audioreverb",
+      "translation": [
+        42.0,
+        250.0,
+        -1708.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOREVERB",
+        "lineID": 0,
+        "magnitude": 10,
+        "unkB": 0,
+        "vertexIndex": 3
+      },
+      "name": "audioreverb",
+      "translation": [
+        675.0,
+        238.0,
+        -1580.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOREVERB",
+        "lineID": 0,
+        "magnitude": 10,
+        "unkB": 0,
+        "vertexIndex": 4
+      },
+      "name": "audioreverb",
+      "translation": [
+        1480.0,
+        235.0,
+        -1055.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOREVERB",
+        "lineID": 0,
+        "magnitude": 10,
+        "unkB": 0,
+        "vertexIndex": 5
+      },
+      "name": "audioreverb",
+      "translation": [
+        2991.0,
+        18.0,
+        -2261.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -11.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 4,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -2,
+        "unkC": -8,
+        "unkD": 6,
+        "unkE": 7,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1387.0,
+        268.0,
+        -642.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -50.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 6,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -6,
+        "unkC": -9,
+        "unkD": 6,
+        "unkE": 17,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1053.0,
+        274.0,
+        -1329.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -73.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 8,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 21,
+        "unkC": 18,
+        "unkD": 22,
+        "unkE": 22,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -237.0,
+        262.0,
+        -1665.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -118.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 10,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -6,
+        "unkC": -10,
+        "unkD": 1,
+        "unkE": 7,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        769.0,
+        263.0,
+        -1501.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -28.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 14,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 18,
+        "unkC": 9,
+        "unkD": 12,
+        "unkE": 15,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3567.0,
+        277.0,
+        -2946.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 16,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -16,
+        "unkC": -12,
+        "unkD": -4,
+        "unkE": -3,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2819.0,
+        205.0,
+        -3219.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 18,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 8,
+        "unkC": 2,
+        "unkD": -2,
+        "unkE": 12,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2040.0,
+        195.0,
+        -3254.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 163.125,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_WIZPIG1",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.625,
+        "returnSpawnIndex": 7
+      },
+      "name": "exit",
+      "translation": [
+        -1324.0,
+        551.0,
+        3138.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 67.5,
+        "id": "ASSET_OBJECT_MIDIFADE",
+        "scale": 15,
+        "unk1A": 2,
+        "unk1B": 20,
+        "unkA": [
+          5,
+          5,
+          0,
+          14,
+          0,
+          0,
+          11,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "name": "midifade",
+      "translation": [
+        -1895.0,
+        555.0,
+        -794.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 73.125,
+        "id": "ASSET_OBJECT_MIDIFADE",
+        "scale": 20,
+        "unk1A": 2,
+        "unk1B": 20,
+        "unkA": [
+          5,
+          5,
+          0,
+          14,
+          0,
+          0,
+          11,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "midifade",
+      "translation": [
+        -3745.0,
+        134.0,
+        207.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_MIDIFADE",
+        "scale": 28,
+        "unk1A": 2,
+        "unk1B": 20,
+        "unkA": [
+          5,
+          5,
+          11,
+          14,
+          11,
+          11,
+          14,
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "name": "midifade",
+      "translation": [
+        -2411.0,
+        178.0,
+        -3232.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -56.25,
+        "id": "ASSET_OBJECT_MIDIFADE",
+        "scale": 10,
+        "unk1A": 2,
+        "unk1B": 20,
+        "unkA": [
+          5,
+          5,
+          11,
+          14,
+          11,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "name": "midifade",
+      "translation": [
+        2091.0,
+        233.0,
+        -1528.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "id": "ASSET_OBJECT_MIDIFADE",
+        "scale": 16,
+        "unk1A": 2,
+        "unk1B": 20,
+        "unkA": [
+          5,
+          5,
+          11,
+          14,
+          11,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "name": "midifade",
+      "translation": [
+        2107.0,
+        358.0,
+        2032.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_MIDIFADEPOINT",
+        "unk1C": 20,
+        "unk1D": 0,
+        "unk8": 1070,
+        "unkA": 1840,
+        "unkC": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "name": "midifadepoint",
+      "translation": [
+        -3249.0,
+        652.0,
+        1672.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_MIDIFADEPOINT",
+        "unk1C": 20,
+        "unk1D": 0,
+        "unk8": 790,
+        "unkA": 1020,
+        "unkC": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "name": "midifadepoint",
+      "translation": [
+        728.0,
+        462.0,
+        3459.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -3559.0,
+        287.0,
+        -3435.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 77,
+        "solid": 28
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -4096.0,
+        187.0,
+        -2587.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 56,
+        "solid": 24
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -2717.0,
+        521.0,
+        -2692.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 77,
+        "solid": 28
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -2890.0,
+        184.0,
+        -2965.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -3958.0,
+        340.0,
+        -1482.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 81,
+        "solid": 29
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -3073.0,
+        192.0,
+        -1991.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 59,
+        "solid": 21
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -4098.0,
+        187.0,
+        -1954.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 83,
+        "solid": 29
+      },
+      "name": "Beachtree",
+      "translation": [
+        -1901.0,
+        -73.0,
+        -3572.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 78,
+        "solid": 28
+      },
+      "name": "Beachtree",
+      "translation": [
+        -2197.0,
+        100.0,
+        -2919.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BEACHTREE",
+        "modelIndex": 0,
+        "radius": 79,
+        "solid": 31
+      },
+      "name": "Beachtree",
+      "translation": [
+        -1550.0,
+        -75.0,
+        -2906.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        602.0,
+        -75.0,
+        -3545.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 1,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        1184.0,
+        -84.0,
+        -3505.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 3,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        1147.0,
+        -72.0,
+        -3564.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 2,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        2054.0,
+        -71.0,
+        -3248.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        1708.0,
+        -29.0,
+        -2638.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 3,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        716.0,
+        -65.0,
+        -2826.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -53.0,
+        -65.0,
+        -2828.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 3,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -902.0,
+        -72.0,
+        -2872.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -375.0,
+        -57.0,
+        -3721.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -1200.0,
+        -68.0,
+        -3620.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 3,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -1388.0,
+        -81.0,
+        -3537.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -2005.0,
+        -71.0,
+        -2889.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FLOWERS",
+        "modelIndex": 2,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "Flowers",
+      "translation": [
+        -2202.0,
+        61.0,
+        -3543.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 67.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 52,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 15,
+        "unkC": 5,
+        "unkD": 22,
+        "unkE": 33,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -549.0,
+        254.0,
+        1426.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 67.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 62,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 6,
+        "unkC": 13,
+        "unkD": 19,
+        "unkE": 26,
+        "unkF": 0,
+        "vehicleType": 2
+      },
+      "name": "checkpoint",
+      "translation": [
+        -583.0,
+        279.0,
+        1511.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 67.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 42,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 18,
+        "unkC": 7,
+        "unkD": 22,
+        "unkE": 33,
+        "unkF": 0,
+        "vehicleType": 1
+      },
+      "name": "checkpoint",
+      "translation": [
+        -857.0,
+        182.0,
+        2129.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonID": 14,
+        "challengeID": 0,
+        "id": "ASSET_OBJECT_GOLDENBALLOON",
+        "padB": 0,
+        "scale": 64
+      },
+      "name": "GoldenBalloon",
+      "translation": [
+        283.0,
+        544.0,
+        2677.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          11,
+          10
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 9,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        234.0,
+        547.0,
+        2700.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          11,
+          9
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 10,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        248.0,
+        547.0,
+        2560.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          9,
+          10
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 11,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        336.0,
+        544.0,
+        2664.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 10,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 150,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -3665.0,
+        380.0,
+        2737.0
+      ]
+    },
+    {
+      "extras": {
+        "animSpeed": 10,
+        "id": "ASSET_OBJECT_FLAMINGTORCH",
+        "radius": 150,
+        "unkA": 0,
+        "unkB": 0
+      },
+      "name": "FlamingTorch",
+      "translation": [
+        -4039.0,
+        371.0,
+        2327.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BLUEBERRYBUSH",
+        "modelIndex": 0,
+        "radius": 38,
+        "solid": 1
+      },
+      "name": "BlueBerryBush",
+      "translation": [
+        -1326.0,
+        212.0,
+        1417.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 1264
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        -4125.0,
+        343.0,
+        2765.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 656
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        -1339.0,
+        523.0,
+        3213.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 864
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        604.0,
+        609.0,
+        4204.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 840
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        5092.0,
+        -220.0,
+        -1277.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 744
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        -3817.0,
+        363.0,
+        -3720.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_RUBBERSNOWTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "RubberSnowTree",
+      "translation": [
+        -4026.0,
+        303.0,
+        -3409.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -191.25,
+        "entranceID": 7,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_PLANE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -714.0,
+        259.0,
+        636.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_MIDICHSET",
+        "unk8": 55,
+        "unkA": 255,
+        "unkB": 20
+      },
+      "name": "midichset",
+      "translation": [
+        5061.0,
+        -269.0,
+        -929.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_MIDICHSET",
+        "unk8": 203,
+        "unkA": 255,
+        "unkB": 20
+      },
+      "name": "midichset",
+      "translation": [
+        -3788.0,
+        192.0,
+        -2389.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

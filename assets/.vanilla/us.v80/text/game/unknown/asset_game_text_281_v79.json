@@ -1,0 +1,89 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 130,
+                    "right": 231,
+                    "top": 16
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "がんばりましたね。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "もうあと1つ"
+            },
+            {
+                "command": "Text",
+                "value": "アミュレットのかけらを"
+            },
+            {
+                "command": "Text",
+                "value": "てにいれて、"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "にっくき"
+            },
+            {
+                "command": "Text",
+                "value": "ウィズピッグを"
+            },
+            {
+                "command": "Text",
+                "value": "たおしにいこう!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "きみならできるはずです。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

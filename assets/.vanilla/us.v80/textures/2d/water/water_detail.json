@@ -1,0 +1,30 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "format": "RGBA32",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "water_detail_0.png",
+        "water_detail_1.png",
+        "water_detail_2.png",
+        "water_detail_3.png",
+        "water_detail_4.png",
+        "water_detail_5.png",
+        "water_detail_6.png",
+        "water_detail_7.png",
+        "water_detail_8.png",
+        "water_detail_9.png",
+        "water_detail_10.png",
+        "water_detail_11.png",
+        "water_detail_12.png",
+        "water_detail_13.png",
+        "water_detail_14.png",
+        "water_detail_15.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

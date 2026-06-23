@@ -1,0 +1,89 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 138,
+                    "right": 217,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "BIEN JOUE!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "PLUS QU'UNE PIECE"
+            },
+            {
+                "command": "Text",
+                "value": "DE L'AMULETTE"
+            },
+            {
+                "command": "Text",
+                "value": "RECUPERER."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "VOUS POURREZ"
+            },
+            {
+                "command": "Text",
+                "value": "BIENTOT AFFRONTER"
+            },
+            {
+                "command": "Text",
+                "value": "WIZPIG."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "BONNE CHANCE."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

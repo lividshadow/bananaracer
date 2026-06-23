@@ -1,0 +1,53 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 180,
+                    "left": 15,
+                    "right": 115,
+                    "top": 15
+                }
+            },
+            {
+                "command": "Text",
+                "value": "Well done! "
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Take this as"
+            },
+            {
+                "command": "Text",
+                "value": "a reward."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "That was my"
+            },
+            {
+                "command": "Text",
+                "value": "last challenge."
+            },
+            {
+                "command": "Text",
+                "value": "You have"
+            },
+            {
+                "command": "Text",
+                "value": "done well."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

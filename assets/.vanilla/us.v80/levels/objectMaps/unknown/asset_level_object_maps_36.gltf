@@ -1,0 +1,821 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_CAR"
+      },
+      "name": "setuppoint",
+      "translation": [
+        1283.0,
+        -135.0,
+        3153.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 39,
+        "balloonCountOverride": 43,
+        "closedRotation": 247.5,
+        "distanceToOpen": 85,
+        "doorID": 1,
+        "doorType": 3,
+        "id": "ASSET_OBJECT_LEVELDOOR",
+        "keyID": -1,
+        "levelID": 17,
+        "localBalloons": 0,
+        "modelIndex": 3,
+        "openRotation": 90.0,
+        "scale": 31,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "LevelDoor",
+      "translation": [
+        2570.0,
+        -153.0,
+        2060.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -112.5,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_SPACEDUSTALLEY",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.5,
+        "returnSpawnIndex": 1
+      },
+      "name": "exit",
+      "translation": [
+        2696.0,
+        -135.0,
+        2112.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 40,
+        "balloonCountOverride": 44,
+        "closedRotation": -157.5,
+        "distanceToOpen": 85,
+        "doorID": 0,
+        "doorType": 3,
+        "id": "ASSET_OBJECT_LEVELDOOR",
+        "keyID": -1,
+        "levelID": 32,
+        "localBalloons": 0,
+        "modelIndex": 3,
+        "openRotation": 90.0,
+        "scale": 31,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "LevelDoor",
+      "translation": [
+        2040.0,
+        -152.0,
+        2613.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 41,
+        "balloonCountOverride": 45,
+        "closedRotation": 129.375,
+        "distanceToOpen": 85,
+        "doorID": 2,
+        "doorType": 3,
+        "id": "ASSET_OBJECT_LEVELDOOR",
+        "keyID": -1,
+        "levelID": 15,
+        "localBalloons": 0,
+        "modelIndex": 3,
+        "openRotation": 90.0,
+        "scale": 31,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "LevelDoor",
+      "translation": [
+        826.0,
+        -153.0,
+        2338.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 42,
+        "balloonCountOverride": 46,
+        "closedRotation": 84.375,
+        "distanceToOpen": 85,
+        "doorID": 3,
+        "doorType": 3,
+        "id": "ASSET_OBJECT_LEVELDOOR",
+        "keyID": -1,
+        "levelID": 33,
+        "localBalloons": 0,
+        "modelIndex": 3,
+        "openRotation": 90.0,
+        "scale": 31,
+        "textID": 42,
+        "unk10": 0
+      },
+      "name": "LevelDoor",
+      "translation": [
+        554.0,
+        -153.0,
+        1629.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 0,
+        "balloonCountOverride": 0,
+        "closedRotation": -101.25,
+        "distanceToOpen": 85,
+        "doorID": 5,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 0,
+        "localBalloons": 0,
+        "modelIndex": 0,
+        "openRotation": -39.375,
+        "scale": 66,
+        "textID": 255,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        1616.0,
+        -155.0,
+        3302.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 0,
+        "balloonCountOverride": 0,
+        "closedRotation": 258.75,
+        "distanceToOpen": 85,
+        "doorID": 6,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_WORLDGATE",
+        "keyID": -1,
+        "levelID": 0,
+        "localBalloons": 0,
+        "modelIndex": 1,
+        "openRotation": 196.875,
+        "scale": 66,
+        "textID": 255,
+        "unk10": 0
+      },
+      "name": "WorldGate",
+      "translation": [
+        915.0,
+        -155.0,
+        3160.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 168.75,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_CENTRALAREAHUB",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.9765625,
+        "returnSpawnIndex": 0
+      },
+      "name": "exit",
+      "translation": [
+        1237.0,
+        -155.0,
+        3405.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_STOPWATCHMAN",
+        "unk8": [
+          0,
+          64,
+          0,
+          1
+        ]
+      },
+      "name": "Stopwatch-man",
+      "translation": [
+        2018.0,
+        -155.0,
+        1544.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          4,
+          1
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 0,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        2000.0,
+        -155.0,
+        1487.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          2,
+          0
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 1,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        1602.0,
+        -155.0,
+        1153.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          3,
+          1
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 2,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        1147.0,
+        -155.0,
+        1450.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          4,
+          2
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 3,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        1183.0,
+        -155.0,
+        2029.0
+      ]
+    },
+    {
+      "extras": {
+        "adjacent": [
+          255,
+          255,
+          0,
+          3
+        ],
+        "elevation": 0,
+        "id": "ASSET_OBJECT_AINODE",
+        "nodeID": 4,
+        "padF": 0,
+        "unk8": 0
+      },
+      "name": "ai-node",
+      "translation": [
+        1726.0,
+        -155.0,
+        2133.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -247.5,
+        "id": "ASSET_OBJECT_TROPHYCAB",
+        "pad9": 0
+      },
+      "name": "trophycab",
+      "translation": [
+        3303.0,
+        -94.0,
+        984.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 67.5,
+        "entranceID": 1,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_CAR"
+      },
+      "name": "setuppoint",
+      "translation": [
+        2353.0,
+        -137.0,
+        1969.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -157.5,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_DARKMOONCAVERNS",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.5703125,
+        "returnSpawnIndex": 2
+      },
+      "name": "exit",
+      "translation": [
+        2109.0,
+        -117.0,
+        2767.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 22.5,
+        "entranceID": 2,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_CAR"
+      },
+      "name": "setuppoint",
+      "translation": [
+        1941.0,
+        -146.0,
+        2410.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 129.375,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_SPACEPORTALPHA",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.6328125,
+        "returnSpawnIndex": 3
+      },
+      "name": "exit",
+      "translation": [
+        701.0,
+        -154.0,
+        2461.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -50.625,
+        "entranceID": 3,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_CAR"
+      },
+      "name": "setuppoint",
+      "translation": [
+        1002.0,
+        -140.0,
+        2204.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 84.375,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_STARCITY",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.734375,
+        "returnSpawnIndex": 4
+      },
+      "name": "exit",
+      "translation": [
+        382.0,
+        -129.0,
+        1625.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -95.625,
+        "entranceID": 4,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_CAR"
+      },
+      "name": "setuppoint",
+      "translation": [
+        789.0,
+        -143.0,
+        1645.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 776
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        2795.0,
+        -87.0,
+        2148.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 816
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        2164.0,
+        -86.0,
+        2901.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 784
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        596.0,
+        -88.0,
+        2540.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_RANGETRIGGER",
+        "particleFlags": 2,
+        "radius": 1016
+      },
+      "name": "RangeTrigger",
+      "translation": [
+        254.0,
+        -83.0,
+        1626.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 0,
+        "balloonCountOverride": 0,
+        "closedRotation": 67.5,
+        "distanceToOpen": 200,
+        "doorID": 8,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_BIGBOSSDOOR",
+        "keyID": -1,
+        "levelID": 55,
+        "localBalloons": 0,
+        "modelIndex": 0,
+        "openRotation": 123.75,
+        "scale": 67,
+        "textID": 255,
+        "unk10": 0
+      },
+      "name": "bigbossdoor",
+      "translation": [
+        2678.0,
+        -157.0,
+        -2003.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonCount": 0,
+        "balloonCountOverride": 0,
+        "closedRotation": 67.5,
+        "distanceToOpen": 200,
+        "doorID": 9,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_BIGBOSSDOOR",
+        "keyID": -1,
+        "levelID": 55,
+        "localBalloons": 0,
+        "modelIndex": 1,
+        "openRotation": 11.25,
+        "scale": 67,
+        "textID": 255,
+        "unk10": 0
+      },
+      "name": "bigbossdoor",
+      "translation": [
+        3351.0,
+        -157.0,
+        -1726.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -22.5,
+        "bossFlag": "WARP_FLAG_NORMAL",
+        "destinationMapId": "ASSET_LEVEL_WIZPIG2",
+        "id": "ASSET_OBJECT_EXIT",
+        "overworldSpawnIndex": 0,
+        "pad12": [
+          255,
+          255,
+          0,
+          255,
+          255
+        ],
+        "pad19": 0,
+        "pad9": 255,
+        "padB": [
+          0,
+          255,
+          255,
+          255,
+          255
+        ],
+        "radius": 1.9765625,
+        "returnSpawnIndex": 5
+      },
+      "name": "exit",
+      "translation": [
+        3077.0,
+        -157.0,
+        -2077.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 157.5,
+        "entranceID": 5,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        1955.0,
+        -143.0,
+        784.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -22.5,
+        "doorType": 0,
+        "id": "ASSET_OBJECT_TTDOOR",
+        "padD": 0,
+        "padF": 0,
+        "radius": 120,
+        "scale": 66,
+        "textID": 49,
+        "unk9": -84.375
+      },
+      "name": "TTDoor",
+      "translation": [
+        2166.0,
+        -155.0,
+        731.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 157.5,
+        "doorType": 1,
+        "id": "ASSET_OBJECT_TTDOOR",
+        "padD": 0,
+        "padF": 0,
+        "radius": 120,
+        "scale": 66,
+        "textID": 49,
+        "unk9": 225.0
+      },
+      "name": "TTDoor",
+      "translation": [
+        1834.0,
+        -155.0,
+        616.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_LEVELNAME",
+        "levelID": 33,
+        "radius": 40
+      },
+      "name": "levelname",
+      "translation": [
+        534.0,
+        -122.0,
+        1635.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_LEVELNAME",
+        "levelID": 15,
+        "radius": 40
+      },
+      "name": "levelname",
+      "translation": [
+        816.0,
+        -127.0,
+        2361.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_LEVELNAME",
+        "levelID": 32,
+        "radius": 40
+      },
+      "name": "levelname",
+      "translation": [
+        2058.0,
+        -129.0,
+        2631.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_LEVELNAME",
+        "levelID": 17,
+        "radius": 40
+      },
+      "name": "levelname",
+      "translation": [
+        2588.0,
+        -136.0,
+        2058.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "anti-aliased": true,
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "IA8",
+    "images": [
+        "splash_8.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 26,
+    "sprite-y": 11,
+    "type": "Texture"
+}

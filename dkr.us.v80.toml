@@ -1,0 +1,38 @@
+[input]
+elf_path = "../Diddy-Kong-Racing/build/dkr.us.v80.elf"
+output_func_path = "recomp_src"
+relocatable_sections_path = ""
+
+[options]
+single_file_output = true
+use_absolute_symbols = false
+
+[patches]
+stubs = [
+    # boot
+
+    "aspMainTextStart",
+    "aspMainTextEnd",
+
+    # main RSP dispatcher
+    "rsp_init",
+    "rsp_segment",
+
+    # core DKR RSP pipelines
+    "rspF3DDKRDramStart",
+    "rspF3DDKRDramEnd",
+    "rspF3DDKRFifoStart",
+    "rspF3DDKRFifoEnd",
+    "rspF3DDKRXbusStart",
+    "rspF3DDKRXbusEnd",
+
+    # secondary/unknown pipelines (VERY important)
+    "rspUnknown2Start",
+    "rspUnknown2End",
+
+    # audio / scheduler hooks
+    "dRspInit",
+
+    # debugging
+    "set_breakpoint",
+]

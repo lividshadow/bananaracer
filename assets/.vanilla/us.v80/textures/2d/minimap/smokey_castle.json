@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "IA8",
+    "images": [
+        "smokey_castle.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 17,
+    "sprite-y": 4,
+    "type": "Texture"
+}

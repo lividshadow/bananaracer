@@ -1,0 +1,30 @@
+{
+    "pages": [
+        [
+            {
+                "command": "Text",
+                "value": "This is the start of "
+            },
+            {
+                "command": "Text",
+                "value": "some even more "
+            },
+            {
+                "command": "Text",
+                "value": "crummy text sequence"
+            }
+        ],
+        [
+            {
+                "command": "Text",
+                "value": "This is the second page"
+            },
+            {
+                "command": "Text",
+                "value": "of text."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

@@ -1,0 +1,739 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": -45.0,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        1230.0,
+        -43.0,
+        428.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -45.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 0,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1915.0,
+        -43.0,
+        -199.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -22.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 2,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        2425.0,
+        -43.0,
+        -934.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 11.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 4,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        2516.0,
+        -43.0,
+        -1676.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 28.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 6,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        2368.0,
+        -37.0,
+        -2271.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 50.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 8,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1987.0,
+        -43.0,
+        -2943.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 10,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1216.0,
+        -43.0,
+        -3221.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -270.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 12,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        193.0,
+        -43.0,
+        -3280.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -253.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 14,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1240.0,
+        -43.0,
+        -3257.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -230.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 16,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1754.0,
+        -43.0,
+        -3088.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -191.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 18,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2166.0,
+        -43.0,
+        -2430.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -180.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 20,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2326.0,
+        -43.0,
+        -1856.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -191.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 22,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2328.0,
+        -43.0,
+        -715.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -208.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 24,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2488.0,
+        -43.0,
+        -107.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -196.875,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 26,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3157.0,
+        -43.0,
+        914.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -168.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 28,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3224.0,
+        -42.0,
+        1918.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -135.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 30,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2873.0,
+        -43.0,
+        2689.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -95.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 32,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2063.0,
+        -80.0,
+        3193.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -73.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 34,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1189.0,
+        -43.0,
+        3211.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -33.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 36,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -536.0,
+        -43.0,
+        2827.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -33.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 38,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        208.0,
+        -43.0,
+        1516.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -56.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 40,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        667.0,
+        -43.0,
+        842.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -50.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 42,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1263.0,
+        -43.0,
+        403.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

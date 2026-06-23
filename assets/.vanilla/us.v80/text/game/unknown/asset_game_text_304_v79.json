@@ -1,0 +1,65 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 204,
+                    "left": 45,
+                    "right": 210,
+                    "top": 32
+                }
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "たちいりきんし!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "T.T.アミュレットを"
+            },
+            {
+                "command": "Text",
+                "value": "かんせいさせ、"
+            },
+            {
+                "command": "Text",
+                "value": "バル-ンを"
+            },
+            {
+                "command": "Text",
+                "value": "47こあつめないと"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "このドアは"
+            },
+            {
+                "command": "Text",
+                "value": "ひらきません。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "がんばってね。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

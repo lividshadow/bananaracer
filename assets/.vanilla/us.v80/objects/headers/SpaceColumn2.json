@@ -1,0 +1,60 @@
+{
+    "behavior": "BHV_HIT_TESTER_2",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0008"
+    ],
+    "internal-name": "SpaceColumn2",
+    "junk-data": [
+        44,
+        42,
+        0,
+        0
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_SPACECOLUMN2"
+    ],
+    "scale": 0.8999999761581421,
+    "shade-ambient": 1.9900000095367432,
+    "shade-angle-y": -12300,
+    "shade-angle-z": 7672,
+    "shade-brightness": 0.15199999511241913,
+    "shadow-group": 0,
+    "shadow-scale": 4.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 9,
+        "unk38": 61,
+        "unk3A": 0,
+        "unk3B": 80,
+        "unk3C": 120,
+        "unk3D": 150,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 3000,
+        "unk4C": 10000,
+        "unk50": 0,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 0,
+        "unk5C": 0,
+        "unk5D": 0,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 1,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "water-effect-group": 0
+}

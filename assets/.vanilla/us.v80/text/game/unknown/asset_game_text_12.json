@@ -1,0 +1,53 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "Text",
+                "value": "CONGRATULATIONS!! "
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "You have collected"
+            },
+            {
+                "command": "Text",
+                "value": "your first Golden"
+            },
+            {
+                "command": "Text",
+                "value": "Balloon."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "You can now use"
+            },
+            {
+                "command": "Text",
+                "value": "this, to enter the"
+            },
+            {
+                "command": "Text",
+                "value": "DINO DOMAIN!!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

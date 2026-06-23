@@ -1,0 +1,51 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BLUEBERRYBUSH",
+        "modelIndex": 0,
+        "radius": 40,
+        "solid": 1
+      },
+      "name": "BlueBerryBush",
+      "translation": [
+        -4302.0,
+        0.0,
+        1280.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_BLUEBERRYBUSH",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "BlueBerryBush",
+      "translation": [
+        -3734.0,
+        0.0,
+        1120.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

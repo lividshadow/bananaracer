@@ -1,0 +1,34 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_TEXSCROLL",
+        "textureIndex": 17,
+        "unkA": 0,
+        "unkB": 47
+      },
+      "name": "texscroll",
+      "translation": [
+        701.0,
+        399.0,
+        2263.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

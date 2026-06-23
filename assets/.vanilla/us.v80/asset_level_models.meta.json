@@ -1,0 +1,230 @@
+{
+    "files": {
+        "order": [
+            "ASSET_LEVELMODEL_CENTRALAREAHUB",
+            "ASSET_LEVELMODEL_BLUEY",
+            "ASSET_LEVELMODEL_DRAGONFORESTHUB",
+            "ASSET_LEVELMODEL_FOSSILCANYON",
+            "ASSET_LEVELMODEL_PIRATELAGOON",
+            "ASSET_LEVELMODEL_ANCIENTLAKE",
+            "ASSET_LEVELMODEL_WALRUSCOVE",
+            "ASSET_LEVELMODEL_HOTTOPVOLCANO",
+            "ASSET_LEVELMODEL_WHALEBAY",
+            "ASSET_LEVELMODEL_SNOWBALLVALLEY",
+            "ASSET_LEVELMODEL_TEMPLETRACK",
+            "ASSET_LEVELMODEL_CRESCENTISLAND",
+            "ASSET_LEVELMODEL_FIREMOUNTAIN",
+            "ASSET_LEVELMODEL_DINODOMAINHUB",
+            "ASSET_LEVELMODEL_EVERFROSTPEAK",
+            "ASSET_LEVELMODEL_SHERBETISLANDHUB",
+            "ASSET_LEVELMODEL_FRONTEND",
+            "ASSET_LEVELMODEL_CHARACTERSELECT",
+            "ASSET_LEVELMODEL_SPACEPORTALPHA",
+            "ASSET_LEVELMODEL_HORSESHOEGULCH",
+            "ASSET_LEVELMODEL_GREENWOODVILLAGE",
+            "ASSET_LEVELMODEL_SPACEDUSTALLEY",
+            "ASSET_LEVELMODEL_TITLESCREEN",
+            "ASSET_LEVELMODEL_BOULDERCANYON",
+            "ASSET_LEVELMODEL_WINDMILLPLAINS",
+            "ASSET_LEVELMODEL_SNOWFLAKEMOUNTAINHUB",
+            "ASSET_LEVELMODEL_SMOKEYCASTLE",
+            "ASSET_LEVELMODEL_DARKWATERBEACH",
+            "ASSET_LEVELMODEL_ICICLEPYRAMID",
+            "ASSET_LEVELMODEL_FROSTYVILLAGE",
+            "ASSET_LEVELMODEL_JUNGLEFALLS",
+            "ASSET_LEVELMODEL_TREASURECAVES",
+            "ASSET_LEVELMODEL_HAUNTEDWOODS",
+            "ASSET_LEVELMODEL_DARKMOONCAVERNS",
+            "ASSET_LEVELMODEL_STARCITY",
+            "ASSET_LEVELMODEL_TROPHYRACE",
+            "ASSET_LEVELMODEL_FUTUREFUNLANDHUB",
+            "ASSET_LEVELMODEL_INTROSEQUENCE",
+            "ASSET_LEVELMODEL_SMOKEY",
+            "ASSET_LEVELMODEL_TRICKYTOPS",
+            "ASSET_LEVELMODEL_WIZPIGMOUTHSEQUENCE",
+            "ASSET_LEVELMODEL_ROCKETSEQUENCE",
+            "ASSET_LEVELMODEL_WIZPIG1",
+            "ASSET_LEVELMODEL_OCEANTRACK",
+            "ASSET_LEVELMODEL_VOLCANOTRACK",
+            "ASSET_LEVELMODEL_SNOWMOUNTAINTRACK",
+            "ASSET_LEVELMODEL_PARTYSEQUENCE",
+            "ASSET_LEVELMODEL_BLUEYANIMATION",
+            "ASSET_LEVELMODEL_WIZPIG1ANIMATION",
+            "ASSET_LEVELMODEL_BUBBLER",
+            "ASSET_LEVELMODEL_BUBBLERANIMATION",
+            "ASSET_LEVELMODEL_WIZPIG2ANIMATION",
+            "ASSET_LEVELMODEL_WIZPIG2",
+            "ASSET_LEVELMODEL_ENDINGPART1",
+            "ASSET_LEVELMODEL_ENDINGPART2"
+        ],
+        "sections": {
+            "ASSET_LEVELMODEL_ANCIENTLAKE": {
+                "filename": "dino_domain/ancient_lake.json"
+            },
+            "ASSET_LEVELMODEL_BLUEY": {
+                "filename": "snowflake_mountain/bluey.json"
+            },
+            "ASSET_LEVELMODEL_BLUEYANIMATION": {
+                "filename": "cutscene/bluey_animation.json"
+            },
+            "ASSET_LEVELMODEL_BOULDERCANYON": {
+                "filename": "dragon_forest/boulder_canyon.json"
+            },
+            "ASSET_LEVELMODEL_BUBBLER": {
+                "filename": "sherbet_island/bubbler.json"
+            },
+            "ASSET_LEVELMODEL_BUBBLERANIMATION": {
+                "filename": "cutscene/bubbler_animation.json"
+            },
+            "ASSET_LEVELMODEL_CENTRALAREAHUB": {
+                "filename": "central_area/central_area_hub.json"
+            },
+            "ASSET_LEVELMODEL_CHARACTERSELECT": {
+                "filename": "menu/character_select.json"
+            },
+            "ASSET_LEVELMODEL_CRESCENTISLAND": {
+                "filename": "sherbet_island/crescent_island_v79.json"
+            },
+            "ASSET_LEVELMODEL_DARKMOONCAVERNS": {
+                "filename": "future_fun_land/darkmoon_caverns.json"
+            },
+            "ASSET_LEVELMODEL_DARKWATERBEACH": {
+                "filename": "sherbet_island/darkwater_beach.json"
+            },
+            "ASSET_LEVELMODEL_DINODOMAINHUB": {
+                "filename": "dino_domain/dino_domain_hub.json"
+            },
+            "ASSET_LEVELMODEL_DRAGONFORESTHUB": {
+                "filename": "dragon_forest/dragon_forest_hub.json"
+            },
+            "ASSET_LEVELMODEL_ENDINGPART1": {
+                "filename": "cutscene/ending_part1.json"
+            },
+            "ASSET_LEVELMODEL_ENDINGPART2": {
+                "filename": "cutscene/ending_part2.json"
+            },
+            "ASSET_LEVELMODEL_EVERFROSTPEAK": {
+                "filename": "snowflake_mountain/everfrost_peak.json"
+            },
+            "ASSET_LEVELMODEL_FIREMOUNTAIN": {
+                "filename": "dino_domain/fire_mountain_v79.json"
+            },
+            "ASSET_LEVELMODEL_FOSSILCANYON": {
+                "filename": "dino_domain/fossil_canyon.json"
+            },
+            "ASSET_LEVELMODEL_FRONTEND": {
+                "filename": "menu/front_end.json"
+            },
+            "ASSET_LEVELMODEL_FROSTYVILLAGE": {
+                "filename": "snowflake_mountain/frosty_village.json"
+            },
+            "ASSET_LEVELMODEL_FUTUREFUNLANDHUB": {
+                "filename": "future_fun_land/future_fun_land_hub.json"
+            },
+            "ASSET_LEVELMODEL_GREENWOODVILLAGE": {
+                "filename": "dragon_forest/greenwood_village.json"
+            },
+            "ASSET_LEVELMODEL_HAUNTEDWOODS": {
+                "filename": "dragon_forest/haunted_woods.json"
+            },
+            "ASSET_LEVELMODEL_HORSESHOEGULCH": {
+                "filename": "unused/horseshoe_gulch.json"
+            },
+            "ASSET_LEVELMODEL_HOTTOPVOLCANO": {
+                "filename": "dino_domain/hot_top_volcano.json"
+            },
+            "ASSET_LEVELMODEL_ICICLEPYRAMID": {
+                "filename": "snowflake_mountain/icicle_pyramid.json"
+            },
+            "ASSET_LEVELMODEL_INTROSEQUENCE": {
+                "filename": "cutscene/intro_sequence.json"
+            },
+            "ASSET_LEVELMODEL_JUNGLEFALLS": {
+                "filename": "dino_domain/jungle_falls.json"
+            },
+            "ASSET_LEVELMODEL_OCEANTRACK": {
+                "filename": "unused/ocean_track.json"
+            },
+            "ASSET_LEVELMODEL_PARTYSEQUENCE": {
+                "filename": "cutscene/party_sequence.json"
+            },
+            "ASSET_LEVELMODEL_PIRATELAGOON": {
+                "filename": "sherbet_island/pirate_lagoon_v79.json"
+            },
+            "ASSET_LEVELMODEL_ROCKETSEQUENCE": {
+                "filename": "cutscene/rocket_sequence.json"
+            },
+            "ASSET_LEVELMODEL_SHERBETISLANDHUB": {
+                "filename": "sherbet_island/sherbet_island_hub.json"
+            },
+            "ASSET_LEVELMODEL_SMOKEY": {
+                "filename": "dragon_forest/smokey.json"
+            },
+            "ASSET_LEVELMODEL_SMOKEYCASTLE": {
+                "filename": "dragon_forest/smokey_castle.json"
+            },
+            "ASSET_LEVELMODEL_SNOWBALLVALLEY": {
+                "filename": "snowflake_mountain/snowball_valley.json"
+            },
+            "ASSET_LEVELMODEL_SNOWFLAKEMOUNTAINHUB": {
+                "filename": "snowflake_mountain/snowflake_mountain_hub.json"
+            },
+            "ASSET_LEVELMODEL_SNOWMOUNTAINTRACK": {
+                "filename": "unused/snow_mountain_track.json"
+            },
+            "ASSET_LEVELMODEL_SPACEDUSTALLEY": {
+                "filename": "future_fun_land/spacedust_alley.json"
+            },
+            "ASSET_LEVELMODEL_SPACEPORTALPHA": {
+                "filename": "future_fun_land/spaceport_alpha_v80.json"
+            },
+            "ASSET_LEVELMODEL_STARCITY": {
+                "filename": "future_fun_land/star_city_v79.json"
+            },
+            "ASSET_LEVELMODEL_TEMPLETRACK": {
+                "filename": "unused/temple_track.json"
+            },
+            "ASSET_LEVELMODEL_TITLESCREEN": {
+                "filename": "menu/title_screen.json"
+            },
+            "ASSET_LEVELMODEL_TREASURECAVES": {
+                "filename": "sherbet_island/treasure_caves.json"
+            },
+            "ASSET_LEVELMODEL_TRICKYTOPS": {
+                "filename": "dino_domain/trickytops.json"
+            },
+            "ASSET_LEVELMODEL_TROPHYRACE": {
+                "filename": "menu/trophy_race.json"
+            },
+            "ASSET_LEVELMODEL_VOLCANOTRACK": {
+                "filename": "unused/volcano_track.json"
+            },
+            "ASSET_LEVELMODEL_WALRUSCOVE": {
+                "filename": "snowflake_mountain/walrus_cove.json"
+            },
+            "ASSET_LEVELMODEL_WHALEBAY": {
+                "filename": "sherbet_island/whale_bay.json"
+            },
+            "ASSET_LEVELMODEL_WINDMILLPLAINS": {
+                "filename": "dragon_forest/windmill_plains.json"
+            },
+            "ASSET_LEVELMODEL_WIZPIG1": {
+                "filename": "central_area/wizpig1.json"
+            },
+            "ASSET_LEVELMODEL_WIZPIG1ANIMATION": {
+                "filename": "cutscene/wizpig1_animation.json"
+            },
+            "ASSET_LEVELMODEL_WIZPIG2": {
+                "filename": "future_fun_land/wizpig2.json"
+            },
+            "ASSET_LEVELMODEL_WIZPIG2ANIMATION": {
+                "filename": "cutscene/wizpig2_animation.json"
+            },
+            "ASSET_LEVELMODEL_WIZPIGMOUTHSEQUENCE": {
+                "filename": "cutscene/wizpig_mouth_sequence.json"
+            }
+        }
+    },
+    "folder": "levels/models",
+    "type": "LevelModel"
+}

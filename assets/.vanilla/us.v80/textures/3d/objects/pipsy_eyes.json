@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 2.133,
+    "images": [
+        "pipsy_eyes_0.png",
+        "pipsy_eyes_1.png",
+        "pipsy_eyes_2.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

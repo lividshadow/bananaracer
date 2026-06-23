@@ -1,0 +1,37 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 220,
+                    "left": 32,
+                    "right": 223,
+                    "top": 158
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "DER ERSTE SPIELER, DER"
+            },
+            {
+                "command": "Text",
+                "value": "10 BANANEN IN SEINER"
+            },
+            {
+                "command": "Text",
+                "value": "SCHATZTRUHE HAT, GEWINNT!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

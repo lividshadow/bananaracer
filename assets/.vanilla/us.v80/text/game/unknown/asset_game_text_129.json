@@ -1,0 +1,61 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 187,
+                    "left": 40,
+                    "right": 205,
+                    "top": 53
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "BOSS TUER"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "DU BRAUCHST"
+            },
+            {
+                "command": "Text",
+                "value": "ALLE BALLONS"
+            },
+            {
+                "command": "Text",
+                "value": "DIESER WELT, UM"
+            },
+            {
+                "command": "Text",
+                "value": "DIE TUER ZU OEFFNEN."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "FAHRE WEITER!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

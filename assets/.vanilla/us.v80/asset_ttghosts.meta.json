@@ -1,0 +1,90 @@
+{
+    "files": {
+        "order": [
+            "ASSET_TTGHOSTS_FOSSILCANYON",
+            "ASSET_TTGHOSTS_PIRATELAGOON",
+            "ASSET_TTGHOSTS_ANCIENTLAKE",
+            "ASSET_TTGHOSTS_WALRUSCOVE",
+            "ASSET_TTGHOSTS_HOTTOPVOLCANO",
+            "ASSET_TTGHOSTS_WHALEBAY",
+            "ASSET_TTGHOSTS_SNOWBALLVALLEY",
+            "ASSET_TTGHOSTS_CRESCENTISLAND",
+            "ASSET_TTGHOSTS_EVERFROSTPEAK",
+            "ASSET_TTGHOSTS_SPACEPORTALPHA",
+            "ASSET_TTGHOSTS_SPACEDUSTALLEY",
+            "ASSET_TTGHOSTS_GREENWOODVILLAGE",
+            "ASSET_TTGHOSTS_BOULDERCANYON",
+            "ASSET_TTGHOSTS_WINDMILLPLAINS",
+            "ASSET_TTGHOSTS_FROSTYVILLAGE",
+            "ASSET_TTGHOSTS_JUNGLEFALLS",
+            "ASSET_TTGHOSTS_TREASURECAVES",
+            "ASSET_TTGHOSTS_HAUNTEDWOODS",
+            "ASSET_TTGHOSTS_DARKMOONCAVERNS",
+            "ASSET_TTGHOSTS_STARCITY"
+        ],
+        "sections": {
+            "ASSET_TTGHOSTS_ANCIENTLAKE": {
+                "filename": "AncientLakeGhost.json"
+            },
+            "ASSET_TTGHOSTS_BOULDERCANYON": {
+                "filename": "BoulderCanyonGhost.json"
+            },
+            "ASSET_TTGHOSTS_CRESCENTISLAND": {
+                "filename": "CrescentIslandGhost.json"
+            },
+            "ASSET_TTGHOSTS_DARKMOONCAVERNS": {
+                "filename": "DarkmoonCavernsGhost.json"
+            },
+            "ASSET_TTGHOSTS_EVERFROSTPEAK": {
+                "filename": "EverfrostPeakGhost.json"
+            },
+            "ASSET_TTGHOSTS_FOSSILCANYON": {
+                "filename": "FossilCanyonGhost.json"
+            },
+            "ASSET_TTGHOSTS_FROSTYVILLAGE": {
+                "filename": "FrostyVillageGhost.json"
+            },
+            "ASSET_TTGHOSTS_GREENWOODVILLAGE": {
+                "filename": "GreenwoodVillageGhost.json"
+            },
+            "ASSET_TTGHOSTS_HAUNTEDWOODS": {
+                "filename": "HauntedWoodsGhost.json"
+            },
+            "ASSET_TTGHOSTS_HOTTOPVOLCANO": {
+                "filename": "HotTopVolcanoGhost.json"
+            },
+            "ASSET_TTGHOSTS_JUNGLEFALLS": {
+                "filename": "JungleFallsGhost.json"
+            },
+            "ASSET_TTGHOSTS_PIRATELAGOON": {
+                "filename": "PirateLagoonGhost.json"
+            },
+            "ASSET_TTGHOSTS_SNOWBALLVALLEY": {
+                "filename": "SnowballValleyGhost.json"
+            },
+            "ASSET_TTGHOSTS_SPACEDUSTALLEY": {
+                "filename": "SpacedustAlleyGhost.json"
+            },
+            "ASSET_TTGHOSTS_SPACEPORTALPHA": {
+                "filename": "SpaceportAlphaGhost.json"
+            },
+            "ASSET_TTGHOSTS_STARCITY": {
+                "filename": "StarCityGhost.json"
+            },
+            "ASSET_TTGHOSTS_TREASURECAVES": {
+                "filename": "TreasureCavesGhost.json"
+            },
+            "ASSET_TTGHOSTS_WALRUSCOVE": {
+                "filename": "WalrusCoveGhost.json"
+            },
+            "ASSET_TTGHOSTS_WHALEBAY": {
+                "filename": "WhaleBayGhost.json"
+            },
+            "ASSET_TTGHOSTS_WINDMILLPLAINS": {
+                "filename": "WindmillPlainsGhost.json"
+            }
+        }
+    },
+    "folder": "tt_ghosts",
+    "type": "TTGhost"
+}

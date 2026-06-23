@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "reed_leaves_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 48,
+    "sprite-y": 120,
+    "type": "Texture"
+}

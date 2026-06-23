@@ -1,0 +1,81 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Unknown7",
+                "value": 20
+            },
+            {
+                "command": "Text",
+                "value": "WIZPIG LE SORCIER-PORC A "
+            },
+            {
+                "command": "Text",
+                "value": "LANCE UN SORT SUR"
+            },
+            {
+                "command": "Text",
+                "value": "L'ILE DE TIMBER."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOTRE MISSION EST DE RECUPERER"
+            },
+            {
+                "command": "Text",
+                "value": "TOUS LES BALLONS D'OR AINSI"
+            },
+            {
+                "command": "Text",
+                "value": "QUE LES AMULETTES POUR"
+            },
+            {
+                "command": "Text",
+                "value": "ENFIN SAUVER L'ILE!!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "BONNE CHANCE"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

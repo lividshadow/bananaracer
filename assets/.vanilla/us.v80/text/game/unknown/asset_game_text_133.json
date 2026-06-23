@@ -1,0 +1,45 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 120,
+                    "left": 10,
+                    "right": 110,
+                    "top": 15
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "Well done!"
+            },
+            {
+                "command": "Text",
+                "value": "You are too"
+            },
+            {
+                "command": "Text",
+                "value": "fast for me!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Press A"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

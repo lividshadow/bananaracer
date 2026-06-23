@@ -1,0 +1,270 @@
+{
+    "files": {
+        "order": [
+            "ASSET_LEVEL_CENTRALAREAHUB",
+            "ASSET_LEVEL_BLUEY1",
+            "ASSET_LEVEL_DRAGONFORESTHUB",
+            "ASSET_LEVEL_FOSSILCANYON",
+            "ASSET_LEVEL_PIRATELAGOON",
+            "ASSET_LEVEL_ANCIENTLAKE",
+            "ASSET_LEVEL_WALRUSCOVE",
+            "ASSET_LEVEL_HOTTOPVOLCANO",
+            "ASSET_LEVEL_WHALEBAY",
+            "ASSET_LEVEL_SNOWBALLVALLEY",
+            "ASSET_LEVEL_CRESCENTISLAND",
+            "ASSET_LEVEL_FIREMOUNTAIN",
+            "ASSET_LEVEL_DINODOMAINHUB",
+            "ASSET_LEVEL_EVERFROSTPEAK",
+            "ASSET_LEVEL_SHERBETISLANDHUB",
+            "ASSET_LEVEL_SPACEPORTALPHA",
+            "ASSET_LEVEL_HORSESHOEGULCH",
+            "ASSET_LEVEL_SPACEDUSTALLEY",
+            "ASSET_LEVEL_GREENWOODVILLAGE",
+            "ASSET_LEVEL_BOULDERCANYON",
+            "ASSET_LEVEL_WINDMILLPLAINS",
+            "ASSET_LEVEL_FRONTEND",
+            "ASSET_LEVEL_CHARACTERSELECT",
+            "ASSET_LEVEL_TITLESCREENSEQUENCE",
+            "ASSET_LEVEL_SNOWFLAKEMOUNTAINHUB",
+            "ASSET_LEVEL_SMOKEYCASTLE",
+            "ASSET_LEVEL_DARKWATERBEACH",
+            "ASSET_LEVEL_ICICLEPYRAMID",
+            "ASSET_LEVEL_FROSTYVILLAGE",
+            "ASSET_LEVEL_JUNGLEFALLS",
+            "ASSET_LEVEL_TREASURECAVES",
+            "ASSET_LEVEL_HAUNTEDWOODS",
+            "ASSET_LEVEL_DARKMOONCAVERNS",
+            "ASSET_LEVEL_STARCITY",
+            "ASSET_LEVEL_TROPHYRACE",
+            "ASSET_LEVEL_FUTUREFUNLANDHUB",
+            "ASSET_LEVEL_OPENINGSEQUENCE",
+            "ASSET_LEVEL_WIZPIG1",
+            "ASSET_LEVEL_TRICKYTOPS1",
+            "ASSET_LEVEL_OPTIONSBACKGROUND",
+            "ASSET_LEVEL_BUBBLER1",
+            "ASSET_LEVEL_SMOKEY1",
+            "ASSET_LEVEL_WIZPIGMOUTHSEQUENCE",
+            "ASSET_LEVEL_WIZPIGAMULETSEQUENCE",
+            "ASSET_LEVEL_TTAMULETSEQUENCE",
+            "ASSET_LEVEL_ROCKETSEQUENCE",
+            "ASSET_LEVEL_TRICKYTOPS2",
+            "ASSET_LEVEL_DINODOMAINTROPHYANIM",
+            "ASSET_LEVEL_SNOWFLAKEMOUNTAINTROPHYANIM",
+            "ASSET_LEVEL_SHERBETISLANDTROPHYANIM",
+            "ASSET_LEVEL_DRAGONFORESTTROPHYANIM",
+            "ASSET_LEVEL_FUTUREFUNLANDTROPHYANIM",
+            "ASSET_LEVEL_BLUEY2",
+            "ASSET_LEVEL_BUBBLER2",
+            "ASSET_LEVEL_SMOKEY2",
+            "ASSET_LEVEL_WIZPIG2",
+            "ASSET_LEVEL_PARTYSEQUENCE",
+            "ASSET_LEVEL_TRICKTOPSANIM",
+            "ASSET_LEVEL_SMOKEYANIM",
+            "ASSET_LEVEL_BLUEYANIM",
+            "ASSET_LEVEL_WIZPIG1ANIM",
+            "ASSET_LEVEL_BUBBLERANIM",
+            "ASSET_LEVEL_WIZPIG2ANIM",
+            "ASSET_LEVEL_LASTBIT",
+            "ASSET_LEVEL_LASTBITB"
+        ],
+        "sections": {
+            "ASSET_LEVEL_ANCIENTLAKE": {
+                "filename": "AncientLake_v79.json"
+            },
+            "ASSET_LEVEL_BLUEY1": {
+                "filename": "Bluey1_v79.json"
+            },
+            "ASSET_LEVEL_BLUEY2": {
+                "filename": "Bluey2_v79.json"
+            },
+            "ASSET_LEVEL_BLUEYANIM": {
+                "filename": "BlueyAnim_v79.json"
+            },
+            "ASSET_LEVEL_BOULDERCANYON": {
+                "filename": "BoulderCanyon_v79.json"
+            },
+            "ASSET_LEVEL_BUBBLER1": {
+                "filename": "Bubbler1_v79.json"
+            },
+            "ASSET_LEVEL_BUBBLER2": {
+                "filename": "Bubbler2_v79.json"
+            },
+            "ASSET_LEVEL_BUBBLERANIM": {
+                "filename": "BubblerAnim_v79.json"
+            },
+            "ASSET_LEVEL_CENTRALAREAHUB": {
+                "filename": "CentralAreaHub_v79.json"
+            },
+            "ASSET_LEVEL_CHARACTERSELECT": {
+                "filename": "CharacterSelect_v79.json"
+            },
+            "ASSET_LEVEL_CRESCENTISLAND": {
+                "filename": "CrescentIsland_v79.json"
+            },
+            "ASSET_LEVEL_DARKMOONCAVERNS": {
+                "filename": "DarkmoonCaverns_v79.json"
+            },
+            "ASSET_LEVEL_DARKWATERBEACH": {
+                "filename": "DarkwaterBeach_v79.json"
+            },
+            "ASSET_LEVEL_DINODOMAINHUB": {
+                "filename": "DinoDomainHub_v79.json"
+            },
+            "ASSET_LEVEL_DINODOMAINTROPHYANIM": {
+                "filename": "DinoDomainTrophyAnim_v79.json"
+            },
+            "ASSET_LEVEL_DRAGONFORESTHUB": {
+                "filename": "DragonForestHub_v79.json"
+            },
+            "ASSET_LEVEL_DRAGONFORESTTROPHYANIM": {
+                "filename": "DragonForestTrophyAnim_v79.json"
+            },
+            "ASSET_LEVEL_EVERFROSTPEAK": {
+                "filename": "EverfrostPeak_v79.json"
+            },
+            "ASSET_LEVEL_FIREMOUNTAIN": {
+                "filename": "FireMountain_v79.json"
+            },
+            "ASSET_LEVEL_FOSSILCANYON": {
+                "filename": "FossilCanyon_v79.json"
+            },
+            "ASSET_LEVEL_FRONTEND": {
+                "filename": "FrontEnd_v79.json"
+            },
+            "ASSET_LEVEL_FROSTYVILLAGE": {
+                "filename": "FrostyVillage_v79.json"
+            },
+            "ASSET_LEVEL_FUTUREFUNLANDHUB": {
+                "filename": "FutureFunLandHub_v79.json"
+            },
+            "ASSET_LEVEL_FUTUREFUNLANDTROPHYANIM": {
+                "filename": "FutureFunLandTrophyAnim_v79.json"
+            },
+            "ASSET_LEVEL_GREENWOODVILLAGE": {
+                "filename": "GreenwoodVillage_v79.json"
+            },
+            "ASSET_LEVEL_HAUNTEDWOODS": {
+                "filename": "HauntedWoods_v79.json"
+            },
+            "ASSET_LEVEL_HORSESHOEGULCH": {
+                "filename": "HorseshoeGulch_v79.json"
+            },
+            "ASSET_LEVEL_HOTTOPVOLCANO": {
+                "filename": "HotTopVolcano_v79.json"
+            },
+            "ASSET_LEVEL_ICICLEPYRAMID": {
+                "filename": "IciclePyramid_v79.json"
+            },
+            "ASSET_LEVEL_JUNGLEFALLS": {
+                "filename": "JungleFalls_v79.json"
+            },
+            "ASSET_LEVEL_LASTBIT": {
+                "filename": "LastBit_v79.json"
+            },
+            "ASSET_LEVEL_LASTBITB": {
+                "filename": "LastBitB_v79.json"
+            },
+            "ASSET_LEVEL_OPENINGSEQUENCE": {
+                "filename": "OpeningSequence_v79.json"
+            },
+            "ASSET_LEVEL_OPTIONSBACKGROUND": {
+                "filename": "OptionsBackground_v79.json"
+            },
+            "ASSET_LEVEL_PARTYSEQUENCE": {
+                "filename": "PartySequence_v79.json"
+            },
+            "ASSET_LEVEL_PIRATELAGOON": {
+                "filename": "PirateLagoon_v79.json"
+            },
+            "ASSET_LEVEL_ROCKETSEQUENCE": {
+                "filename": "RocketSequence_v79.json"
+            },
+            "ASSET_LEVEL_SHERBETISLANDHUB": {
+                "filename": "SherbetIslandHub_v79.json"
+            },
+            "ASSET_LEVEL_SHERBETISLANDTROPHYANIM": {
+                "filename": "SherbetIslandTrophyAnim_v79.json"
+            },
+            "ASSET_LEVEL_SMOKEY1": {
+                "filename": "Smokey1_v79.json"
+            },
+            "ASSET_LEVEL_SMOKEY2": {
+                "filename": "Smokey2_v79.json"
+            },
+            "ASSET_LEVEL_SMOKEYANIM": {
+                "filename": "SmokeyAnim_v79.json"
+            },
+            "ASSET_LEVEL_SMOKEYCASTLE": {
+                "filename": "SmokeyCastle_v79.json"
+            },
+            "ASSET_LEVEL_SNOWBALLVALLEY": {
+                "filename": "SnowballValley_v79.json"
+            },
+            "ASSET_LEVEL_SNOWFLAKEMOUNTAINHUB": {
+                "filename": "SnowflakeMountainHub_v79.json"
+            },
+            "ASSET_LEVEL_SNOWFLAKEMOUNTAINTROPHYANIM": {
+                "filename": "SnowflakeMountainTrophyAnim_v79.json"
+            },
+            "ASSET_LEVEL_SPACEDUSTALLEY": {
+                "filename": "SpacedustAlley_v79.json"
+            },
+            "ASSET_LEVEL_SPACEPORTALPHA": {
+                "filename": "SpaceportAlpha_v79.json"
+            },
+            "ASSET_LEVEL_STARCITY": {
+                "filename": "StarCity_v79.json"
+            },
+            "ASSET_LEVEL_TITLESCREENSEQUENCE": {
+                "filename": "TitleScreenSequence_v79.json"
+            },
+            "ASSET_LEVEL_TREASURECAVES": {
+                "filename": "TreasureCaves_v79.json"
+            },
+            "ASSET_LEVEL_TRICKTOPSANIM": {
+                "filename": "TricktopsAnim_v79.json"
+            },
+            "ASSET_LEVEL_TRICKYTOPS1": {
+                "filename": "Trickytops1_v79.json"
+            },
+            "ASSET_LEVEL_TRICKYTOPS2": {
+                "filename": "Trickytops2_v79.json"
+            },
+            "ASSET_LEVEL_TROPHYRACE": {
+                "filename": "TrophyRace_v79.json"
+            },
+            "ASSET_LEVEL_TTAMULETSEQUENCE": {
+                "filename": "TTAmuletSequence_v79.json"
+            },
+            "ASSET_LEVEL_WALRUSCOVE": {
+                "filename": "WalrusCove_v79.json"
+            },
+            "ASSET_LEVEL_WHALEBAY": {
+                "filename": "WhaleBay_v79.json"
+            },
+            "ASSET_LEVEL_WINDMILLPLAINS": {
+                "filename": "WindmillPlains_v79.json"
+            },
+            "ASSET_LEVEL_WIZPIG1": {
+                "filename": "Wizpig1_v79.json"
+            },
+            "ASSET_LEVEL_WIZPIG1ANIM": {
+                "filename": "Wizpig1Anim_v79.json"
+            },
+            "ASSET_LEVEL_WIZPIG2": {
+                "filename": "Wizpig2_v79.json"
+            },
+            "ASSET_LEVEL_WIZPIG2ANIM": {
+                "filename": "Wizpig2Anim_v79.json"
+            },
+            "ASSET_LEVEL_WIZPIGAMULETSEQUENCE": {
+                "filename": "WizpigAmuletSequence_v79.json"
+            },
+            "ASSET_LEVEL_WIZPIGMOUTHSEQUENCE": {
+                "filename": "WizpigMouthSequence_v79.json"
+            }
+        }
+    },
+    "folder": "levels/headers",
+    "type": "LevelHeader"
+}

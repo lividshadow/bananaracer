@@ -1,0 +1,162 @@
+{
+    "behavior": "BHV_RACER",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008"
+    ],
+    "internal-name": "TigPlane",
+    "junk-data": [
+        255,
+        253,
+        0,
+        7
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_TIGPLANE_0",
+        "ASSET_OBJECTMODEL_TIGPLANE_1",
+        "ASSET_OBJECTMODEL_TIGPLANE_2",
+        "ASSET_OBJECTMODEL_TIGPLANE_3",
+        "ASSET_OBJECTMODEL_TIGPLANE_4",
+        "ASSET_OBJECTMODEL_TIGPLANE_5"
+    ],
+    "particles": [
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": -8,
+            "arg4": -8,
+            "arg5": 0
+        },
+        {
+            "arg1": 23,
+            "arg2": 11,
+            "arg3": 8,
+            "arg4": -8,
+            "arg5": 0
+        },
+        {
+            "arg1": 39,
+            "arg2": 35,
+            "arg3": -22,
+            "arg4": 0,
+            "arg5": 7
+        },
+        {
+            "arg1": 39,
+            "arg2": 35,
+            "arg3": 22,
+            "arg4": 0,
+            "arg5": 7
+        },
+        {
+            "arg1": 33,
+            "arg2": 0,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 28
+        },
+        {
+            "arg1": 34,
+            "arg2": 0,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 28
+        },
+        {
+            "arg1": 25,
+            "arg2": 37,
+            "arg3": -20,
+            "arg4": 0,
+            "arg5": 6
+        },
+        {
+            "arg1": 25,
+            "arg2": 37,
+            "arg3": 20,
+            "arg4": 0,
+            "arg5": 6
+        },
+        {
+            "arg1": 41,
+            "arg2": 39,
+            "arg3": 0,
+            "arg4": 21,
+            "arg5": -4
+        },
+        {
+            "arg1": 49,
+            "arg2": 52,
+            "arg3": 0,
+            "arg4": 2,
+            "arg5": 27
+        },
+        {
+            "arg1": 56,
+            "arg2": 58,
+            "arg3": 0,
+            "arg4": 2,
+            "arg5": 27
+        }
+    ],
+    "scale": 0.25999999046325684,
+    "shade-ambient": 0.902999997138977,
+    "shade-angle-y": -9332,
+    "shade-angle-z": -6108,
+    "shade-brightness": 0.4740000069141388,
+    "shadow-group": 2,
+    "shadow-scale": 4.099999904632568,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 10,
+        "unk38": 61,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -600,
+        "unk44": 100,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": 1,
+        "unk59": 0,
+        "unk5B": 2,
+        "unk5C": 41,
+        "unk5D": 52,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 0,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "vehicle-part-indices": [
+        2,
+        3,
+        0
+    ],
+    "vehicle-part-indices-junk-bytes": [
+        0,
+        255,
+        250,
+        255,
+        248
+    ],
+    "vehicle-parts": [
+        190,
+        190,
+        192
+    ],
+    "water-effect-group": 0
+}

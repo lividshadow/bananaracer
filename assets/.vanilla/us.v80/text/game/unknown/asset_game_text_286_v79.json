@@ -1,0 +1,85 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 24,
+                    "right": 111,
+                    "top": 16
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "ファンタスティック!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "T.T.アミュレットは"
+            },
+            {
+                "command": "Text",
+                "value": "かんせいしました。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "T.T.マ-クの"
+            },
+            {
+                "command": "Text",
+                "value": "ドアをひらくには、"
+            },
+            {
+                "command": "Text",
+                "value": "これがひつようです。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 16
+            },
+            {
+                "command": "Text",
+                "value": "よくがんばりましたね。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

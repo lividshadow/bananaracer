@@ -1,0 +1,37 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 222,
+                    "left": 32,
+                    "right": 223,
+                    "top": 158
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "いちばんはやく、10コのバナナを"
+            },
+            {
+                "command": "Text",
+                "value": "じぶんのはこに"
+            },
+            {
+                "command": "Text",
+                "value": "あつめたヒトのかち"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

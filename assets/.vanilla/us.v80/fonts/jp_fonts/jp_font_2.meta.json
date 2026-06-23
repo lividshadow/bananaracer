@@ -1,0 +1,1815 @@
+{
+    "characters": {
+        " ": {
+            "bottom": 28,
+            "left": 27,
+            "right": 28,
+            "spacing": 1,
+            "top": 27
+        },
+        "!": {
+            "bottom": 28,
+            "left": 7,
+            "right": 22,
+            "spacing": 15,
+            "top": 0
+        },
+        "\"": {
+            "bottom": 12,
+            "left": 1,
+            "right": 16,
+            "spacing": 15,
+            "top": 0
+        },
+        "#": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "$": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "%": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "&": {
+            "bottom": 27,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "'": {
+            "bottom": 12,
+            "left": 1,
+            "right": 9,
+            "spacing": 8,
+            "top": 1
+        },
+        "(": {
+            "bottom": 27,
+            "left": 16,
+            "right": 26,
+            "spacing": 10,
+            "top": 1
+        },
+        ")": {
+            "bottom": 27,
+            "left": 2,
+            "right": 13,
+            "spacing": 11,
+            "top": 1
+        },
+        "*": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 1
+        },
+        "+": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        ",": {
+            "bottom": 26,
+            "left": 1,
+            "right": 10,
+            "spacing": 9,
+            "top": 14
+        },
+        "-": {
+            "bottom": 21,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 8
+        },
+        ".": {
+            "bottom": 27,
+            "left": 1,
+            "right": 10,
+            "spacing": 9,
+            "top": 17
+        },
+        "/": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 1
+        },
+        "0": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "1": {
+            "bottom": 27,
+            "left": 6,
+            "right": 21,
+            "spacing": 15,
+            "top": 0
+        },
+        "2": {
+            "bottom": 26,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "3": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "4": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "5": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "6": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "7": {
+            "bottom": 27,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 0
+        },
+        "8": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "9": {
+            "bottom": 27,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 0
+        },
+        ":": {
+            "bottom": 27,
+            "left": 7,
+            "right": 21,
+            "spacing": 14,
+            "top": 2
+        },
+        "<": {
+            "bottom": 28,
+            "left": 2,
+            "right": 27,
+            "spacing": 25,
+            "top": 0
+        },
+        "<NULL>": {
+            "bottom": 28,
+            "left": 27,
+            "right": 28,
+            "spacing": 1,
+            "top": 27
+        },
+        "=": {
+            "bottom": 25,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 3
+        },
+        ">": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "?": {
+            "bottom": 28,
+            "left": 2,
+            "right": 27,
+            "spacing": 25,
+            "top": 0
+        },
+        "@": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "A": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "B": {
+            "bottom": 27,
+            "left": 2,
+            "right": 27,
+            "spacing": 25,
+            "top": 0
+        },
+        "C": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "D": {
+            "bottom": 27,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "E": {
+            "bottom": 26,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 1
+        },
+        "F": {
+            "bottom": 26,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 1
+        },
+        "G": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "H": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "I": {
+            "bottom": 27,
+            "left": 6,
+            "right": 21,
+            "spacing": 15,
+            "top": 0
+        },
+        "J": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "K": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "L": {
+            "bottom": 26,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 0
+        },
+        "M": {
+            "bottom": 27,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "N": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "O": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "P": {
+            "bottom": 26,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "Q": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "R": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "S": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "T": {
+            "bottom": 27,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "U": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "V": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "W": {
+            "bottom": 26,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 1
+        },
+        "X": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "Y": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "Z": {
+            "bottom": 26,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "a": {
+            "bottom": 26,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 3
+        },
+        "b": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "c": {
+            "bottom": 27,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 3
+        },
+        "d": {
+            "bottom": 27,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 1
+        },
+        "e": {
+            "bottom": 26,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 3
+        },
+        "f": {
+            "bottom": 27,
+            "left": 4,
+            "right": 24,
+            "spacing": 20,
+            "top": 0
+        },
+        "g": {
+            "bottom": 28,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 3
+        },
+        "h": {
+            "bottom": 27,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 1
+        },
+        "i": {
+            "bottom": 26,
+            "left": 9,
+            "right": 21,
+            "spacing": 12,
+            "top": 2
+        },
+        "j": {
+            "bottom": 28,
+            "left": 4,
+            "right": 21,
+            "spacing": 17,
+            "top": 1
+        },
+        "k": {
+            "bottom": 27,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 1
+        },
+        "l": {
+            "bottom": 27,
+            "left": 8,
+            "right": 21,
+            "spacing": 13,
+            "top": 0
+        },
+        "m": {
+            "bottom": 26,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 3
+        },
+        "n": {
+            "bottom": 27,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 3
+        },
+        "o": {
+            "bottom": 27,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 3
+        },
+        "p": {
+            "bottom": 28,
+            "left": 3,
+            "right": 27,
+            "spacing": 24,
+            "top": 3
+        },
+        "q": {
+            "bottom": 28,
+            "left": 3,
+            "right": 24,
+            "spacing": 21,
+            "top": 3
+        },
+        "r": {
+            "bottom": 26,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 3
+        },
+        "s": {
+            "bottom": 26,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 3
+        },
+        "t": {
+            "bottom": 27,
+            "left": 4,
+            "right": 24,
+            "spacing": 20,
+            "top": 1
+        },
+        "u": {
+            "bottom": 26,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 3
+        },
+        "v": {
+            "bottom": 26,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 3
+        },
+        "w": {
+            "bottom": 26,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 4
+        },
+        "x": {
+            "bottom": 26,
+            "left": 2,
+            "right": 27,
+            "spacing": 25,
+            "top": 4
+        },
+        "y": {
+            "bottom": 28,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 3
+        },
+        "z": {
+            "bottom": 26,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 5
+        },
+        "’": {
+            "bottom": 12,
+            "left": 19,
+            "right": 27,
+            "spacing": 8,
+            "top": 2
+        },
+        "”": {
+            "bottom": 12,
+            "left": 11,
+            "right": 27,
+            "spacing": 16,
+            "top": 0
+        },
+        "、": {
+            "bottom": 27,
+            "left": 1,
+            "right": 13,
+            "spacing": 12,
+            "top": 15
+        },
+        "。": {
+            "bottom": 27,
+            "left": 1,
+            "right": 12,
+            "spacing": 11,
+            "top": 15
+        },
+        "「": {
+            "bottom": 19,
+            "left": 14,
+            "right": 27,
+            "spacing": 13,
+            "top": 2
+        },
+        "」": {
+            "bottom": 27,
+            "left": 1,
+            "right": 14,
+            "spacing": 13,
+            "top": 11
+        },
+        "〜": {
+            "bottom": 21,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 8
+        },
+        "ぁ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 4
+        },
+        "あ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ぃ": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 6
+        },
+        "い": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ぅ": {
+            "bottom": 28,
+            "left": 4,
+            "right": 23,
+            "spacing": 19,
+            "top": 3
+        },
+        "う": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "ぇ": {
+            "bottom": 28,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 4
+        },
+        "え": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ぉ": {
+            "bottom": 28,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 4
+        },
+        "お": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "か": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "が": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "き": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ぎ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "く": {
+            "bottom": 28,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "ぐ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "け": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "げ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "こ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 26,
+            "spacing": 25,
+            "top": 0
+        },
+        "ご": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "さ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ざ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "し": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "じ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 1
+        },
+        "す": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ず": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "せ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "ぜ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "そ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ぞ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "た": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "だ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ち": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "ぢ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "っ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 6
+        },
+        "つ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 2
+        },
+        "づ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "て": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 2
+        },
+        "で": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 1
+        },
+        "と": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ど": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "な": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "に": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ぬ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ね": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "の": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "は": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ば": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ぱ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ひ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "び": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ぴ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ふ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "ぶ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ぷ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "へ": {
+            "bottom": 26,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 2
+        },
+        "べ": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ぺ": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ほ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ぼ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ぽ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ま": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "み": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "む": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "め": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "も": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ゃ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 4
+        },
+        "や": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ゅ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 5
+        },
+        "ゆ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ょ": {
+            "bottom": 28,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 4
+        },
+        "よ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ら": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "り": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 0
+        },
+        "る": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "れ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ろ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "わ": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "を": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ん": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "゛": {
+            "bottom": 12,
+            "left": 1,
+            "right": 13,
+            "spacing": 12,
+            "top": 1
+        },
+        "゜": {
+            "bottom": 11,
+            "left": 1,
+            "right": 11,
+            "spacing": 10,
+            "top": 1
+        },
+        "ァ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 5
+        },
+        "ア": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 2
+        },
+        "ィ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 5
+        },
+        "イ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "ゥ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 4
+        },
+        "ウ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ェ": {
+            "bottom": 27,
+            "left": 3,
+            "right": 26,
+            "spacing": 23,
+            "top": 5
+        },
+        "エ": {
+            "bottom": 26,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 2
+        },
+        "ォ": {
+            "bottom": 28,
+            "left": 3,
+            "right": 26,
+            "spacing": 23,
+            "top": 4
+        },
+        "オ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 1
+        },
+        "カ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ガ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "キ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 1
+        },
+        "ギ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ク": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "グ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ケ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ゲ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "コ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 3
+        },
+        "ゴ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "サ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "ザ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "シ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 1
+        },
+        "ジ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ス": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "ズ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "セ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ゼ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ソ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ゾ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "タ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ダ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "チ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ヂ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ッ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 4
+        },
+        "ツ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ヅ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "テ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "デ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ト": {
+            "bottom": 28,
+            "left": 3,
+            "right": 27,
+            "spacing": 24,
+            "top": 0
+        },
+        "ド": {
+            "bottom": 28,
+            "left": 2,
+            "right": 28,
+            "spacing": 26,
+            "top": 0
+        },
+        "ナ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ニ": {
+            "bottom": 26,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 1
+        },
+        "ヌ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ネ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ノ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 1
+        },
+        "ハ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "バ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "パ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "ヒ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ビ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "ピ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "フ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ブ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "プ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ヘ": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "ベ": {
+            "bottom": 27,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "ペ": {
+            "bottom": 27,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "ホ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "ボ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "ポ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 28,
+            "spacing": 27,
+            "top": 0
+        },
+        "マ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "ミ": {
+            "bottom": 27,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 1
+        },
+        "ム": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "メ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 0
+        },
+        "モ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ャ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 26,
+            "spacing": 24,
+            "top": 4
+        },
+        "ヤ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 0
+        },
+        "ュ": {
+            "bottom": 27,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 6
+        },
+        "ユ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 2
+        },
+        "ョ": {
+            "bottom": 28,
+            "left": 3,
+            "right": 25,
+            "spacing": 22,
+            "top": 5
+        },
+        "ヨ": {
+            "bottom": 27,
+            "left": 2,
+            "right": 27,
+            "spacing": 25,
+            "top": 1
+        },
+        "ラ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 1
+        },
+        "リ": {
+            "bottom": 28,
+            "left": 2,
+            "right": 25,
+            "spacing": 23,
+            "top": 0
+        },
+        "ル": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "レ": {
+            "bottom": 27,
+            "left": 2,
+            "right": 27,
+            "spacing": 25,
+            "top": 0
+        },
+        "ロ": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ワ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 27,
+            "spacing": 27,
+            "top": 1
+        },
+        "ヲ": {
+            "bottom": 28,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ン": {
+            "bottom": 27,
+            "left": 1,
+            "right": 27,
+            "spacing": 26,
+            "top": 1
+        },
+        "ヴ": {
+            "bottom": 28,
+            "left": 0,
+            "right": 28,
+            "spacing": 28,
+            "top": 0
+        },
+        "・": {
+            "bottom": 21,
+            "left": 8,
+            "right": 20,
+            "spacing": 12,
+            "top": 9
+        }
+    },
+    "header": {
+        "cellHeight": 28,
+        "cellWidth": 32,
+        "charWidth": 16,
+        "height": 32,
+        "unk0": 4,
+        "unk5": 181,
+        "unk6": 16,
+        "unk7": 1
+    },
+    "image": {
+        "filename": "jp_font_2.png",
+        "format": "RGBA16"
+    },
+    "image-alpha": {
+        "filename": "jp_font_2_alpha.png",
+        "format": "I4"
+    },
+    "name": "jp_font_2"
+}

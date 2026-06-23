@@ -1,0 +1,81 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Unknown7",
+                "value": 20
+            },
+            {
+                "command": "Text",
+                "value": "The Sorcerer WizPig has "
+            },
+            {
+                "command": "Text",
+                "value": "cast a wicked spell over"
+            },
+            {
+                "command": "Text",
+                "value": "Timber's Island."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Your task is to collect the"
+            },
+            {
+                "command": "Text",
+                "value": "Magical Golden Balloons,"
+            },
+            {
+                "command": "Text",
+                "value": "collect the amulets and"
+            },
+            {
+                "command": "Text",
+                "value": "save the Island!!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "GOOD LUCK"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

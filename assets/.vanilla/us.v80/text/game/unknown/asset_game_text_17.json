@@ -1,0 +1,45 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 20,
+                    "right": 95,
+                    "top": 15
+                }
+            },
+            {
+                "command": "Text",
+                "value": "MY SKILLS"
+            },
+            {
+                "command": "Text",
+                "value": "ARE GREATER!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Better luck "
+            },
+            {
+                "command": "Text",
+                "value": "next time."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "TRY AGAIN."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

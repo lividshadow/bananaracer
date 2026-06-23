@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "checkpoint_flag_5.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 18,
+    "sprite-y": 5,
+    "type": "Texture"
+}

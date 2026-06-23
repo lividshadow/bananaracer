@@ -1,0 +1,37 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 24,
+                    "right": 95,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "FELICITATIONS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOUS ETES UN"
+            },
+            {
+                "command": "Text",
+                "value": "COUREUR"
+            },
+            {
+                "command": "Text",
+                "value": "D'EXCEPTION."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

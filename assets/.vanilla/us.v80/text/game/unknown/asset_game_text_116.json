@@ -1,0 +1,85 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 202,
+                    "left": 18,
+                    "right": 97,
+                    "top": 18
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 9
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "GRANDIOS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 16
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "DAS AMULETT IST"
+            },
+            {
+                "command": "Text",
+                "value": "VOLLSTAENDIG!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 16
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "NUTZE ES, UM"
+            },
+            {
+                "command": "Text",
+                "value": "DIE T.T.-TUER"
+            },
+            {
+                "command": "Text",
+                "value": "ZU OEFFNEN."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 24
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "VIEL GLUECK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

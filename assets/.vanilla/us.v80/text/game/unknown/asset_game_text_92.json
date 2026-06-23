@@ -1,0 +1,77 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Unknown7",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Hallo, mein Freund!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "Text",
+                "value": "Wenn Du Dein Fahrzeug "
+            },
+            {
+                "command": "Text",
+                "value": "wechseln moechtest, ruf"
+            },
+            {
+                "command": "Text",
+                "value": "mich mit der Hupe."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Du kannst auch auf dem"
+            },
+            {
+                "command": "Text",
+                "value": "Kissen anhalten und hupen,"
+            },
+            {
+                "command": "Text",
+                "value": "wenn ich in Deiner Naehe bin."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 35
+            },
+            {
+                "command": "Text",
+                "value": "Druecke A, um weiterzuspielen"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

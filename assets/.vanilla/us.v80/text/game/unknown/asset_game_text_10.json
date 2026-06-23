@@ -1,0 +1,45 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 20,
+                    "right": 95,
+                    "top": 15
+                }
+            },
+            {
+                "command": "Text",
+                "value": "Hover Challenge"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "To test your"
+            },
+            {
+                "command": "Text",
+                "value": "driving skills,"
+            },
+            {
+                "command": "Text",
+                "value": "you must race"
+            },
+            {
+                "command": "Text",
+                "value": "me around the"
+            },
+            {
+                "command": "Text",
+                "value": "Island!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

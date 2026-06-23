@@ -1,0 +1,99 @@
+{
+    "behavior": "BHV_RACER",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0008"
+    ],
+    "internal-name": "Trickytops",
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_TRICKYTOPS"
+    ],
+    "particles": [
+        {
+            "arg1": 42,
+            "arg2": 2,
+            "arg3": -33,
+            "arg4": -4,
+            "arg5": 10
+        },
+        {
+            "arg1": 42,
+            "arg2": 2,
+            "arg3": 36,
+            "arg4": 3,
+            "arg5": 10
+        },
+        {
+            "arg1": 47,
+            "arg2": 2,
+            "arg3": 0,
+            "arg4": 14,
+            "arg5": 55
+        },
+        {
+            "arg1": 47,
+            "arg2": 2,
+            "arg3": 0,
+            "arg4": 3,
+            "arg5": 26
+        }
+    ],
+    "scale": 1.2000000476837158,
+    "shade-ambient": 1.9900000095367432,
+    "shade-angle-y": -12300,
+    "shade-angle-z": 7672,
+    "shade-brightness": 0.15199999511241913,
+    "shadow-group": 2,
+    "shadow-scale": 9.5,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 12,
+        "unk38": 61,
+        "unk3A": 100,
+        "unk3B": 60,
+        "unk3C": 10,
+        "unk3D": 150,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 3000,
+        "unk4C": 10000,
+        "unk50": 500,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 3,
+        "unk5C": 36,
+        "unk5D": 54,
+        "unk5E": 48,
+        "unk5F": 0,
+        "unk70": 0,
+        "unk71": 1,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "vehicle-part-indices": [
+        0
+    ],
+    "vehicle-part-indices-junk-bytes": [
+        0,
+        0,
+        0,
+        4,
+        44,
+        0,
+        0
+    ],
+    "vehicle-parts": [
+        193
+    ],
+    "water-effect-group": 0
+}

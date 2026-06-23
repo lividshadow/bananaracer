@@ -1,0 +1,49 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 142,
+                    "left": 24,
+                    "right": 127,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "おっと"
+            },
+            {
+                "command": "Text",
+                "value": "ざんねんだったね。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "また"
+            },
+            {
+                "command": "Text",
+                "value": "チャレンジしてくれ。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "こんどはがんばるんだぞ。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

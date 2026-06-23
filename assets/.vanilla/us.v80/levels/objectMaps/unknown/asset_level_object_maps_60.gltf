@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "FirTree",
+      "translation": [
+        -1578.0,
+        0.0,
+        3339.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "FirTree",
+      "translation": [
+        -2224.0,
+        59.0,
+        3683.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 1
+      },
+      "name": "FirTree",
+      "translation": [
+        -2402.0,
+        75.0,
+        2539.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

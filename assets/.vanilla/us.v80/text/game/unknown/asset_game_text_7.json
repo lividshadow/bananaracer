@@ -1,0 +1,77 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Unknown7",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Hello Friend!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "Text",
+                "value": "If you wish to change your"
+            },
+            {
+                "command": "Text",
+                "value": "vehicle, then summon me"
+            },
+            {
+                "command": "Text",
+                "value": "with your horn."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Either stop on the pad"
+            },
+            {
+                "command": "Text",
+                "value": "or beep when I am close"
+            },
+            {
+                "command": "Text",
+                "value": "to you!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 35
+            },
+            {
+                "command": "Text",
+                "value": "Press A To Continue"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

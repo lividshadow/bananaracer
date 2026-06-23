@@ -1,0 +1,53 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 180,
+                    "left": 24,
+                    "right": 127,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "Abgefahren!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Nimm dies zur"
+            },
+            {
+                "command": "Text",
+                "value": "Belohnung."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Das war meine letzte"
+            },
+            {
+                "command": "Text",
+                "value": "Herausforderung."
+            },
+            {
+                "command": "Text",
+                "value": "Du hast Dich tapfer"
+            },
+            {
+                "command": "Text",
+                "value": "geschlagen."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

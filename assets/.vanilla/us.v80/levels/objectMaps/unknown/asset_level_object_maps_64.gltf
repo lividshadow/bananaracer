@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 3,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_HOVERCRAFT"
+      },
+      "name": "setuppoint",
+      "translation": [
+        514.0,
+        0.0,
+        38.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 4,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_HOVERCRAFT"
+      },
+      "name": "setuppoint",
+      "translation": [
+        608.0,
+        0.0,
+        98.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 5,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_HOVERCRAFT"
+      },
+      "name": "setuppoint",
+      "translation": [
+        678.0,
+        0.0,
+        114.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 6,
+        "vehicle": "VEHICLE_HOVERCRAFT"
+      },
+      "name": "setuppoint",
+      "translation": [
+        743.0,
+        -4.0,
+        66.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "entranceID": 7,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_HOVERCRAFT"
+      },
+      "name": "setuppoint",
+      "translation": [
+        811.0,
+        -4.0,
+        63.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOP",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "PalmTreeTop",
+      "translation": [
+        1099.0,
+        293.0,
+        165.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_PALMTREETOP",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 0
+      },
+      "name": "PalmTreeTop",
+      "translation": [
+        1457.0,
+        293.0,
+        618.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

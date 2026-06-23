@@ -1,0 +1,2412 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": -101.25,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -2166.0,
+        9.0,
+        3014.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -95.625,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 1,
+        "vehicle": "VEHICLE_NO_OVERRIDE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -2164.0,
+        7.0,
+        3124.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 0,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 3,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1644.0,
+        129.0,
+        2982.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -11.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 2,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -21,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -26.0,
+        305.0,
+        2154.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 4,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 17,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -23.0,
+        596.0,
+        -50.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -56.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 6,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 26,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        194.0,
+        776.0,
+        -671.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 39.375,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 8,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -11,
+        "unkC": -2,
+        "unkD": 32,
+        "unkE": 54,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1076.0,
+        816.0,
+        -2277.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 73.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 10,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -112,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        84.0,
+        887.0,
+        -2773.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 78.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 12,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -109,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 19,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1063.0,
+        630.0,
+        -3224.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -196.875,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 14,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -48,
+        "unkC": -46,
+        "unkD": -43,
+        "unkE": -45,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -1879.0,
+        495.0,
+        -3070.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 101.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 16,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 117,
+        "unkC": -4,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 49,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3026.0,
+        171.0,
+        -1368.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 28.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 18,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 40,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 50,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -4296.0,
+        202.0,
+        -2111.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 33.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 20,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 11,
+        "unkC": 5,
+        "unkD": 22,
+        "unkE": 35,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -5231.0,
+        271.0,
+        -3639.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 135.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 22,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -8,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -6699.0,
+        175.0,
+        -3800.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -168.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 24,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 2,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -7118.0,
+        177.0,
+        -2893.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -140.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 26,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 3,
+        "unkC": 1,
+        "unkD": 23,
+        "unkE": 46,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -6633.0,
+        197.0,
+        -2082.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -157.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 28,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 62,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -5763.0,
+        235.0,
+        -100.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 213.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 30,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -5,
+        "unkC": 6,
+        "unkD": 10,
+        "unkE": 32,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -5315.0,
+        374.0,
+        1180.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 236.25,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 32,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -40,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -4236.0,
+        212.0,
+        2307.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 275.625,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 34,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2201.0,
+        90.0,
+        3093.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -151.875,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 27,
+        "isAltCheckpoint": 0,
+        "scale": 61,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 33,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -6074.0,
+        281.0,
+        -1477.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          41,
+          0,
+          0,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2711.0,
+        891.0,
+        2237.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          1,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2894.0,
+        501.0,
+        2554.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          2,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2897.0,
+        170.0,
+        2786.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_AUDIOSEQLINE",
+        "unk8": [
+          1,
+          100,
+          0,
+          0,
+          0,
+          3,
+          5,
+          220,
+          0,
+          100,
+          0,
+          64
+        ]
+      },
+      "name": "audioseqline",
+      "translation": [
+        -2370.0,
+        127.0,
+        3266.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          200,
+          6,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -1038.0,
+        170.0,
+        2835.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -146.0,
+        340.0,
+        1690.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        176.0,
+        328.0,
+        1670.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          176,
+          20,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        1201.0,
+        797.0,
+        -1867.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 85,
+        "solid": 30
+      },
+      "name": "FirTree",
+      "translation": [
+        -5234.0,
+        181.0,
+        726.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 24
+      },
+      "name": "FirTree",
+      "translation": [
+        -5380.0,
+        282.0,
+        1357.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 78,
+        "solid": 31
+      },
+      "name": "FirTree",
+      "translation": [
+        -5575.0,
+        113.0,
+        -846.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "FirTree",
+      "translation": [
+        -6109.0,
+        31.0,
+        -209.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 87,
+        "solid": 34
+      },
+      "name": "FirTree",
+      "translation": [
+        -5674.0,
+        84.0,
+        -604.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 83,
+        "solid": 30
+      },
+      "name": "FirTree",
+      "translation": [
+        -5595.0,
+        67.0,
+        299.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "FirTree",
+      "translation": [
+        -2755.0,
+        246.0,
+        3924.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 74,
+        "solid": 26
+      },
+      "name": "FirTree",
+      "translation": [
+        -2162.0,
+        59.0,
+        3668.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 76,
+        "solid": 30
+      },
+      "name": "FirTree",
+      "translation": [
+        -1513.0,
+        0.0,
+        3307.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "FirTree",
+      "translation": [
+        -2344.0,
+        54.0,
+        2581.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 81,
+        "solid": 30
+      },
+      "name": "FirTree",
+      "translation": [
+        -3954.0,
+        13.0,
+        2585.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 77,
+        "solid": 30
+      },
+      "name": "FirTree",
+      "translation": [
+        -3246.0,
+        0.0,
+        3223.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 61,
+        "solid": 23
+      },
+      "name": "FirTree",
+      "translation": [
+        -3083.0,
+        0.0,
+        2617.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "FirTree",
+      "translation": [
+        -3200.0,
+        195.0,
+        2095.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 24
+      },
+      "name": "FirTree",
+      "translation": [
+        -5660.0,
+        401.0,
+        1926.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1407.0,
+        740.0,
+        -2291.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        241.0,
+        470.0,
+        312.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_BOOST",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -747.0,
+        555.0,
+        -3325.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 76,
+        "solid": 28
+      },
+      "name": "FirTree",
+      "translation": [
+        -4183.0,
+        0.0,
+        -1555.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "FirTree",
+      "translation": [
+        -2606.0,
+        77.0,
+        -695.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 80,
+        "solid": 30
+      },
+      "name": "FirTree",
+      "translation": [
+        -3065.0,
+        0.0,
+        -1103.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_FIRTREE",
+        "modelIndex": 0,
+        "radius": 64,
+        "solid": 25
+      },
+      "name": "FirTree",
+      "translation": [
+        -3964.0,
+        0.0,
+        -2254.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -6129.0,
+        159.0,
+        -4323.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -6604.0,
+        160.0,
+        -2395.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_BOOST",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -7481.0,
+        55.0,
+        -3192.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -67.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 1,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -4,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -756.0,
+        142.0,
+        2783.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 0.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 3,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -5,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -10.0,
+        397.0,
+        860.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -33.75,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 7,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        1189.0,
+        790.0,
+        -1442.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -202.5,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 15,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": 36,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -2253.0,
+        172.0,
+        -1979.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 90.0,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 21,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -27,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -5912.0,
+        163.0,
+        -4034.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 253.125,
+        "id": "ASSET_OBJECT_CHECKPOINT",
+        "index": 33,
+        "isAltCheckpoint": 0,
+        "scale": 64,
+        "unk10": 0,
+        "unk11": 0,
+        "unk12": 0,
+        "unk13": 0,
+        "unk14": 0,
+        "unk15": 0,
+        "unk16": 0,
+        "unk18": -1,
+        "unk19": 0,
+        "unk1B": 0,
+        "unkB": -64,
+        "unkC": -22,
+        "unkD": 22,
+        "unkE": 64,
+        "unkF": 0,
+        "vehicleType": 0
+      },
+      "name": "checkpoint",
+      "translation": [
+        -3077.0,
+        117.0,
+        2911.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          170,
+          20,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -533.0,
+        642.0,
+        -3638.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          170,
+          20,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -730.0,
+        644.0,
+        -2981.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -2243.0,
+        268.0,
+        -2377.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_BOOST",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -3784.0,
+        0.0,
+        -801.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -5075.0,
+        254.0,
+        -3725.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -5354.0,
+        254.0,
+        -3538.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -5214.0,
+        374.0,
+        -3631.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -7119.0,
+        103.0,
+        -3802.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          128,
+          10,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -6884.0,
+        8.0,
+        -3461.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          170,
+          20,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -6878.0,
+        178.0,
+        -2542.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          170,
+          21,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -5542.0,
+        284.0,
+        844.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_FIREBALLATTRACT",
+        "unk8": [
+          0,
+          170,
+          20,
+          0
+        ]
+      },
+      "name": "FireballAttract",
+      "translation": [
+        -5499.0,
+        206.0,
+        -165.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_BOOST",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -5635.0,
+        102.0,
+        -728.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -3201.0,
+        0.0,
+        2916.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": -126,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 50,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAR",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 1,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 11,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 278.4375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 354.375
+      },
+      "name": "Animation",
+      "translation": [
+        -2087.0,
+        0.0,
+        3046.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": -126,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 43,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 286.875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1929.0,
+        0.0,
+        2894.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": -126,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 28,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 264.375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1655.0,
+        0.0,
+        2764.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": -126,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 182.8125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1558.0,
+        0.0,
+        2852.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": -126,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 9,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 4,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 102.65625,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1569.0,
+        0.0,
+        2947.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 15,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAR",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 2,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 281.25,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2458.0,
+        0.0,
+        3105.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 4,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 1,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 281.25,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2238.0,
+        0.0,
+        3070.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 5,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 60,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAMERA",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": -125,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 347.34375,
+        "y_rotation": 279.84375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -3210.0,
+        312.0,
+        3271.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 1,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 2,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 357.1875,
+        "y_rotation": 279.84375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2791.0,
+        75.0,
+        3178.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 11,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 1,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 1,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 281.25,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2597.0,
+        34.0,
+        3134.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 2,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 30,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAR",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 3,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 11.25,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2448.0,
+        0.0,
+        3475.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 2,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 347.34375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2450.0,
+        0.0,
+        3339.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 2,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 298.125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2360.0,
+        0.0,
+        3244.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 2,
+        "animationStartDelay": 0.0,
+        "channel": 0,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 6,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 1,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 277.03125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2234.0,
+        0.0,
+        3207.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": -123,
+        "animationStartDelay": 0.0,
+        "channel": 20,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_WINDSAIL",
+        "order": 0,
+        "pitchSpinSpeed": -27,
+        "rollSpinSpeed": 0,
+        "rotateType": 1,
+        "scale": 0.84375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 355.78125,
+        "y_rotation": 71.71875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -455.0,
+        1022.0,
+        -3223.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

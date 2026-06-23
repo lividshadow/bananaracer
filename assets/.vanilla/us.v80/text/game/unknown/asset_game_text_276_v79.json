@@ -1,0 +1,37 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 108,
+                    "left": 24,
+                    "right": 95,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "おみごと!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "また"
+            },
+            {
+                "command": "Text",
+                "value": "うでをあげたな!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

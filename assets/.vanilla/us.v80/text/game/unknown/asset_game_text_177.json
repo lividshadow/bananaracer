@@ -1,0 +1,77 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Unknown7",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "BONJOUR!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "SI VOUS DESIREZ CHANGER DE"
+            },
+            {
+                "command": "Text",
+                "value": "VEHICULE, APPELEZ-MOI EN"
+            },
+            {
+                "command": "Text",
+                "value": "APPUYANT SUR Z."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "ARRETEZ-VOUS SUR MON"
+            },
+            {
+                "command": "Text",
+                "value": "PORTRAIT OU APPUYEZ SUR Z"
+            },
+            {
+                "command": "Text",
+                "value": "LORSQUE JE SUIS PRET DE VOUS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 35
+            },
+            {
+                "command": "Text",
+                "value": "APPUYEZ SUR A POUR CONTINUER."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

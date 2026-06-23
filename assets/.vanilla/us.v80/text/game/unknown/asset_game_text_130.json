@@ -1,0 +1,77 @@
+{
+    "pages": [
+        [
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 162,
+                    "left": 24,
+                    "right": 103,
+                    "top": 16
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 6
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "DRAGON RAVINE"
+            },
+            {
+                "command": "Text",
+                "value": "BOSS LEVEL!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "RACE SMOKEY "
+            },
+            {
+                "command": "Text",
+                "value": "AROUND THREE"
+            },
+            {
+                "command": "Text",
+                "value": "LAPS OF"
+            },
+            {
+                "command": "Text",
+                "value": "DRAGON RAVINE"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 12
+            },
+            {
+                "command": "Text",
+                "value": "GOOD LUCK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

@@ -1,0 +1,178 @@
+{
+    "behavior": "BHV_VEHICLE_ANIMATION",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008"
+    ],
+    "internal-name": "ChickenAnimPlan",
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_CHICKENPLANE_0"
+    ],
+    "particles": [
+        {
+            "arg1": 24,
+            "arg2": 11,
+            "arg3": -8,
+            "arg4": -8,
+            "arg5": 0
+        },
+        {
+            "arg1": 24,
+            "arg2": 11,
+            "arg3": 8,
+            "arg4": -8,
+            "arg5": 0
+        },
+        {
+            "arg1": 35,
+            "arg2": 24,
+            "arg3": -60,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 35,
+            "arg2": 24,
+            "arg3": 60,
+            "arg4": 0,
+            "arg5": 0
+        },
+        {
+            "arg1": 33,
+            "arg2": 0,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 28
+        },
+        {
+            "arg1": 34,
+            "arg2": 0,
+            "arg3": 0,
+            "arg4": 0,
+            "arg5": 28
+        },
+        {
+            "arg1": 25,
+            "arg2": 37,
+            "arg3": -23,
+            "arg4": -1,
+            "arg5": 0
+        },
+        {
+            "arg1": 25,
+            "arg2": 37,
+            "arg3": 23,
+            "arg4": -1,
+            "arg5": 0
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": -196606,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": -196606,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": -196601,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": -196601,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": -131083,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": -131083,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": 524300,
+            "special-case": true
+        },
+        {
+            "arg1": 0,
+            "arg2": 0,
+            "junk-data": 524300,
+            "special-case": true
+        }
+    ],
+    "scale": 0.27000001072883606,
+    "shade-ambient": 0.902999997138977,
+    "shade-angle-y": -20844,
+    "shade-angle-z": 25720,
+    "shade-brightness": 0.48100000619888306,
+    "shadow-group": 2,
+    "shadow-scale": 4.5,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 10,
+        "unk38": 61,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -600,
+        "unk44": 100,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 768,
+        "unk4C": 512,
+        "unk50": 100,
+        "unk52": 0,
+        "unk58": 1,
+        "unk59": 0,
+        "unk5B": 2,
+        "unk5C": 38,
+        "unk5D": 52,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "vehicle-part-indices": [
+        2,
+        3,
+        0
+    ],
+    "vehicle-part-indices-junk-bytes": [
+        41,
+        0,
+        0,
+        0,
+        42
+    ],
+    "vehicle-parts": [
+        190,
+        190,
+        192
+    ],
+    "water-effect-group": 0
+}

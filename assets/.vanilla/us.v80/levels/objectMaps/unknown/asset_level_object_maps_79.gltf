@@ -1,0 +1,2091 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_SHIELD",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1558.0,
+        -2157.0,
+        -2836.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1468.0,
+        -2158.0,
+        -2800.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_TRAP",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1373.0,
+        -2161.0,
+        -2761.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1283.0,
+        -2163.0,
+        -2724.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_SHIELD",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1194.0,
+        -2170.0,
+        -2688.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        4145.0,
+        -1945.0,
+        1748.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        4031.0,
+        -1941.0,
+        2026.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MAGNET",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        1997.0,
+        -2192.0,
+        -3587.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_TRAP",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        3687.0,
+        -1954.0,
+        1761.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        3602.0,
+        -1952.0,
+        1731.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        2923.0,
+        -1949.0,
+        2664.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_TRAP",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        2852.0,
+        -1949.0,
+        2629.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        1444.0,
+        -1948.0,
+        4050.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        1429.0,
+        -1948.0,
+        3972.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        1505.0,
+        -1948.0,
+        3993.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -1243.0,
+        -1899.0,
+        134.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -1415.0,
+        -1876.0,
+        70.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MAGNET",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -297.0,
+        -2300.0,
+        -1258.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -216.0,
+        -2297.0,
+        -1255.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -20.0,
+        -2172.0,
+        -2460.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MAGNET",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        69.0,
+        -2172.0,
+        -2456.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        254.0,
+        -2207.0,
+        2530.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        204.0,
+        -2215.0,
+        2433.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -1899.0,
+        -1680.0,
+        88.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -668.0,
+        -2256.0,
+        1809.0
+      ]
+    },
+    {
+      "extras": {
+        "balloonType": "BALLOON_TYPE_MISSILE",
+        "id": "ASSET_OBJECT_WEAPONBALLOON",
+        "padB": 0,
+        "scale": 1.03125,
+        "unk8": 0
+      },
+      "name": "WeaponBalloon",
+      "translation": [
+        -585.0,
+        -2255.0,
+        1800.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -1526.0,
+        -2141.0,
+        -553.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -1730.0,
+        -2102.0,
+        -584.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_WORLDKEY",
+        "keyID": 2,
+        "pad9": 0
+      },
+      "name": "WorldKey",
+      "translation": [
+        4247.0,
+        -2182.0,
+        -1389.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        1269.0,
+        -2192.0,
+        -4118.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        2281.0,
+        -2123.0,
+        -1052.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        3162.0,
+        -2178.0,
+        -1400.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        2609.0,
+        -1956.0,
+        1856.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        -987.0,
+        -2240.0,
+        2220.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        -2294.0,
+        -1646.0,
+        105.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        -632.0,
+        -2263.0,
+        -1994.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_SILVERCOIN"
+      },
+      "name": "SilverCoin",
+      "translation": [
+        -2374.0,
+        -1805.0,
+        -4368.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        1182.0,
+        -2171.0,
+        -3153.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        1410.0,
+        -2172.0,
+        -2175.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        1860.0,
+        -2170.0,
+        -2015.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        2359.0,
+        -2172.0,
+        -1457.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        2845.0,
+        -2185.0,
+        -827.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        2705.0,
+        -1953.0,
+        1637.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        2649.0,
+        -1953.0,
+        2088.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -711.0,
+        -2142.0,
+        1282.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -726.0,
+        -2065.0,
+        1080.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -23.0,
+        -2132.0,
+        -2698.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_COIN"
+      },
+      "name": "Coin",
+      "translation": [
+        -162.0,
+        -2085.0,
+        -2932.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 39,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 11,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAMERA",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 34,
+        "unk1F": 3,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 9,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 30.9375,
+        "y_rotation": 241.875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1365.0,
+        -1630.0,
+        -5206.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 18,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 1,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 18.28125,
+        "y_rotation": 206.71875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1668.0,
+        -1717.0,
+        -5216.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 1,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 32,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 5.625,
+        "y_rotation": 236.25,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1904.0,
+        -1784.0,
+        -5202.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": -8,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 4.21875,
+        "y_rotation": 226.40625,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2082.0,
+        -1786.0,
+        -5137.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 25,
+        "objAnimIndex": 0,
+        "objAnimLoopType": 1,
+        "objAnimSpeed": 1,
+        "objectIdToSpawn": "ASSET_OBJECT_MAGICCARPET",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 2,
+        "scale": 0.296875,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 3,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 37,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": -128,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 323.4375,
+        "y_rotation": 60.46875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 352.96875
+      },
+      "name": "Animation",
+      "translation": [
+        -1112.0,
+        -1534.0,
+        -5211.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.333,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 2,
+        "objAnimSpeed": 1,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.296875,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1373.0,
+        -1545.0,
+        -5053.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.3125,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1712.0,
+        -1752.0,
+        -5137.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.3125,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 0,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1842.0,
+        -1795.0,
+        -5135.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 1,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 4,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.3125,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2015.0,
+        -1790.0,
+        -5061.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 8,
+        "animationStartDelay": 18.2,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_SPARKLYTHING",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": 1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2038.0,
+        -1813.0,
+        -5294.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 10,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAR",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 2,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 184.21875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2015.0,
+        -1813.0,
+        -5090.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 14,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 25,
+        "objAnimIndex": 9,
+        "objAnimLoopType": 2,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMGENIE",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 2,
+        "scale": 0.609375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 323.4375,
+        "y_rotation": 60.46875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 352.96875
+      },
+      "name": "Animation",
+      "translation": [
+        -1110.0,
+        -1532.0,
+        -5212.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 14,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 55,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": 9,
+        "objAnimLoopType": 2,
+        "objAnimSpeed": 1,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.609375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 38,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1372.0,
+        -1542.0,
+        -5052.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 14,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.609375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1713.0,
+        -1753.0,
+        -5137.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 14,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.609375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 0,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1841.0,
+        -1794.0,
+        -5134.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 14,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 1,
+        "objAnimIndex": 11,
+        "objAnimLoopType": 2,
+        "objAnimSpeed": 1,
+        "order": 4,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.609375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2014.0,
+        -1790.0,
+        -5062.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 15,
+        "animationStartDelay": 11.983,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": -2,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 8,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_POLYGOLDBALOON",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 1,
+        "scale": 0.59375,
+        "soundEffect": 1,
+        "specialHide": 1,
+        "unk13": 1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 48,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 23,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2032.0,
+        -1759.0,
+        -5055.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 15,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.59375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 0,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2042.0,
+        -1772.0,
+        -5063.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 15,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.59375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 0,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2034.0,
+        -1792.0,
+        -5068.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 15,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 0,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.59375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2042.0,
+        -1788.0,
+        -5082.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 16,
+        "animationStartDelay": 6.4,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_SPARKLYTHING",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 35,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1767.0,
+        -1812.0,
+        -4999.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 17,
+        "animationStartDelay": 17.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_SPARKLYTHING",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 1,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 34,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 0,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2126.0,
+        -1813.0,
+        -5438.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 18,
+        "animationStartDelay": 7.5,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_SPARKLYTHING",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1993.0,
+        -1813.0,
+        -5353.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 19,
+        "animationStartDelay": 12.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_SPARKLYTHING",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 50,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1932.0,
+        -1813.0,
+        -5001.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 20,
+        "animationStartDelay": 11.983,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 8,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_BRIGHTSTAR",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 1,
+        "scale": 1.96875,
+        "soundEffect": 1,
+        "specialHide": 1,
+        "unk13": 1,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 48,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 23,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2044.0,
+        -1735.0,
+        -5070.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 20,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": -2,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.421875,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 4,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2048.0,
+        -1757.0,
+        -5077.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 20,
+        "animationStartDelay": 0.0,
+        "channel": 10,
+        "fadeAlpha": 10,
+        "fadeOptions": 5,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 0.59375,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": 0,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 175.78125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2045.0,
+        -1775.0,
+        -5081.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        -727.0,
+        -2052.0,
+        -5631.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        2852.0,
+        -2169.0,
+        -1259.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        4555.0,
+        -2111.0,
+        173.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        4122.0,
+        -1944.0,
+        1904.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        143.0,
+        -2225.0,
+        2324.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        -860.0,
+        -1912.0,
+        -168.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        450.0,
+        -2334.0,
+        -1124.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_GOLDCOIN"
+      },
+      "name": "GoldCoin",
+      "translation": [
+        -3721.0,
+        -1805.0,
+        -4187.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

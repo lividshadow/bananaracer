@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "anti-aliased": true,
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "IA8",
+    "images": [
+        "bubbles_small_1.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 18,
+    "sprite-y": 12,
+    "type": "Texture"
+}

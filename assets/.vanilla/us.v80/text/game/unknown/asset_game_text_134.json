@@ -1,0 +1,61 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 209,
+                    "left": 40,
+                    "right": 205,
+                    "top": 31
+                }
+            },
+            {
+                "command": "Text",
+                "value": "KEIN EINTRITT!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "SAMMLE ALLE TEILE"
+            },
+            {
+                "command": "Text",
+                "value": "DES T.T.-AMULETTS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "PLUS 47 BALLONS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "DANN KANNST DU"
+            },
+            {
+                "command": "Text",
+                "value": "DIESE TUER OEFFNEN!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "FAHRE WEITER!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

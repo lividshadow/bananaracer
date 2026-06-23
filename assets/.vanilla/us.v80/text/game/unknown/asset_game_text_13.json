@@ -1,0 +1,49 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "Text",
+                "value": "Dino Domain"
+            },
+            {
+                "command": "Text",
+                "value": "T.T. Challenge Key"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Use this key to"
+            },
+            {
+                "command": "Text",
+                "value": "enter the"
+            },
+            {
+                "command": "Text",
+                "value": "Challenge Room"
+            },
+            {
+                "command": "Text",
+                "value": "in the Dino"
+            },
+            {
+                "command": "Text",
+                "value": "Domain Lobby!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

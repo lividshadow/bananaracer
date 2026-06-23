@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 0.067,
+    "images": [
+        "rare_sign_flashing_0.png",
+        "rare_sign_flashing_1.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

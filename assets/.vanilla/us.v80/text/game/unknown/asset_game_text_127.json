@@ -1,0 +1,61 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 190,
+                    "left": 40,
+                    "right": 205,
+                    "top": 50
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "KEIN EINTRITT!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "DU BRAUCHST"
+            },
+            {
+                "command": "Text",
+                "value": "~ BALLONS,"
+            },
+            {
+                "command": "Text",
+                "value": "UM DIESEN LEVEL"
+            },
+            {
+                "command": "Text",
+                "value": "ZU OEFFNEN."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "Text",
+                "value": "VIEL GLUECK!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

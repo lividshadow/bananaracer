@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 40
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "SCHWARZBACH"
+            },
+            {
+                "command": "Text",
+                "value": "T.T.-RENNEN"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "FINDE DEN SCHLUESSEL,"
+            },
+            {
+                "command": "Text",
+                "value": "UM DIESE TUER ZU OEFFNEN."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "DU FINDEST IHN IN EINEM"
+            },
+            {
+                "command": "Text",
+                "value": "DER SHERBET ISLAND-KURSE."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "SUCHE NACH DEM SCHLUESSEL!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

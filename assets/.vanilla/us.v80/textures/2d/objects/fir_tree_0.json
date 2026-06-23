@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "fir_tree_0.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 52,
+    "sprite-y": 14,
+    "type": "Texture"
+}

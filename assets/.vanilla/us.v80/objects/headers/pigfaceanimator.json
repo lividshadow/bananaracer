@@ -1,0 +1,90 @@
+{
+    "behavior": "BHV_HIT_TESTER_2",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0008"
+    ],
+    "internal-name": "pigfaceanimator",
+    "junk-data": [
+        10,
+        1,
+        255,
+        244
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_PIGFACEANIMATOR"
+    ],
+    "particles": [
+        {
+            "arg1": 4,
+            "arg2": 44,
+            "arg3": 17,
+            "arg4": 40,
+            "arg5": -29
+        },
+        {
+            "arg1": 11,
+            "arg2": 3,
+            "arg3": 39,
+            "arg4": -33,
+            "arg5": -503
+        },
+        {
+            "arg1": 44,
+            "arg2": 41,
+            "arg3": -1,
+            "arg4": 21,
+            "arg5": -64
+        },
+        {
+            "arg1": 42,
+            "arg2": 50,
+            "arg3": -1,
+            "arg4": 13,
+            "arg5": -65
+        }
+    ],
+    "scale": 2.0,
+    "shade-ambient": 1.9989999532699585,
+    "shade-angle-y": -18592,
+    "shade-angle-z": 21696,
+    "shade-brightness": 0.25699999928474426,
+    "shadow-group": 2,
+    "shadow-scale": 5.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 9,
+        "unk38": 227,
+        "unk3A": 255,
+        "unk3B": 255,
+        "unk3C": 255,
+        "unk3D": 0,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 3000,
+        "unk4C": 10000,
+        "unk50": 0,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 0,
+        "unk5C": 0,
+        "unk5D": 0,
+        "unk5E": 0,
+        "unk5F": 0,
+        "unk70": 7,
+        "unk71": 0,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 0.0
+    },
+    "water-effect-group": 0
+}

@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "silver_coin_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 20,
+    "sprite-y": 6,
+    "type": "Texture"
+}

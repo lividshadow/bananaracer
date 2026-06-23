@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "anti-aliased": true,
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "smoke_grass_11.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 22,
+    "sprite-y": 15,
+    "type": "Texture"
+}

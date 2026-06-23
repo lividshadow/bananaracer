@@ -1,0 +1,41 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 180,
+                    "left": 24,
+                    "right": 115,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "FELICITATIONS! "
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "VOICI VOTRE"
+            },
+            {
+                "command": "Text",
+                "value": "PRIX..."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "A PLUS TARD."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

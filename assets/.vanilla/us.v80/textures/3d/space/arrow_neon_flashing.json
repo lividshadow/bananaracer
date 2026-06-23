@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 0.133,
+    "images": [
+        "arrow_neon_flashing_0.png",
+        "arrow_neon_flashing_1.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

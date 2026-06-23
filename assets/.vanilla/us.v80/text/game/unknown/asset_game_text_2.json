@@ -1,0 +1,58 @@
+{
+    "pages": [
+        [
+            {
+                "command": "Text",
+                "value": "Welcome to the Racing Kingdom!!"
+            },
+            {
+                "command": "Text",
+                "value": "This is the Trophy Cabinet Room."
+            },
+            {
+                "command": "Text",
+                "value": "You cannot activate it until"
+            },
+            {
+                "command": "Text",
+                "value": "you collect all the Golden"
+            },
+            {
+                "command": "Text",
+                "value": "Balloons from this World!!!"
+            },
+            {
+                "command": "Text",
+                "value": "PRESS A"
+            }
+        ],
+        [
+            {
+                "command": "Text",
+                "value": "When you have them all, I'll"
+            },
+            {
+                "command": "Text",
+                "value": "give you a signal to let you"
+            },
+            {
+                "command": "Text",
+                "value": "know that It's ready.  Then"
+            },
+            {
+                "command": "Text",
+                "value": "you'll have even more fun"
+            },
+            {
+                "command": "Text",
+                "value": "in the Dino Domain Trophy Race!!"
+            },
+            {
+                "command": "Text",
+                "value": "PRESS A TO END"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "anti-aliased": true,
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA32",
+    "images": [
+        "lamp_post_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 23,
+    "sprite-y": 47,
+    "type": "Texture"
+}

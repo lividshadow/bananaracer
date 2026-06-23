@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "xmas_tree_3.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 77,
+    "sprite-y": 102,
+    "type": "Texture"
+}

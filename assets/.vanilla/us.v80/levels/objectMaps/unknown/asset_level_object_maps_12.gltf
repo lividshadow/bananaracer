@@ -1,0 +1,688 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "objects"
+    },
+    {
+      "extras": {
+        "angleY": -90.0,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 0,
+        "vehicle": "VEHICLE_PLANE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -1964.0,
+        286.0,
+        -17.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_EGGCREATOR"
+      },
+      "name": "EggCreator",
+      "translation": [
+        -53.0,
+        200.0,
+        -63.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_EGGCREATOR"
+      },
+      "name": "EggCreator",
+      "translation": [
+        68.0,
+        200.0,
+        -80.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_EGGCREATOR"
+      },
+      "name": "EggCreator",
+      "translation": [
+        28.0,
+        200.0,
+        51.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 8,
+        "angleZ": 0,
+        "id": "ASSET_OBJECT_CHARACTERFLAG",
+        "playerIndex": 3,
+        "radius": 40
+      },
+      "name": "CharacterFlag",
+      "translation": [
+        1954.0,
+        1088.0,
+        2345.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 174.375,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 1,
+        "vehicle": "VEHICLE_PLANE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -1.0,
+        286.0,
+        -2058.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 5.625,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 2,
+        "vehicle": "VEHICLE_PLANE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        -8.0,
+        280.0,
+        2118.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 84.375,
+        "entranceID": 0,
+        "id": "ASSET_OBJECT_SETUPPOINT",
+        "racerIndex": 3,
+        "vehicle": "VEHICLE_PLANE"
+      },
+      "name": "setuppoint",
+      "translation": [
+        1780.0,
+        280.0,
+        2.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -9,
+        "angleZ": 0,
+        "id": "ASSET_OBJECT_CHARACTERFLAG",
+        "playerIndex": 2,
+        "radius": 40
+      },
+      "name": "CharacterFlag",
+      "translation": [
+        -1957.0,
+        1058.0,
+        2349.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": 8,
+        "angleZ": 0,
+        "id": "ASSET_OBJECT_CHARACTERFLAG",
+        "playerIndex": 0,
+        "radius": 40
+      },
+      "name": "CharacterFlag",
+      "translation": [
+        -1975.0,
+        1084.0,
+        -2354.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": 127,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "objectIdToSpawn": "ASSET_OBJECT_ANIMCAMERA",
+        "order": 0,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 322.03125,
+        "y_rotation": 277.03125,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -2391.0,
+        1559.0,
+        418.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 1,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 213.75,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -603.0,
+        208.0,
+        -607.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 2,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 316.40625,
+        "y_rotation": 184.21875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -321.0,
+        1189.0,
+        -2494.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 3,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 144.84375,
+        "yawSpinSpeed": 0,
+        "z_rotation": 324.84375
+      },
+      "name": "Animation",
+      "translation": [
+        1642.0,
+        1143.0,
+        -2183.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 4,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 67.5,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        1730.0,
+        231.0,
+        1054.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 5,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 0.0,
+        "y_rotation": 0.0,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -452.0,
+        591.0,
+        2429.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": -1,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 6,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 354.375,
+        "y_rotation": 0.0,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        18.0,
+        531.0,
+        123.0
+      ]
+    },
+    {
+      "extras": {
+        "actorIndex": 0,
+        "animationStartDelay": 0.0,
+        "channel": 1,
+        "fadeAlpha": 10,
+        "fadeOptions": 0,
+        "goToNode": 0,
+        "id": "ASSET_OBJECT_ANIMATION",
+        "messageId": "ASSET_GAME_TEXT_255",
+        "nextAnim": 0,
+        "nodeSpeed": -1,
+        "objAnimIndex": -1,
+        "objAnimLoopType": 0,
+        "objAnimSpeed": 0,
+        "order": 7,
+        "pitchSpinSpeed": 0,
+        "rollSpinSpeed": 0,
+        "rotateType": 0,
+        "scale": 1.0,
+        "soundEffect": 0,
+        "specialHide": 0,
+        "unk13": -128,
+        "unk15": -1,
+        "unk16": 0,
+        "unk1E": 0,
+        "unk1F": 0,
+        "unk20": 0,
+        "unk22": 0,
+        "unk23": 0,
+        "unk28": -1,
+        "unk29": 127,
+        "unk2A": -1,
+        "unk2D": 0,
+        "unk30": 0,
+        "unk31": 0,
+        "x_rotation": 336.09375,
+        "y_rotation": 196.875,
+        "yawSpinSpeed": 0,
+        "z_rotation": 0.0
+      },
+      "name": "Animation",
+      "translation": [
+        -1000.0,
+        1309.0,
+        -2303.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 0,
+        "unk9": 3
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        1758.0,
+        790.0,
+        2169.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 0,
+        "unk9": 2
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        -1769.0,
+        833.0,
+        2151.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 0,
+        "unk9": 0
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        -1750.0,
+        829.0,
+        -2142.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 0,
+        "unk9": 1
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        1762.0,
+        800.0,
+        -2148.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 2,
+        "unk9": 3
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        1144.0,
+        949.0,
+        1402.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 2,
+        "unk9": 2
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        -875.0,
+        987.0,
+        1263.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 2,
+        "unk9": 0
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        -1259.0,
+        903.0,
+        -1531.0
+      ]
+    },
+    {
+      "extras": {
+        "angleY": -9,
+        "angleZ": 0,
+        "id": "ASSET_OBJECT_CHARACTERFLAG",
+        "playerIndex": 1,
+        "radius": 40
+      },
+      "name": "CharacterFlag",
+      "translation": [
+        1969.0,
+        1080.0,
+        -2327.0
+      ]
+    },
+    {
+      "extras": {
+        "id": "ASSET_OBJECT_HEADFORPOINT",
+        "unk8": 2,
+        "unk9": 1
+      },
+      "name": "HeadForPoint",
+      "translation": [
+        888.0,
+        960.0,
+        -1327.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

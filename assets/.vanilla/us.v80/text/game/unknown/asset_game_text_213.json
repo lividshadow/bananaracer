@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "PORTE DU BOSS"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "POUR OUVRIR CETTE"
+            },
+            {
+                "command": "Text",
+                "value": "PORTE, VOUS DEVEZ"
+            },
+            {
+                "command": "Text",
+                "value": "RECUPERER TOUS LES"
+            },
+            {
+                "command": "Text",
+                "value": "BALLONS DE CE"
+            },
+            {
+                "command": "Text",
+                "value": "MONDE."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "CONTINUEZ A FAIRE"
+            },
+            {
+                "command": "Text",
+                "value": "DES COURSES."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

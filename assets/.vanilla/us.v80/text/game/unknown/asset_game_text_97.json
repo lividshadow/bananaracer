@@ -1,0 +1,49 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 185,
+                    "left": 40,
+                    "right": 205,
+                    "top": 55
+                }
+            },
+            {
+                "command": "Text",
+                "value": "GLUECKWUNSCH!!! "
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "DU HAST DEINEN ERSTEN"
+            },
+            {
+                "command": "Text",
+                "value": "GOLDENEN BALLON"
+            },
+            {
+                "command": "Text",
+                "value": "EINGESAMMELT."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "DU KANNST NUN DAS"
+            },
+            {
+                "command": "Text",
+                "value": "DINOLAND BETRETEN!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

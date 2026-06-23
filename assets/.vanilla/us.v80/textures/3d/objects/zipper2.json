@@ -1,0 +1,31 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA16",
+    "frame-advance-delay": 2.133,
+    "images": [
+        "zipper2_0.png",
+        "zipper2_1.png",
+        "zipper2_2.png",
+        "zipper2_3.png",
+        "zipper2_4.png",
+        "zipper2_5.png",
+        "zipper2_6.png",
+        "zipper2_7.png",
+        "zipper2_8.png",
+        "zipper2_9.png",
+        "zipper2_10.png",
+        "zipper2_11.png",
+        "zipper2_12.png",
+        "zipper2_13.png",
+        "zipper2_14.png",
+        "zipper2_15.png"
+    ],
+    "render-mode": "OPAQUE",
+    "type": "Texture",
+    "write-size": true
+}

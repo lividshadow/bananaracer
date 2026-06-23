@@ -1,0 +1,188 @@
+{
+    "ai-levels": {
+        "adv1": {
+            "base": 0,
+            "completed": 1,
+            "silver-coins": 0,
+            "tracks-mode": 0,
+            "trophy-race": 7
+        },
+        "adv2": {
+            "base": 4,
+            "completed": 4,
+            "silver-coins": 5,
+            "tracks-mode": 5,
+            "trophy-race": 8
+        }
+    },
+    "avaliable-vehicles": [
+        "VEHICLE_HOVERCRAFT",
+        "VEHICLE_PLANE"
+    ],
+    "background": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "multiplayer": {
+            "gradient-colour": {
+                "bottom": {
+                    "blue": 0,
+                    "green": 0,
+                    "red": 51
+                },
+                "top": {
+                    "blue": 0,
+                    "green": 0,
+                    "red": 0
+                }
+            }
+        },
+        "skybox": {
+            "id": "ASSET_OBJECT_DOME6"
+        }
+    },
+    "boss-race-id": "BOSS_RACE_TRICKY1",
+    "course-height": 400.0,
+    "default-vehicle": "VEHICLE_PLANE",
+    "fog": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "far": 0,
+        "near": 0
+    },
+    "fov": 60,
+    "instruments": 65535,
+    "map-2": "ASSET_LEVEL_OBJECT_MAPS_7",
+    "map-collectables": "ASSET_LEVEL_OBJECT_MAPS_75",
+    "model": "ASSET_LEVELMODEL_HOTTOPVOLCANO",
+    "music": 14,
+    "name": {
+        "LANGUAGE_ENGLISH": "Hot Top Volcano",
+        "LANGUAGE_FRENCH": "VOLCAN BOUILLANT",
+        "LANGUAGE_GERMAN": "Brodelvulkan",
+        "LANGUAGE_JAPANESE": "マグマかざん"
+    },
+    "race-type": "RACETYPE_DEFAULT",
+    "type": "LevelHeader",
+    "unknown": {
+        "unk1": 0,
+        "unk16": [
+            0,
+            3,
+            2,
+            3,
+            0,
+            4,
+            2,
+            1,
+            1,
+            1
+        ],
+        "unk2": 0,
+        "unk2A": 80,
+        "unk2B": [
+            50,
+            50,
+            50,
+            20,
+            20,
+            100,
+            0,
+            0,
+            0
+        ],
+        "unk3": 1,
+        "unk4": [
+            3,
+            4,
+            4,
+            4
+        ],
+        "unk44": [
+            0,
+            0,
+            0,
+            0,
+            12
+        ],
+        "unk4F": [
+            0,
+            0,
+            0
+        ],
+        "unk53": 32,
+        "unk72": 175,
+        "unk73": 32,
+        "unkA0": 257,
+        "unkA2": 0,
+        "unkA3": 0,
+        "unkA8": 4101,
+        "unkAA": -11512,
+        "unkB0": 3600,
+        "unkB2": 0,
+        "unkB3": 18,
+        "unkB9": 1,
+        "unkBC": 0,
+        "unkBD": 0,
+        "unkC": [
+            3,
+            2,
+            1,
+            3,
+            2,
+            4,
+            1,
+            3,
+            1,
+            1
+        ],
+        "unkC4": 1490224400
+    },
+    "void": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "enabled": 1
+    },
+    "waves": {
+        "UV-Scale-X": 2,
+        "UV-Scale-Y": 2,
+        "UV-Scroll-X": 4,
+        "UV-Scroll-Y": -2,
+        "seed-size": 120,
+        "sine-base-0": 0,
+        "sine-base-1": 0,
+        "sine-height-0": 4608,
+        "sine-height-1": 4172,
+        "sine-step-0": 4,
+        "sine-step-1": 2,
+        "subdivisions": 4,
+        "texture-ID": "ASSET_TEX2D_WATER_DETAIL",
+        "unk57": 8,
+        "unk64": 153,
+        "unk66": 1024,
+        "unk70": 0,
+        "unk71": 0,
+        "view-distance": 3,
+        "wave-power": 207
+    },
+    "weather": {
+        "enable": 0,
+        "intensity": 0,
+        "opacity": 0,
+        "type": 0,
+        "velocity": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "world": "WORLD_DINO_DOMAIN"
+}

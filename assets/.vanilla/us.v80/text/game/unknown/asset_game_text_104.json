@@ -1,0 +1,41 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 142,
+                    "left": 24,
+                    "right": 95,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "GUT GEMACHT!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "NIMM DIES ALS"
+            },
+            {
+                "command": "Text",
+                "value": "ERSTEN PREIS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "BIS DANN!!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

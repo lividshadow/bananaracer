@@ -1,0 +1,84 @@
+{
+    "behavior": "BHV_RACER",
+    "draw-distance": 0,
+    "flags": [
+        "FLAG_0004",
+        "FLAG_0008"
+    ],
+    "internal-name": "WizpigRocket",
+    "junk-data": [
+        42,
+        50,
+        255,
+        255
+    ],
+    "model-type": "OBJECT_MODEL_TYPE_3D_MODEL",
+    "models": [
+        "ASSET_OBJECTMODEL_WIZPIGROCKET"
+    ],
+    "particles": [
+        {
+            "arg1": 4,
+            "arg2": 44,
+            "arg3": -26,
+            "arg4": 40,
+            "arg5": -35
+        },
+        {
+            "arg1": 44,
+            "arg2": 41,
+            "arg3": -1,
+            "arg4": 21,
+            "arg5": -64
+        },
+        {
+            "arg1": 42,
+            "arg2": 50,
+            "arg3": -1,
+            "arg4": 13,
+            "arg5": -65
+        }
+    ],
+    "scale": 0.699999988079071,
+    "shade-ambient": 1.4589999914169312,
+    "shade-angle-y": -13168,
+    "shade-angle-z": -2448,
+    "shade-brightness": 0.23499999940395355,
+    "shadow-group": 2,
+    "shadow-scale": 5.0,
+    "type": "ObjectHeader",
+    "unknown": {
+        "unk0": 0,
+        "unk34": 9,
+        "unk38": 61,
+        "unk3A": 80,
+        "unk3B": 65,
+        "unk3C": 5,
+        "unk3D": 150,
+        "unk42": -100,
+        "unk44": 10,
+        "unk46": -2,
+        "unk48": 32,
+        "unk4A": 3000,
+        "unk4C": 10000,
+        "unk50": 0,
+        "unk52": 0,
+        "unk58": -1,
+        "unk59": 0,
+        "unk5B": 3,
+        "unk5C": 36,
+        "unk5D": 55,
+        "unk5E": 48,
+        "unk5F": 0,
+        "unk70": 0,
+        "unk71": 1,
+        "unk72": 255,
+        "unk73": 0,
+        "unk74": 0,
+        "unk75": 0,
+        "unk76": 98,
+        "unk77": 97,
+        "unk8": 4.0
+    },
+    "water-effect-group": 0
+}

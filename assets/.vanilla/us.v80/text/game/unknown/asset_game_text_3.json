@@ -1,0 +1,38 @@
+{
+    "pages": [
+        [
+            {
+                "command": "Text",
+                "value": "This will eventually give you"
+            },
+            {
+                "command": "Text",
+                "value": "information and guidance when"
+            },
+            {
+                "command": "Text",
+                "value": "you first enter this world"
+            },
+            {
+                "command": "Text",
+                "value": "PRESS A"
+            }
+        ],
+        [
+            {
+                "command": "Text",
+                "value": "It will only be triggered once"
+            },
+            {
+                "command": "Text",
+                "value": "to help you now what's going on!"
+            },
+            {
+                "command": "Text",
+                "value": "PRESS A TO END"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

@@ -1,0 +1,187 @@
+{
+    "ai-levels": {
+        "adv1": {
+            "base": 0,
+            "completed": 0,
+            "silver-coins": 0,
+            "tracks-mode": 0,
+            "trophy-race": 0
+        },
+        "adv2": {
+            "base": 0,
+            "completed": 0,
+            "silver-coins": 0,
+            "tracks-mode": 0,
+            "trophy-race": 0
+        }
+    },
+    "avaliable-vehicles": [
+        "VEHICLE_CAR"
+    ],
+    "background": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "multiplayer": {
+            "gradient-colour": {
+                "bottom": {
+                    "blue": 255,
+                    "green": 128,
+                    "red": 128
+                },
+                "top": {
+                    "blue": 255,
+                    "green": 0,
+                    "red": 0
+                }
+            }
+        },
+        "skybox": {
+            "id": "ASSET_OBJECT_DOME8"
+        }
+    },
+    "boss-race-id": "BOSS_RACE_TRICKY1",
+    "course-height": 5000.0,
+    "default-vehicle": "VEHICLE_CAR",
+    "fog": {
+        "colour": {
+            "blue": 0,
+            "green": 0,
+            "red": 0
+        },
+        "far": 1013,
+        "near": 994
+    },
+    "fov": 60,
+    "instruments": 65535,
+    "map-2": "ASSET_LEVEL_OBJECT_MAPS_25",
+    "map-collectables": "ASSET_LEVEL_OBJECT_MAPS_94",
+    "model": "ASSET_LEVELMODEL_SNOWFLAKEMOUNTAINHUB",
+    "music": 24,
+    "name": {
+        "LANGUAGE_ENGLISH": "Snowflake Mountain",
+        "LANGUAGE_FRENCH": "MONTAGNE FLOCON",
+        "LANGUAGE_GERMAN": "Schneeberg",
+        "LANGUAGE_JAPANESE": "スノ-ゾ-ン"
+    },
+    "race-type": "RACETYPE_HUBWORLD",
+    "type": "LevelHeader",
+    "unknown": {
+        "unk1": 0,
+        "unk16": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "unk2": 0,
+        "unk2A": 80,
+        "unk2B": [
+            50,
+            50,
+            50,
+            20,
+            20,
+            100,
+            0,
+            0,
+            0
+        ],
+        "unk3": 1,
+        "unk4": [
+            3,
+            4,
+            4,
+            4
+        ],
+        "unk44": [
+            0,
+            0,
+            0,
+            0,
+            12
+        ],
+        "unk4F": [
+            0,
+            0,
+            0
+        ],
+        "unk53": 32,
+        "unk72": 175,
+        "unk73": 32,
+        "unkA0": 257,
+        "unkA2": 0,
+        "unkA3": 0,
+        "unkA8": 4101,
+        "unkAA": -11512,
+        "unkB0": 3600,
+        "unkB2": 0,
+        "unkB3": 18,
+        "unkB9": 1,
+        "unkBC": 1,
+        "unkBD": 0,
+        "unkC": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "unkC4": 1490224400
+    },
+    "void": {
+        "colour": {
+            "blue": 133,
+            "green": 83,
+            "red": 0
+        },
+        "enabled": 1
+    },
+    "waves": {
+        "UV-Scale-X": 1,
+        "UV-Scale-Y": 1,
+        "UV-Scroll-X": 1,
+        "UV-Scroll-Y": 1,
+        "seed-size": 120,
+        "sine-base-0": 0,
+        "sine-base-1": 0,
+        "sine-height-0": 1536,
+        "sine-height-1": 768,
+        "sine-step-0": 1,
+        "sine-step-1": 2,
+        "subdivisions": 4,
+        "texture-ID": "ASSET_TEX2D_WATER_DETAIL",
+        "unk57": 16,
+        "unk64": 153,
+        "unk66": 1024,
+        "unk70": 1,
+        "unk71": 1,
+        "view-distance": 5,
+        "wave-power": 256
+    },
+    "weather": {
+        "enable": 414,
+        "intensity": 255,
+        "opacity": 255,
+        "type": 0,
+        "velocity": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "world": "WORLD_SNOWFLAKE_MOUNTAIN"
+}

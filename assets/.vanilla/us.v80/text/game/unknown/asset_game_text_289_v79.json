@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 199,
+                    "left": 45,
+                    "right": 210,
+                    "top": 37
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "ダ-クビ-チ"
+            },
+            {
+                "command": "Text",
+                "value": "T.T.のひみつのドア"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "このドアはカギがないと"
+            },
+            {
+                "command": "Text",
+                "value": "ひらきません。カギは"
+            },
+            {
+                "command": "Text",
+                "value": "この トロピカルゾ-ンの"
+            },
+            {
+                "command": "Text",
+                "value": "レ-スコ-スのどこかに"
+            },
+            {
+                "command": "Text",
+                "value": "かくされています。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "がんばって さがしてね。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

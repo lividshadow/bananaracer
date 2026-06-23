@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "IA8",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "smoke2_0.png",
+        "smoke2_1.png",
+        "smoke2_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

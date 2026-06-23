@@ -1,0 +1,33 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 20,
+                    "right": 95,
+                    "top": 15
+                }
+            },
+            {
+                "command": "Text",
+                "value": "Well Done!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "You are a"
+            },
+            {
+                "command": "Text",
+                "value": "skilled racer."
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

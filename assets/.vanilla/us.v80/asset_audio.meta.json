@@ -1,0 +1,62 @@
+{
+    "files": {
+        "order": [
+            "ASSET_AUDIO_0",
+            "ASSET_AUDIO_1",
+            "ASSET_AUDIO_2",
+            "ASSET_AUDIO_3",
+            "ASSET_AUDIO_4",
+            "ASSET_AUDIO_5",
+            "ASSET_AUDIO_6",
+            "ASSET_AUDIO_7",
+            "ASSET_AUDIO_8",
+            "ASSET_AUDIO_9",
+            "ASSET_AUDIO_10",
+            "ASSET_AUDIO_11",
+            "ASSET_AUDIO_12"
+        ],
+        "sections": {
+            "ASSET_AUDIO_0": {
+                "filename": "unknown/asset_audio_0.json"
+            },
+            "ASSET_AUDIO_1": {
+                "filename": "unknown/asset_audio_1.json"
+            },
+            "ASSET_AUDIO_10": {
+                "filename": "unknown/asset_audio_10.json"
+            },
+            "ASSET_AUDIO_11": {
+                "filename": "unknown/asset_audio_11.json"
+            },
+            "ASSET_AUDIO_12": {
+                "filename": "unknown/asset_audio_12.json"
+            },
+            "ASSET_AUDIO_2": {
+                "filename": "unknown/asset_audio_2.json"
+            },
+            "ASSET_AUDIO_3": {
+                "filename": "unknown/asset_audio_3.json"
+            },
+            "ASSET_AUDIO_4": {
+                "filename": "unknown/asset_audio_4.json"
+            },
+            "ASSET_AUDIO_5": {
+                "filename": "unknown/asset_audio_5.json"
+            },
+            "ASSET_AUDIO_6": {
+                "filename": "unknown/asset_audio_6.json"
+            },
+            "ASSET_AUDIO_7": {
+                "filename": "unknown/asset_audio_7_v79.json"
+            },
+            "ASSET_AUDIO_8": {
+                "filename": "unknown/asset_audio_8.json"
+            },
+            "ASSET_AUDIO_9": {
+                "filename": "unknown/asset_audio_9.json"
+            }
+        }
+    },
+    "folder": "audio",
+    "type": "Audio"
+}

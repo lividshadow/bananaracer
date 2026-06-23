@@ -1,0 +1,1174 @@
+{
+    "characters": {
+        " ": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 47
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "!": {
+            "char-width": 5,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 5
+            },
+            "uv": {
+                "u": 27,
+                "v": 0
+            }
+        },
+        "\"": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 109
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "#": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 109
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "$": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 47
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "%": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 70
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "&": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 97
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "'": {
+            "char-width": 3,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 3
+            },
+            "uv": {
+                "u": 32,
+                "v": 0
+            }
+        },
+        "(": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 104
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        ")": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 108
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "*": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 49
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "+": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 110
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        ",": {
+            "char-width": 3,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 3
+            },
+            "uv": {
+                "u": 4,
+                "v": 0
+            }
+        },
+        "-": {
+            "char-width": 6,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 6
+            },
+            "uv": {
+                "u": 7,
+                "v": 0
+            }
+        },
+        ".": {
+            "char-width": 4,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 4
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "/": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 110
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "0": {
+            "char-width": 9,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 54,
+                "v": 0
+            }
+        },
+        "1": {
+            "char-width": 5,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 5
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "2": {
+            "char-width": 9,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 5,
+                "v": 0
+            }
+        },
+        "3": {
+            "char-width": 8,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 14,
+                "v": 0
+            }
+        },
+        "4": {
+            "char-width": 9,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 22,
+                "v": 0
+            }
+        },
+        "5": {
+            "char-width": 8,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 31,
+                "v": 0
+            }
+        },
+        "6": {
+            "char-width": 9,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 39,
+                "v": 0
+            }
+        },
+        "7": {
+            "char-width": 9,
+            "tex-index": 4,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 48,
+                "v": 0
+            }
+        },
+        "8": {
+            "char-width": 10,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 35,
+                "v": 0
+            }
+        },
+        "9": {
+            "char-width": 9,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 45,
+                "v": 0
+            }
+        },
+        ":": {
+            "char-width": 4,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 4
+            },
+            "uv": {
+                "u": 23,
+                "v": 0
+            }
+        },
+        ";": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 103
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "<": {
+            "char-width": 12,
+            "tex-index": 3,
+            "tex-size": {
+                "height": 12,
+                "width": 12
+            },
+            "uv": {
+                "u": 31,
+                "v": 0
+            }
+        },
+        "=": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 109
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        ">": {
+            "char-width": 12,
+            "tex-index": 3,
+            "tex-size": {
+                "height": 12,
+                "width": 12
+            },
+            "uv": {
+                "u": 20,
+                "v": 0
+            }
+        },
+        "?": {
+            "char-width": 10,
+            "tex-index": 5,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 13,
+                "v": 0
+            }
+        },
+        "@": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 105
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "A": {
+            "char-width": 11,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 11
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "B": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 11,
+                "v": 0
+            }
+        },
+        "C": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 19,
+                "v": 0
+            }
+        },
+        "D": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 27,
+                "v": 0
+            }
+        },
+        "DEL": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 46
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "E": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 35,
+                "v": 0
+            }
+        },
+        "F": {
+            "char-width": 7,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 7
+            },
+            "uv": {
+                "u": 43,
+                "v": 0
+            }
+        },
+        "G": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 50,
+                "v": 0
+            }
+        },
+        "H": {
+            "char-width": 9,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 58,
+                "v": 0
+            }
+        },
+        "I": {
+            "char-width": 4,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 4
+            },
+            "uv": {
+                "u": 67,
+                "v": 0
+            }
+        },
+        "J": {
+            "char-width": 8,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "K": {
+            "char-width": 9,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 8,
+                "v": 0
+            }
+        },
+        "L": {
+            "char-width": 6,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 6
+            },
+            "uv": {
+                "u": 17,
+                "v": 0
+            }
+        },
+        "M": {
+            "char-width": 10,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 23,
+                "v": 0
+            }
+        },
+        "N": {
+            "char-width": 9,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 33,
+                "v": 0
+            }
+        },
+        "O": {
+            "char-width": 9,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 42,
+                "v": 0
+            }
+        },
+        "P": {
+            "char-width": 7,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 7
+            },
+            "uv": {
+                "u": 51,
+                "v": 0
+            }
+        },
+        "Q": {
+            "char-width": 10,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 58,
+                "v": 0
+            }
+        },
+        "R": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "S": {
+            "char-width": 8,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 9,
+                "v": 0
+            }
+        },
+        "T": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 17,
+                "v": 0
+            }
+        },
+        "U": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 26,
+                "v": 0
+            }
+        },
+        "V": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 35,
+                "v": 0
+            }
+        },
+        "W": {
+            "char-width": 11,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 11
+            },
+            "uv": {
+                "u": 44,
+                "v": 0
+            }
+        },
+        "X": {
+            "char-width": 10,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 55,
+                "v": 0
+            }
+        },
+        "Y": {
+            "char-width": 10,
+            "tex-index": 3,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "Z": {
+            "char-width": 10,
+            "tex-index": 3,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 10,
+                "v": 0
+            }
+        },
+        "[": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 114
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "\\": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 110
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "]": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 104
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "^": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 47
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "_": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 99
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "`": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 98
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "a": {
+            "char-width": 11,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 11
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "b": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 11,
+                "v": 0
+            }
+        },
+        "c": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 19,
+                "v": 0
+            }
+        },
+        "d": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 27,
+                "v": 0
+            }
+        },
+        "e": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 35,
+                "v": 0
+            }
+        },
+        "f": {
+            "char-width": 7,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 7
+            },
+            "uv": {
+                "u": 43,
+                "v": 0
+            }
+        },
+        "g": {
+            "char-width": 8,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 50,
+                "v": 0
+            }
+        },
+        "h": {
+            "char-width": 9,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 58,
+                "v": 0
+            }
+        },
+        "i": {
+            "char-width": 4,
+            "tex-index": 0,
+            "tex-size": {
+                "height": 12,
+                "width": 4
+            },
+            "uv": {
+                "u": 67,
+                "v": 0
+            }
+        },
+        "j": {
+            "char-width": 8,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "k": {
+            "char-width": 9,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 8,
+                "v": 0
+            }
+        },
+        "l": {
+            "char-width": 6,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 6
+            },
+            "uv": {
+                "u": 17,
+                "v": 0
+            }
+        },
+        "m": {
+            "char-width": 10,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 23,
+                "v": 0
+            }
+        },
+        "n": {
+            "char-width": 9,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 33,
+                "v": 0
+            }
+        },
+        "o": {
+            "char-width": 9,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 42,
+                "v": 0
+            }
+        },
+        "p": {
+            "char-width": 7,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 7
+            },
+            "uv": {
+                "u": 51,
+                "v": 0
+            }
+        },
+        "q": {
+            "char-width": 10,
+            "tex-index": 1,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 58,
+                "v": 0
+            }
+        },
+        "r": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "s": {
+            "char-width": 8,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 8
+            },
+            "uv": {
+                "u": 9,
+                "v": 0
+            }
+        },
+        "t": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 17,
+                "v": 0
+            }
+        },
+        "u": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 26,
+                "v": 0
+            }
+        },
+        "v": {
+            "char-width": 9,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 9
+            },
+            "uv": {
+                "u": 35,
+                "v": 0
+            }
+        },
+        "w": {
+            "char-width": 11,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 11
+            },
+            "uv": {
+                "u": 44,
+                "v": 0
+            }
+        },
+        "x": {
+            "char-width": 10,
+            "tex-index": 2,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 55,
+                "v": 0
+            }
+        },
+        "y": {
+            "char-width": 10,
+            "tex-index": 3,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "z": {
+            "char-width": 10,
+            "tex-index": 3,
+            "tex-size": {
+                "height": 12,
+                "width": 10
+            },
+            "uv": {
+                "u": 10,
+                "v": 0
+            }
+        },
+        "{": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 46
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "|": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 10
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "}": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 47
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        },
+        "~": {
+            "char-width": 16,
+            "tex-index": -1,
+            "tex-size": {
+                "height": 116
+            },
+            "uv": {
+                "u": 0,
+                "v": 0
+            }
+        }
+    },
+    "encoding": {
+        "type": "ASCII"
+    },
+    "fixed-width": 0,
+    "junk-text": "DIBANK \tdwise/seq_sample",
+    "name": "FunFont",
+    "special-character-width": 6,
+    "tab-width": 32,
+    "textures": [
+        "ASSET_TEX2D_FUNFONT_0",
+        "ASSET_TEX2D_FUNFONT_1",
+        "ASSET_TEX2D_FUNFONT_2",
+        "ASSET_TEX2D_FUNFONT_3",
+        "ASSET_TEX2D_FUNFONT_4",
+        "ASSET_TEX2D_FUNFONT_5",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "y-offset": 16
+}

@@ -1,0 +1,23 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "RGBA32",
+    "frame-advance-delay": 0.0,
+    "images": [
+        "door_numbers_tens_digit_0.png",
+        "door_numbers_tens_digit_1.png",
+        "door_numbers_tens_digit_2.png",
+        "door_numbers_tens_digit_3.png",
+        "door_numbers_tens_digit_4.png",
+        "door_numbers_tens_digit_5.png",
+        "door_numbers_tens_digit_6.png",
+        "door_numbers_tens_digit_7.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

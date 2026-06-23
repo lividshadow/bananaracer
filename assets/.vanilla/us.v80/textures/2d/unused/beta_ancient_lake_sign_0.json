@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA32",
+    "images": [
+        "beta_ancient_lake_sign_0.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 21,
+    "sprite-y": 12,
+    "type": "Texture"
+}

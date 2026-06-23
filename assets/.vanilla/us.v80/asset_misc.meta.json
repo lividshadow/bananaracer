@@ -1,0 +1,290 @@
+{
+    "files": {
+        "order": [
+            "ASSET_MISC_0",
+            "ASSET_MISC_1",
+            "ASSET_MISC_2",
+            "ASSET_MISC_3",
+            "ASSET_MISC_4",
+            "ASSET_MISC_5",
+            "ASSET_MISC_6",
+            "ASSET_MISC_7",
+            "ASSET_MISC_8",
+            "ASSET_MISC_RACER_WEIGHT",
+            "ASSET_MISC_RACER_HANDLING",
+            "ASSET_MISC_RACER_UNUSED_11",
+            "ASSET_MISC_BALLOON_DATA",
+            "ASSET_MISC_13",
+            "ASSET_MISC_14",
+            "ASSET_MISC_15",
+            "ASSET_MISC_16",
+            "ASSET_MISC_17",
+            "ASSET_MISC_18",
+            "ASSET_MISC_RUMBLE_DATA",
+            "ASSET_MISC_20",
+            "ASSET_MISC_SHIELD_DATA",
+            "ASSET_MISC_MAGNET_DATA",
+            "ASSET_MISC_23",
+            "ASSET_MISC_GHOST_UNLOCK_TIMES",
+            "ASSET_MISC_CINEMATIC_RACE",
+            "ASSET_MISC_TRACKS_MENU_IDS",
+            "ASSET_MISC_HUB_AREA_IDS",
+            "ASSET_MISC_MAIN_TRACKS_IDS",
+            "ASSET_MISC_BATTLE_TRACKS_IDS",
+            "ASSET_MISC_BOSS_TRACKS_IDS",
+            "ASSET_MISC_CINEMATIC_TROPHY",
+            "ASSET_MISC_32",
+            "ASSET_MISC_RACERACCELERATION_UNKNOWN0",
+            "ASSET_MISC_RACERACCELERATION_DIDDY",
+            "ASSET_MISC_RACERACCELERATION_TT",
+            "ASSET_MISC_RACERACCELERATION_UNKNOWN1",
+            "ASSET_MISC_RACERACCELERATION_KRUNCH",
+            "ASSET_MISC_RACERACCELERATION_BUMPER",
+            "ASSET_MISC_RACERACCELERATION_TIPTUP",
+            "ASSET_MISC_RACERACCELERATION_CONKER",
+            "ASSET_MISC_RACERACCELERATION_TIMBER",
+            "ASSET_MISC_RACERACCELERATION_BANJO",
+            "ASSET_MISC_RACERACCELERATION_DRUMSTICK",
+            "ASSET_MISC_RACERACCELERATION_PIPSY",
+            "ASSET_MISC_RACERACCELERATION_UNKNOWN2",
+            "ASSET_MISC_46",
+            "ASSET_MISC_47",
+            "ASSET_MISC_48",
+            "ASSET_MISC_49",
+            "ASSET_MISC_50",
+            "ASSET_MISC_51",
+            "ASSET_MISC_52",
+            "ASSET_MISC_53",
+            "ASSET_MISC_54",
+            "ASSET_MISC_55",
+            "ASSET_MISC_RACER_HITBOX_SIZE",
+            "ASSET_MISC_57",
+            "ASSET_MISC_58",
+            "ASSET_MISC_59",
+            "ASSET_MISC_60",
+            "ASSET_MISC_61",
+            "ASSET_MISC_62",
+            "ASSET_MISC_63",
+            "ASSET_MISC_64",
+            "ASSET_MISC_MAGIC_CODES",
+            "ASSET_MISC_TITLE_SCREEN_DEMO_IDS",
+            "ASSET_MISC_67",
+            "ASSET_MISC_68",
+            "ASSET_MISC_69"
+        ],
+        "sections": {
+            "ASSET_MISC_0": {
+                "filename": "unlabeled/asset_misc_0.json"
+            },
+            "ASSET_MISC_1": {
+                "filename": "unlabeled/asset_misc_1.json"
+            },
+            "ASSET_MISC_13": {
+                "filename": "unlabeled/asset_misc_13.json"
+            },
+            "ASSET_MISC_14": {
+                "filename": "unlabeled/asset_misc_14.json"
+            },
+            "ASSET_MISC_15": {
+                "filename": "unlabeled/asset_misc_15.json"
+            },
+            "ASSET_MISC_16": {
+                "filename": "unlabeled/asset_misc_16.json"
+            },
+            "ASSET_MISC_17": {
+                "filename": "unlabeled/asset_misc_17.json"
+            },
+            "ASSET_MISC_18": {
+                "filename": "unlabeled/asset_misc_18.json"
+            },
+            "ASSET_MISC_2": {
+                "filename": "unlabeled/asset_misc_2.json"
+            },
+            "ASSET_MISC_20": {
+                "filename": "unlabeled/asset_misc_20.json"
+            },
+            "ASSET_MISC_23": {
+                "filename": "unlabeled/asset_misc_23.json"
+            },
+            "ASSET_MISC_3": {
+                "filename": "unlabeled/asset_misc_3.json"
+            },
+            "ASSET_MISC_32": {
+                "filename": "unlabeled/asset_misc_32.json"
+            },
+            "ASSET_MISC_4": {
+                "filename": "unlabeled/asset_misc_4.json"
+            },
+            "ASSET_MISC_46": {
+                "filename": "unlabeled/asset_misc_46.json"
+            },
+            "ASSET_MISC_47": {
+                "filename": "unlabeled/asset_misc_47.json"
+            },
+            "ASSET_MISC_48": {
+                "filename": "unlabeled/asset_misc_48.json"
+            },
+            "ASSET_MISC_49": {
+                "filename": "unlabeled/asset_misc_49.json"
+            },
+            "ASSET_MISC_5": {
+                "filename": "unlabeled/asset_misc_5.json"
+            },
+            "ASSET_MISC_50": {
+                "filename": "unlabeled/asset_misc_50.json"
+            },
+            "ASSET_MISC_51": {
+                "filename": "unlabeled/asset_misc_51.json"
+            },
+            "ASSET_MISC_52": {
+                "filename": "unlabeled/asset_misc_52.json"
+            },
+            "ASSET_MISC_53": {
+                "filename": "unlabeled/asset_misc_53.json"
+            },
+            "ASSET_MISC_54": {
+                "filename": "unlabeled/asset_misc_54.json"
+            },
+            "ASSET_MISC_55": {
+                "filename": "unlabeled/asset_misc_55.json"
+            },
+            "ASSET_MISC_57": {
+                "filename": "unlabeled/asset_misc_57.json"
+            },
+            "ASSET_MISC_58": {
+                "filename": "unlabeled/asset_misc_58.json"
+            },
+            "ASSET_MISC_59": {
+                "filename": "unlabeled/asset_misc_59.json"
+            },
+            "ASSET_MISC_6": {
+                "filename": "unlabeled/asset_misc_6.json"
+            },
+            "ASSET_MISC_60": {
+                "filename": "unlabeled/asset_misc_60.json"
+            },
+            "ASSET_MISC_61": {
+                "filename": "unlabeled/asset_misc_61.json"
+            },
+            "ASSET_MISC_62": {
+                "filename": "unlabeled/asset_misc_62.json"
+            },
+            "ASSET_MISC_63": {
+                "filename": "unlabeled/asset_misc_63.json"
+            },
+            "ASSET_MISC_64": {
+                "filename": "unlabeled/asset_misc_64.json"
+            },
+            "ASSET_MISC_67": {
+                "filename": "unlabeled/asset_misc_67.json"
+            },
+            "ASSET_MISC_68": {
+                "filename": "unlabeled/asset_misc_68.json"
+            },
+            "ASSET_MISC_69": {
+                "filename": "unlabeled/asset_misc_69.json"
+            },
+            "ASSET_MISC_7": {
+                "filename": "unlabeled/asset_misc_7.json"
+            },
+            "ASSET_MISC_8": {
+                "filename": "unlabeled/asset_misc_8.json"
+            },
+            "ASSET_MISC_BALLOON_DATA": {
+                "filename": "balloon_data.json"
+            },
+            "ASSET_MISC_BATTLE_TRACKS_IDS": {
+                "filename": "track_ids/battle_tracks_ids.json"
+            },
+            "ASSET_MISC_BOSS_TRACKS_IDS": {
+                "filename": "track_ids/boss_tracks_ids.json"
+            },
+            "ASSET_MISC_CINEMATIC_RACE": {
+                "filename": "cinematic_race.json"
+            },
+            "ASSET_MISC_CINEMATIC_TROPHY": {
+                "filename": "cinematic_trophy.json"
+            },
+            "ASSET_MISC_GHOST_UNLOCK_TIMES": {
+                "filename": "ghost_unlock_times.json"
+            },
+            "ASSET_MISC_HUB_AREA_IDS": {
+                "filename": "track_ids/hub_area_ids.json"
+            },
+            "ASSET_MISC_MAGIC_CODES": {
+                "filename": "cheats/magic_codes_v79.json"
+            },
+            "ASSET_MISC_MAGNET_DATA": {
+                "filename": "magnet_data.json"
+            },
+            "ASSET_MISC_MAIN_TRACKS_IDS": {
+                "filename": "track_ids/main_tracks_ids.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_BANJO": {
+                "filename": "racer_stats/RacerAcceleration_Banjo.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_BUMPER": {
+                "filename": "racer_stats/RacerAcceleration_Bumper.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_CONKER": {
+                "filename": "racer_stats/RacerAcceleration_Conker.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_DIDDY": {
+                "filename": "racer_stats/RacerAcceleration_Diddy.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_DRUMSTICK": {
+                "filename": "racer_stats/RacerAcceleration_Drumstick.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_KRUNCH": {
+                "filename": "racer_stats/RacerAcceleration_Krunch.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_PIPSY": {
+                "filename": "racer_stats/RacerAcceleration_Pipsy.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_TIMBER": {
+                "filename": "racer_stats/RacerAcceleration_Timber.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_TIPTUP": {
+                "filename": "racer_stats/RacerAcceleration_Tiptup.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_TT": {
+                "filename": "racer_stats/RacerAcceleration_TT.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_UNKNOWN0": {
+                "filename": "racer_stats/RacerAcceleration_Unknown0.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_UNKNOWN1": {
+                "filename": "racer_stats/RacerAcceleration_Unknown1.json"
+            },
+            "ASSET_MISC_RACERACCELERATION_UNKNOWN2": {
+                "filename": "racer_stats/RacerAcceleration_Unknown2.json"
+            },
+            "ASSET_MISC_RACER_HANDLING": {
+                "filename": "racer_stats/racer_handling_data.json"
+            },
+            "ASSET_MISC_RACER_HITBOX_SIZE": {
+                "filename": "racer_hitbox_size.json"
+            },
+            "ASSET_MISC_RACER_UNUSED_11": {
+                "filename": "racer_stats/racer_unused_11_data.json"
+            },
+            "ASSET_MISC_RACER_WEIGHT": {
+                "filename": "racer_stats/racer_weight_data.json"
+            },
+            "ASSET_MISC_RUMBLE_DATA": {
+                "filename": "rumble_data.json"
+            },
+            "ASSET_MISC_SHIELD_DATA": {
+                "filename": "shield_data.json"
+            },
+            "ASSET_MISC_TITLE_SCREEN_DEMO_IDS": {
+                "filename": "title_screen/title_screen_demo_ids.json"
+            },
+            "ASSET_MISC_TRACKS_MENU_IDS": {
+                "filename": "track_ids/tracks_menu_ids.json"
+            }
+        }
+    },
+    "folder": "misc",
+    "type": "Miscellaneous"
+}

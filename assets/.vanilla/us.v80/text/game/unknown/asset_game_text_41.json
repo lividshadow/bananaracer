@@ -1,0 +1,65 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "FUTURE FUN LAND"
+            },
+            {
+                "command": "Text",
+                "value": "TROPHY RACE"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "TO ENTER THE TROPHY RACE,"
+            },
+            {
+                "command": "Text",
+                "value": "YOU MUST HAVE ALL"
+            },
+            {
+                "command": "Text",
+                "value": "THE BALLOONS"
+            },
+            {
+                "command": "Text",
+                "value": "FROM THIS WORLD."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "KEEP RACING!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

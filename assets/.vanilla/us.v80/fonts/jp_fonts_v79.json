@@ -1,0 +1,15 @@
+{
+    "fonts": {
+        "ASSET_JPFONTS_0": "jp_fonts/jp_font_0.meta.json",
+        "ASSET_JPFONTS_1": "jp_fonts/jp_font_1.meta.json",
+        "ASSET_JPFONTS_2": "jp_fonts/jp_font_2.meta.json",
+        "ASSET_JPFONTS_3": "jp_fonts/jp_font_3.meta.json"
+    },
+    "fonts-order": [
+        "ASSET_JPFONTS_0",
+        "ASSET_JPFONTS_1",
+        "ASSET_JPFONTS_2",
+        "ASSET_JPFONTS_3"
+    ],
+    "type": "JPFonts"
+}

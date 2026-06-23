@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 150,
+                    "left": 24,
+                    "right": 99,
+                    "top": 16
+                }
+            },
+            {
+                "command": "SetTimer",
+                "value": 10
+            },
+            {
+                "command": "AllowUserInput",
+                "value": 0
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "GUT GEMACHT"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 20
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "NIMM DIES ALS"
+            },
+            {
+                "command": "Text",
+                "value": "ERSTEN PREIS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "SetLineHeight",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "EIN GOLDENER"
+            },
+            {
+                "command": "Text",
+                "value": "BALLON!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

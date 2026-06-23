@@ -1,0 +1,45 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 140,
+                    "left": 24,
+                    "right": 95,
+                    "top": 16
+                }
+            },
+            {
+                "command": "Text",
+                "value": "よくやったな!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "ごほうびを"
+            },
+            {
+                "command": "Text",
+                "value": "ひとつあげよう。"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "またな。"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

@@ -1,0 +1,41 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA32",
+    "frame-advance-delay": 1.417,
+    "images": [
+        "water5_0.png",
+        "water5_1.png",
+        "water5_2.png",
+        "water5_3.png",
+        "water5_4.png",
+        "water5_5.png",
+        "water5_6.png",
+        "water5_7.png",
+        "water5_8.png",
+        "water5_9.png",
+        "water5_10.png",
+        "water5_11.png",
+        "water5_12.png",
+        "water5_13.png",
+        "water5_14.png",
+        "water5_15.png",
+        "water5_16.png",
+        "water5_17.png",
+        "water5_18.png",
+        "water5_19.png",
+        "water5_20.png",
+        "water5_21.png",
+        "water5_22.png",
+        "water5_23.png",
+        "water5_24.png",
+        "water5_25.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

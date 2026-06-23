@@ -1,0 +1,273 @@
+{
+    "@dkr-version": "us.v80",
+    "@dkrat-version": {
+        "major": 5,
+        "minor": 2,
+        "release": 0
+    },
+    "assets": {
+        "order": [
+            "ASSET_AI_BEHAVIOUR",
+            "ASSET_AI_BEHAVIOUR_TABLE",
+            "ASSET_TEXTURES_3D",
+            "ASSET_TEXTURES_3D_TABLE",
+            "ASSET_TEXTURES_2D",
+            "ASSET_TEXTURES_2D_TABLE",
+            "ASSET_GAME_TEXT",
+            "ASSET_GAME_TEXT_TABLE",
+            "ASSET_MENU_TEXT",
+            "ASSET_MENU_TEXT_TABLE",
+            "ASSET_SCREENS",
+            "ASSET_SCREENS_TABLE",
+            "ASSET_SPRITES",
+            "ASSET_SPRITES_TABLE",
+            "ASSET_EMPTY_14",
+            "ASSET_MISC",
+            "ASSET_MISC_TABLE",
+            "ASSET_HUD_ELEMENT_IDS",
+            "ASSET_MENU_ELEMENT_IDS",
+            "ASSET_WEATHER_PARTICLES",
+            "ASSET_LEVEL_OBJECT_MAPS_TABLE",
+            "ASSET_LEVEL_OBJECT_MAPS",
+            "ASSET_LEVEL_HEADERS_TABLE",
+            "ASSET_LEVEL_HEADERS",
+            "ASSET_LEVEL_NAMES_TABLE",
+            "ASSET_LEVEL_NAMES",
+            "ASSET_LEVEL_MODELS_TABLE",
+            "ASSET_LEVEL_MODELS",
+            "ASSET_OBJECT_MODELS_TABLE",
+            "ASSET_OBJECT_MODELS",
+            "ASSET_ANIMATION_IDS",
+            "ASSET_OBJECT_ANIMATIONS_TABLE",
+            "ASSET_OBJECT_ANIMATIONS",
+            "ASSET_OBJECT_HEADERS_TABLE",
+            "ASSET_OBJECTS",
+            "ASSET_LEVEL_OBJECT_TRANSLATION_TABLE",
+            "ASSET_EMPTY_37_TABLE",
+            "ASSET_EMPTY_37",
+            "ASSET_AUDIO_TABLE",
+            "ASSET_AUDIO",
+            "ASSET_PARTICLES_TABLE",
+            "ASSET_PARTICLES",
+            "ASSET_PARTICLE_BEHAVIORS_TABLE",
+            "ASSET_PARTICLE_BEHAVIORS",
+            "ASSET_FONTS",
+            "ASSET_JAPANESE_FONTS_TABLE",
+            "ASSET_JAPANESE_FONTS",
+            "ASSET_DUMMY_PARTICLE_IDS",
+            "ASSET_TTGHOSTS_TABLE",
+            "ASSET_TTGHOSTS"
+        ],
+        "sections": {
+            "ASSET_AI_BEHAVIOUR": {
+                "filename": "asset_ai_behaviour.meta.json",
+                "type": "Binary"
+            },
+            "ASSET_AI_BEHAVIOUR_TABLE": {
+                "for": "ASSET_AI_BEHAVIOUR",
+                "type": "Table"
+            },
+            "ASSET_ANIMATION_IDS": {
+                "deferred": true,
+                "for": "ASSET_OBJECT_ANIMATIONS",
+                "type": "ObjectAnimationIdsTable"
+            },
+            "ASSET_AUDIO": {
+                "filename": "asset_audio.meta.json",
+                "type": "Audio"
+            },
+            "ASSET_AUDIO_TABLE": {
+                "for": "ASSET_AUDIO",
+                "type": "Table"
+            },
+            "ASSET_DUMMY_PARTICLE_IDS": {
+                "filename": "asset_dummy_particle_ids.meta.json",
+                "type": "Binary"
+            },
+            "ASSET_EMPTY_14": {
+                "type": "Empty"
+            },
+            "ASSET_EMPTY_37": {
+                "type": "Empty"
+            },
+            "ASSET_EMPTY_37_TABLE": {
+                "for": "ASSET_EMPTY_37",
+                "type": "Table"
+            },
+            "ASSET_FONTS": {
+                "filename": "asset_fonts.meta.json",
+                "type": "Fonts"
+            },
+            "ASSET_GAME_TEXT": {
+                "filename": "asset_game_text.meta.json",
+                "type": "GameText"
+            },
+            "ASSET_GAME_TEXT_TABLE": {
+                "for": "ASSET_GAME_TEXT",
+                "type": "Table"
+            },
+            "ASSET_HUD_ELEMENT_IDS": {
+                "filename": "asset_hud_element_ids.meta.json",
+                "type": "Binary"
+            },
+            "ASSET_JAPANESE_FONTS": {
+                "filename": "asset_japanese_fonts.meta.json",
+                "type": "JPFonts"
+            },
+            "ASSET_JAPANESE_FONTS_TABLE": {
+                "defer-info": {
+                    "from-section": "ASSET_JAPANESE_FONTS",
+                    "id-postfix": "_TABLE",
+                    "output-path": "../jpfontstable"
+                },
+                "deferred": true,
+                "type": "JPFontsTable"
+            },
+            "ASSET_LEVEL_HEADERS": {
+                "filename": "asset_level_headers.meta.json",
+                "type": "LevelHeader"
+            },
+            "ASSET_LEVEL_HEADERS_TABLE": {
+                "for": "ASSET_LEVEL_HEADERS",
+                "type": "Table"
+            },
+            "ASSET_LEVEL_MODELS": {
+                "filename": "asset_level_models.meta.json",
+                "type": "LevelModel"
+            },
+            "ASSET_LEVEL_MODELS_TABLE": {
+                "for": "ASSET_LEVEL_MODELS",
+                "type": "Table"
+            },
+            "ASSET_LEVEL_NAMES": {
+                "defer-info": {
+                    "from-section": "ASSET_LEVEL_HEADERS",
+                    "id-postfix": "_NAME",
+                    "output-path": "../names"
+                },
+                "deferred": true,
+                "type": "LevelName"
+            },
+            "ASSET_LEVEL_NAMES_TABLE": {
+                "for": "ASSET_LEVEL_NAMES",
+                "type": "Table"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS": {
+                "filename": "asset_level_object_maps.meta.json",
+                "type": "LevelObjectMap"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_TABLE": {
+                "for": "ASSET_LEVEL_OBJECT_MAPS",
+                "type": "Table"
+            },
+            "ASSET_LEVEL_OBJECT_TRANSLATION_TABLE": {
+                "filename": "asset_level_object_translation_table.meta.json",
+                "type": "LevelObjectTranslationTable"
+            },
+            "ASSET_MENU_ELEMENT_IDS": {
+                "filename": "asset_menu_element_ids.meta.json",
+                "type": "Binary"
+            },
+            "ASSET_MENU_TEXT": {
+                "filename": "asset_menu_text.meta.json",
+                "type": "MenuText"
+            },
+            "ASSET_MENU_TEXT_TABLE": {
+                "for": "ASSET_MENU_TEXT",
+                "type": "Table"
+            },
+            "ASSET_MISC": {
+                "filename": "asset_misc.meta.json",
+                "type": "Miscellaneous"
+            },
+            "ASSET_MISC_TABLE": {
+                "for": "ASSET_MISC",
+                "type": "Table"
+            },
+            "ASSET_OBJECTS": {
+                "filename": "asset_objects.meta.json",
+                "type": "ObjectHeader"
+            },
+            "ASSET_OBJECT_ANIMATIONS": {
+                "filename": "asset_object_animations.meta.json",
+                "type": "ObjectAnimation"
+            },
+            "ASSET_OBJECT_ANIMATIONS_TABLE": {
+                "for": "ASSET_OBJECT_ANIMATIONS",
+                "type": "Table"
+            },
+            "ASSET_OBJECT_HEADERS_TABLE": {
+                "for": "ASSET_OBJECTS",
+                "type": "Table"
+            },
+            "ASSET_OBJECT_MODELS": {
+                "filename": "asset_object_models.meta.json",
+                "type": "ObjectModel"
+            },
+            "ASSET_OBJECT_MODELS_TABLE": {
+                "for": "ASSET_OBJECT_MODELS",
+                "type": "Table"
+            },
+            "ASSET_PARTICLES": {
+                "filename": "asset_particles.meta.json",
+                "type": "Particle"
+            },
+            "ASSET_PARTICLES_TABLE": {
+                "for": "ASSET_PARTICLES",
+                "type": "Table"
+            },
+            "ASSET_PARTICLE_BEHAVIORS": {
+                "filename": "asset_particle_behaviors.meta.json",
+                "type": "ParticleBehavior"
+            },
+            "ASSET_PARTICLE_BEHAVIORS_TABLE": {
+                "for": "ASSET_PARTICLE_BEHAVIORS",
+                "type": "Table"
+            },
+            "ASSET_SCREENS": {
+                "filename": "asset_screens.meta.json",
+                "type": "Binary"
+            },
+            "ASSET_SCREENS_TABLE": {
+                "for": "ASSET_SCREENS",
+                "type": "Table"
+            },
+            "ASSET_SPRITES": {
+                "filename": "asset_sprites.meta.json",
+                "type": "Sprite"
+            },
+            "ASSET_SPRITES_TABLE": {
+                "for": "ASSET_SPRITES",
+                "type": "Table"
+            },
+            "ASSET_TEXTURES_2D": {
+                "filename": "asset_textures_2d.meta.json",
+                "type": "Texture"
+            },
+            "ASSET_TEXTURES_2D_TABLE": {
+                "for": "ASSET_TEXTURES_2D",
+                "type": "Table"
+            },
+            "ASSET_TEXTURES_3D": {
+                "filename": "asset_textures_3d.meta.json",
+                "type": "Texture"
+            },
+            "ASSET_TEXTURES_3D_TABLE": {
+                "for": "ASSET_TEXTURES_3D",
+                "type": "Table"
+            },
+            "ASSET_TTGHOSTS": {
+                "filename": "asset_ttghosts.meta.json",
+                "type": "TTGhost"
+            },
+            "ASSET_TTGHOSTS_TABLE": {
+                "for": "ASSET_TTGHOSTS",
+                "type": "Table"
+            },
+            "ASSET_WEATHER_PARTICLES": {
+                "filename": "asset_weather_particles.meta.json",
+                "type": "Binary"
+            }
+        }
+    }
+}

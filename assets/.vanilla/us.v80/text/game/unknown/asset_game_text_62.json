@@ -1,0 +1,33 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 220,
+                    "left": 32,
+                    "right": 223,
+                    "top": 170
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "Text",
+                "value": "THE LAST PLAYER REMAINING"
+            },
+            {
+                "command": "Text",
+                "value": "WILL WIN!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

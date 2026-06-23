@@ -1,0 +1,61 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 185,
+                    "left": 40,
+                    "right": 205,
+                    "top": 55
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_FUNFONT"
+            },
+            {
+                "command": "SetTimer",
+                "value": 8
+            },
+            {
+                "command": "Text",
+                "value": "TROPHY RACE"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "Du brauchst alle goldenen"
+            },
+            {
+                "command": "Text",
+                "value": "Ballons dieser Welt,"
+            },
+            {
+                "command": "Text",
+                "value": "um ins Trophy Race"
+            },
+            {
+                "command": "Text",
+                "value": "zu gelangen."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 15
+            },
+            {
+                "command": "Text",
+                "value": "Fahre weiter!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

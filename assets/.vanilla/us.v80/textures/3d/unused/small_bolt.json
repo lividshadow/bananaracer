@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "flipped-image": true,
+    "format": "IA8",
+    "frame-advance-delay": 1.417,
+    "images": [
+        "small_bolt_0.png",
+        "small_bolt_1.png",
+        "small_bolt_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "first_place_st_1.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 29,
+    "sprite-y": 42,
+    "type": "Texture"
+}

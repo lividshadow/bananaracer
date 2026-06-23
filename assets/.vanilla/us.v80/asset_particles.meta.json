@@ -1,0 +1,290 @@
+{
+    "files": {
+        "order": [
+            "ASSET_PARTICLES_0",
+            "ASSET_PARTICLES_1",
+            "ASSET_PARTICLES_2",
+            "ASSET_PARTICLES_3",
+            "ASSET_PARTICLES_4",
+            "ASSET_PARTICLES_5",
+            "ASSET_PARTICLES_6",
+            "ASSET_PARTICLES_7",
+            "ASSET_PARTICLES_8",
+            "ASSET_PARTICLES_9",
+            "ASSET_PARTICLES_10",
+            "ASSET_PARTICLES_11",
+            "ASSET_PARTICLES_12",
+            "ASSET_PARTICLES_13",
+            "ASSET_PARTICLES_14",
+            "ASSET_PARTICLES_15",
+            "ASSET_PARTICLES_16",
+            "ASSET_PARTICLES_17",
+            "ASSET_PARTICLES_18",
+            "ASSET_PARTICLES_19",
+            "ASSET_PARTICLES_20",
+            "ASSET_PARTICLES_21",
+            "ASSET_PARTICLES_22",
+            "ASSET_PARTICLES_23",
+            "ASSET_PARTICLES_24",
+            "ASSET_PARTICLES_25",
+            "ASSET_PARTICLES_26",
+            "ASSET_PARTICLES_27",
+            "ASSET_PARTICLES_28",
+            "ASSET_PARTICLES_29",
+            "ASSET_PARTICLES_30",
+            "ASSET_PARTICLES_31",
+            "ASSET_PARTICLES_32",
+            "ASSET_PARTICLES_33",
+            "ASSET_PARTICLES_34",
+            "ASSET_PARTICLES_35",
+            "ASSET_PARTICLES_36",
+            "ASSET_PARTICLES_37",
+            "ASSET_PARTICLES_38",
+            "ASSET_PARTICLES_39",
+            "ASSET_PARTICLES_40",
+            "ASSET_PARTICLES_41",
+            "ASSET_PARTICLES_42",
+            "ASSET_PARTICLES_43",
+            "ASSET_PARTICLES_44",
+            "ASSET_PARTICLES_45",
+            "ASSET_PARTICLES_46",
+            "ASSET_PARTICLES_47",
+            "ASSET_PARTICLES_48",
+            "ASSET_PARTICLES_49",
+            "ASSET_PARTICLES_50",
+            "ASSET_PARTICLES_51",
+            "ASSET_PARTICLES_52",
+            "ASSET_PARTICLES_53",
+            "ASSET_PARTICLES_54",
+            "ASSET_PARTICLES_55",
+            "ASSET_PARTICLES_56",
+            "ASSET_PARTICLES_57",
+            "ASSET_PARTICLES_58",
+            "ASSET_PARTICLES_59",
+            "ASSET_PARTICLES_60",
+            "ASSET_PARTICLES_61",
+            "ASSET_PARTICLES_62",
+            "ASSET_PARTICLES_63",
+            "ASSET_PARTICLES_64",
+            "ASSET_PARTICLES_65",
+            "ASSET_PARTICLES_66",
+            "ASSET_PARTICLES_67",
+            "ASSET_PARTICLES_68",
+            "ASSET_PARTICLES_69"
+        ],
+        "sections": {
+            "ASSET_PARTICLES_0": {
+                "filename": "unknown/asset_particles_0.json"
+            },
+            "ASSET_PARTICLES_1": {
+                "filename": "unknown/asset_particles_1.json"
+            },
+            "ASSET_PARTICLES_10": {
+                "filename": "unknown/asset_particles_10.json"
+            },
+            "ASSET_PARTICLES_11": {
+                "filename": "unknown/asset_particles_11.json"
+            },
+            "ASSET_PARTICLES_12": {
+                "filename": "unknown/asset_particles_12.json"
+            },
+            "ASSET_PARTICLES_13": {
+                "filename": "unknown/asset_particles_13.json"
+            },
+            "ASSET_PARTICLES_14": {
+                "filename": "unknown/asset_particles_14.json"
+            },
+            "ASSET_PARTICLES_15": {
+                "filename": "unknown/asset_particles_15.json"
+            },
+            "ASSET_PARTICLES_16": {
+                "filename": "unknown/asset_particles_16.json"
+            },
+            "ASSET_PARTICLES_17": {
+                "filename": "unknown/asset_particles_17.json"
+            },
+            "ASSET_PARTICLES_18": {
+                "filename": "unknown/asset_particles_18.json"
+            },
+            "ASSET_PARTICLES_19": {
+                "filename": "unknown/asset_particles_19.json"
+            },
+            "ASSET_PARTICLES_2": {
+                "filename": "unknown/asset_particles_2.json"
+            },
+            "ASSET_PARTICLES_20": {
+                "filename": "unknown/asset_particles_20.json"
+            },
+            "ASSET_PARTICLES_21": {
+                "filename": "unknown/asset_particles_21.json"
+            },
+            "ASSET_PARTICLES_22": {
+                "filename": "unknown/asset_particles_22.json"
+            },
+            "ASSET_PARTICLES_23": {
+                "filename": "unknown/asset_particles_23.json"
+            },
+            "ASSET_PARTICLES_24": {
+                "filename": "unknown/asset_particles_24.json"
+            },
+            "ASSET_PARTICLES_25": {
+                "filename": "unknown/asset_particles_25.json"
+            },
+            "ASSET_PARTICLES_26": {
+                "filename": "unknown/asset_particles_26.json"
+            },
+            "ASSET_PARTICLES_27": {
+                "filename": "unknown/asset_particles_27.json"
+            },
+            "ASSET_PARTICLES_28": {
+                "filename": "unknown/asset_particles_28.json"
+            },
+            "ASSET_PARTICLES_29": {
+                "filename": "unknown/asset_particles_29.json"
+            },
+            "ASSET_PARTICLES_3": {
+                "filename": "unknown/asset_particles_3.json"
+            },
+            "ASSET_PARTICLES_30": {
+                "filename": "unknown/asset_particles_30.json"
+            },
+            "ASSET_PARTICLES_31": {
+                "filename": "unknown/asset_particles_31.json"
+            },
+            "ASSET_PARTICLES_32": {
+                "filename": "unknown/asset_particles_32.json"
+            },
+            "ASSET_PARTICLES_33": {
+                "filename": "unknown/asset_particles_33.json"
+            },
+            "ASSET_PARTICLES_34": {
+                "filename": "unknown/asset_particles_34.json"
+            },
+            "ASSET_PARTICLES_35": {
+                "filename": "unknown/asset_particles_35.json"
+            },
+            "ASSET_PARTICLES_36": {
+                "filename": "unknown/asset_particles_36.json"
+            },
+            "ASSET_PARTICLES_37": {
+                "filename": "unknown/asset_particles_37.json"
+            },
+            "ASSET_PARTICLES_38": {
+                "filename": "unknown/asset_particles_38.json"
+            },
+            "ASSET_PARTICLES_39": {
+                "filename": "unknown/asset_particles_39.json"
+            },
+            "ASSET_PARTICLES_4": {
+                "filename": "unknown/asset_particles_4.json"
+            },
+            "ASSET_PARTICLES_40": {
+                "filename": "unknown/asset_particles_40.json"
+            },
+            "ASSET_PARTICLES_41": {
+                "filename": "unknown/asset_particles_41.json"
+            },
+            "ASSET_PARTICLES_42": {
+                "filename": "unknown/asset_particles_42.json"
+            },
+            "ASSET_PARTICLES_43": {
+                "filename": "unknown/asset_particles_43.json"
+            },
+            "ASSET_PARTICLES_44": {
+                "filename": "unknown/asset_particles_44.json"
+            },
+            "ASSET_PARTICLES_45": {
+                "filename": "unknown/asset_particles_45.json"
+            },
+            "ASSET_PARTICLES_46": {
+                "filename": "unknown/asset_particles_46.json"
+            },
+            "ASSET_PARTICLES_47": {
+                "filename": "unknown/asset_particles_47.json"
+            },
+            "ASSET_PARTICLES_48": {
+                "filename": "unknown/asset_particles_48.json"
+            },
+            "ASSET_PARTICLES_49": {
+                "filename": "unknown/asset_particles_49.json"
+            },
+            "ASSET_PARTICLES_5": {
+                "filename": "unknown/asset_particles_5.json"
+            },
+            "ASSET_PARTICLES_50": {
+                "filename": "unknown/asset_particles_50.json"
+            },
+            "ASSET_PARTICLES_51": {
+                "filename": "unknown/asset_particles_51.json"
+            },
+            "ASSET_PARTICLES_52": {
+                "filename": "unknown/asset_particles_52.json"
+            },
+            "ASSET_PARTICLES_53": {
+                "filename": "unknown/asset_particles_53.json"
+            },
+            "ASSET_PARTICLES_54": {
+                "filename": "unknown/asset_particles_54.json"
+            },
+            "ASSET_PARTICLES_55": {
+                "filename": "unknown/asset_particles_55.json"
+            },
+            "ASSET_PARTICLES_56": {
+                "filename": "unknown/asset_particles_56.json"
+            },
+            "ASSET_PARTICLES_57": {
+                "filename": "unknown/asset_particles_57.json"
+            },
+            "ASSET_PARTICLES_58": {
+                "filename": "unknown/asset_particles_58.json"
+            },
+            "ASSET_PARTICLES_59": {
+                "filename": "unknown/asset_particles_59.json"
+            },
+            "ASSET_PARTICLES_6": {
+                "filename": "unknown/asset_particles_6.json"
+            },
+            "ASSET_PARTICLES_60": {
+                "filename": "unknown/asset_particles_60.json"
+            },
+            "ASSET_PARTICLES_61": {
+                "filename": "unknown/asset_particles_61.json"
+            },
+            "ASSET_PARTICLES_62": {
+                "filename": "unknown/asset_particles_62.json"
+            },
+            "ASSET_PARTICLES_63": {
+                "filename": "unknown/asset_particles_63.json"
+            },
+            "ASSET_PARTICLES_64": {
+                "filename": "unknown/asset_particles_64.json"
+            },
+            "ASSET_PARTICLES_65": {
+                "filename": "unknown/asset_particles_65.json"
+            },
+            "ASSET_PARTICLES_66": {
+                "filename": "unknown/asset_particles_66.json"
+            },
+            "ASSET_PARTICLES_67": {
+                "filename": "unknown/asset_particles_67.json"
+            },
+            "ASSET_PARTICLES_68": {
+                "filename": "unknown/asset_particles_68.json"
+            },
+            "ASSET_PARTICLES_69": {
+                "filename": "unknown/asset_particles_69.json"
+            },
+            "ASSET_PARTICLES_7": {
+                "filename": "unknown/asset_particles_7.json"
+            },
+            "ASSET_PARTICLES_8": {
+                "filename": "unknown/asset_particles_8.json"
+            },
+            "ASSET_PARTICLES_9": {
+                "filename": "unknown/asset_particles_9.json"
+            }
+        }
+    },
+    "folder": "particles/particles",
+    "type": "Particle"
+}

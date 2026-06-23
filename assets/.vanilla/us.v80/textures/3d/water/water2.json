@@ -1,0 +1,30 @@
+{
+    "compressed": true,
+    "flags": {
+        "wrap-s": "Wrap",
+        "wrap-t": "Wrap"
+    },
+    "flipped-image": true,
+    "format": "RGBA32",
+    "frame-advance-delay": 1.417,
+    "images": [
+        "water2_0.png",
+        "water2_1.png",
+        "water2_2.png",
+        "water2_3.png",
+        "water2_4.png",
+        "water2_5.png",
+        "water2_6.png",
+        "water2_7.png",
+        "water2_8.png",
+        "water2_9.png",
+        "water2_10.png",
+        "water2_11.png",
+        "water2_12.png",
+        "water2_13.png",
+        "water2_14.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "type": "Texture",
+    "write-size": true
+}

@@ -1,0 +1,17 @@
+{
+    "compressed": true,
+    "flags": {
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "RGBA16",
+    "images": [
+        "proam_logo_2.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 15,
+    "sprite-y": 48,
+    "type": "Texture"
+}

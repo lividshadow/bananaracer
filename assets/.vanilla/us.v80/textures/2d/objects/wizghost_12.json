@@ -1,0 +1,18 @@
+{
+    "compressed": true,
+    "flags": {
+        "anti-aliased": true,
+        "cutout": true,
+        "interlaced": true,
+        "wrap-s": "Clamp",
+        "wrap-t": "Clamp"
+    },
+    "format": "IA8",
+    "images": [
+        "wizghost_12.png"
+    ],
+    "render-mode": "TRANSPARENT",
+    "sprite-x": 20,
+    "sprite-y": 8,
+    "type": "Texture"
+}

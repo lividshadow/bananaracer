@@ -1,0 +1,562 @@
+{
+    "files": {
+        "order": [
+            "ASSET_LEVEL_OBJECT_MAPS_0",
+            "ASSET_LEVEL_OBJECT_MAPS_1",
+            "ASSET_LEVEL_OBJECT_MAPS_2",
+            "ASSET_LEVEL_OBJECT_MAPS_3",
+            "ASSET_LEVEL_OBJECT_MAPS_4",
+            "ASSET_LEVEL_OBJECT_MAPS_5",
+            "ASSET_LEVEL_OBJECT_MAPS_6",
+            "ASSET_LEVEL_OBJECT_MAPS_7",
+            "ASSET_LEVEL_OBJECT_MAPS_8",
+            "ASSET_LEVEL_OBJECT_MAPS_9",
+            "ASSET_LEVEL_OBJECT_MAPS_10",
+            "ASSET_LEVEL_OBJECT_MAPS_11",
+            "ASSET_LEVEL_OBJECT_MAPS_12",
+            "ASSET_LEVEL_OBJECT_MAPS_13",
+            "ASSET_LEVEL_OBJECT_MAPS_14",
+            "ASSET_LEVEL_OBJECT_MAPS_15",
+            "ASSET_LEVEL_OBJECT_MAPS_16",
+            "ASSET_LEVEL_OBJECT_MAPS_17",
+            "ASSET_LEVEL_OBJECT_MAPS_18",
+            "ASSET_LEVEL_OBJECT_MAPS_19",
+            "ASSET_LEVEL_OBJECT_MAPS_20",
+            "ASSET_LEVEL_OBJECT_MAPS_21",
+            "ASSET_LEVEL_OBJECT_MAPS_22",
+            "ASSET_LEVEL_OBJECT_MAPS_23",
+            "ASSET_LEVEL_OBJECT_MAPS_24",
+            "ASSET_LEVEL_OBJECT_MAPS_25",
+            "ASSET_LEVEL_OBJECT_MAPS_26",
+            "ASSET_LEVEL_OBJECT_MAPS_27",
+            "ASSET_LEVEL_OBJECT_MAPS_28",
+            "ASSET_LEVEL_OBJECT_MAPS_29",
+            "ASSET_LEVEL_OBJECT_MAPS_30",
+            "ASSET_LEVEL_OBJECT_MAPS_31",
+            "ASSET_LEVEL_OBJECT_MAPS_32",
+            "ASSET_LEVEL_OBJECT_MAPS_33",
+            "ASSET_LEVEL_OBJECT_MAPS_34",
+            "ASSET_LEVEL_OBJECT_MAPS_35",
+            "ASSET_LEVEL_OBJECT_MAPS_36",
+            "ASSET_LEVEL_OBJECT_MAPS_37",
+            "ASSET_LEVEL_OBJECT_MAPS_38",
+            "ASSET_LEVEL_OBJECT_MAPS_39",
+            "ASSET_LEVEL_OBJECT_MAPS_40",
+            "ASSET_LEVEL_OBJECT_MAPS_41",
+            "ASSET_LEVEL_OBJECT_MAPS_42",
+            "ASSET_LEVEL_OBJECT_MAPS_43",
+            "ASSET_LEVEL_OBJECT_MAPS_44",
+            "ASSET_LEVEL_OBJECT_MAPS_45",
+            "ASSET_LEVEL_OBJECT_MAPS_46",
+            "ASSET_LEVEL_OBJECT_MAPS_47",
+            "ASSET_LEVEL_OBJECT_MAPS_48",
+            "ASSET_LEVEL_OBJECT_MAPS_49",
+            "ASSET_LEVEL_OBJECT_MAPS_50",
+            "ASSET_LEVEL_OBJECT_MAPS_51",
+            "ASSET_LEVEL_OBJECT_MAPS_52",
+            "ASSET_LEVEL_OBJECT_MAPS_53",
+            "ASSET_LEVEL_OBJECT_MAPS_54",
+            "ASSET_LEVEL_OBJECT_MAPS_55",
+            "ASSET_LEVEL_OBJECT_MAPS_56",
+            "ASSET_LEVEL_OBJECT_MAPS_57",
+            "ASSET_LEVEL_OBJECT_MAPS_58",
+            "ASSET_LEVEL_OBJECT_MAPS_59",
+            "ASSET_LEVEL_OBJECT_MAPS_60",
+            "ASSET_LEVEL_OBJECT_MAPS_61",
+            "ASSET_LEVEL_OBJECT_MAPS_62",
+            "ASSET_LEVEL_OBJECT_MAPS_63",
+            "ASSET_LEVEL_OBJECT_MAPS_64",
+            "ASSET_LEVEL_OBJECT_MAPS_65",
+            "ASSET_LEVEL_OBJECT_MAPS_66",
+            "ASSET_LEVEL_OBJECT_MAPS_67",
+            "ASSET_LEVEL_OBJECT_MAPS_68",
+            "ASSET_LEVEL_OBJECT_MAPS_69",
+            "ASSET_LEVEL_OBJECT_MAPS_70",
+            "ASSET_LEVEL_OBJECT_MAPS_71",
+            "ASSET_LEVEL_OBJECT_MAPS_72",
+            "ASSET_LEVEL_OBJECT_MAPS_73",
+            "ASSET_LEVEL_OBJECT_MAPS_74",
+            "ASSET_LEVEL_OBJECT_MAPS_75",
+            "ASSET_LEVEL_OBJECT_MAPS_76",
+            "ASSET_LEVEL_OBJECT_MAPS_77",
+            "ASSET_LEVEL_OBJECT_MAPS_78",
+            "ASSET_LEVEL_OBJECT_MAPS_79",
+            "ASSET_LEVEL_OBJECT_MAPS_80",
+            "ASSET_LEVEL_OBJECT_MAPS_81",
+            "ASSET_LEVEL_OBJECT_MAPS_82",
+            "ASSET_LEVEL_OBJECT_MAPS_83",
+            "ASSET_LEVEL_OBJECT_MAPS_84",
+            "ASSET_LEVEL_OBJECT_MAPS_85",
+            "ASSET_LEVEL_OBJECT_MAPS_86",
+            "ASSET_LEVEL_OBJECT_MAPS_87",
+            "ASSET_LEVEL_OBJECT_MAPS_88",
+            "ASSET_LEVEL_OBJECT_MAPS_89",
+            "ASSET_LEVEL_OBJECT_MAPS_90",
+            "ASSET_LEVEL_OBJECT_MAPS_91",
+            "ASSET_LEVEL_OBJECT_MAPS_92",
+            "ASSET_LEVEL_OBJECT_MAPS_93",
+            "ASSET_LEVEL_OBJECT_MAPS_94",
+            "ASSET_LEVEL_OBJECT_MAPS_95",
+            "ASSET_LEVEL_OBJECT_MAPS_96",
+            "ASSET_LEVEL_OBJECT_MAPS_97",
+            "ASSET_LEVEL_OBJECT_MAPS_98",
+            "ASSET_LEVEL_OBJECT_MAPS_99",
+            "ASSET_LEVEL_OBJECT_MAPS_100",
+            "ASSET_LEVEL_OBJECT_MAPS_101",
+            "ASSET_LEVEL_OBJECT_MAPS_102",
+            "ASSET_LEVEL_OBJECT_MAPS_103",
+            "ASSET_LEVEL_OBJECT_MAPS_104",
+            "ASSET_LEVEL_OBJECT_MAPS_105",
+            "ASSET_LEVEL_OBJECT_MAPS_106",
+            "ASSET_LEVEL_OBJECT_MAPS_107",
+            "ASSET_LEVEL_OBJECT_MAPS_108",
+            "ASSET_LEVEL_OBJECT_MAPS_109",
+            "ASSET_LEVEL_OBJECT_MAPS_110",
+            "ASSET_LEVEL_OBJECT_MAPS_111",
+            "ASSET_LEVEL_OBJECT_MAPS_112",
+            "ASSET_LEVEL_OBJECT_MAPS_113",
+            "ASSET_LEVEL_OBJECT_MAPS_114",
+            "ASSET_LEVEL_OBJECT_MAPS_115",
+            "ASSET_LEVEL_OBJECT_MAPS_116",
+            "ASSET_LEVEL_OBJECT_MAPS_117",
+            "ASSET_LEVEL_OBJECT_MAPS_118",
+            "ASSET_LEVEL_OBJECT_MAPS_119",
+            "ASSET_LEVEL_OBJECT_MAPS_120",
+            "ASSET_LEVEL_OBJECT_MAPS_121",
+            "ASSET_LEVEL_OBJECT_MAPS_122",
+            "ASSET_LEVEL_OBJECT_MAPS_123",
+            "ASSET_LEVEL_OBJECT_MAPS_124",
+            "ASSET_LEVEL_OBJECT_MAPS_125",
+            "ASSET_LEVEL_OBJECT_MAPS_126",
+            "ASSET_LEVEL_OBJECT_MAPS_127",
+            "ASSET_LEVEL_OBJECT_MAPS_128",
+            "ASSET_LEVEL_OBJECT_MAPS_129",
+            "ASSET_LEVEL_OBJECT_MAPS_130",
+            "ASSET_LEVEL_OBJECT_MAPS_131",
+            "ASSET_LEVEL_OBJECT_MAPS_132",
+            "ASSET_LEVEL_OBJECT_MAPS_133",
+            "ASSET_LEVEL_OBJECT_MAPS_134",
+            "ASSET_LEVEL_OBJECT_MAPS_135",
+            "ASSET_LEVEL_OBJECT_MAPS_136",
+            "ASSET_LEVEL_OBJECT_MAPS_137"
+        ],
+        "sections": {
+            "ASSET_LEVEL_OBJECT_MAPS_0": {
+                "filename": "unknown/asset_level_object_maps_0.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_1": {
+                "filename": "unknown/asset_level_object_maps_1.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_10": {
+                "filename": "unknown/asset_level_object_maps_10.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_100": {
+                "filename": "unknown/asset_level_object_maps_100.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_101": {
+                "filename": "unknown/asset_level_object_maps_101.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_102": {
+                "filename": "unknown/asset_level_object_maps_102.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_103": {
+                "filename": "unknown/asset_level_object_maps_103.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_104": {
+                "filename": "unknown/asset_level_object_maps_104.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_105": {
+                "filename": "unknown/asset_level_object_maps_105.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_106": {
+                "filename": "unknown/asset_level_object_maps_106.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_107": {
+                "filename": "unknown/asset_level_object_maps_107.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_108": {
+                "filename": "unknown/asset_level_object_maps_108.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_109": {
+                "filename": "unknown/asset_level_object_maps_109.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_11": {
+                "filename": "unknown/asset_level_object_maps_11.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_110": {
+                "filename": "unknown/asset_level_object_maps_110.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_111": {
+                "filename": "unknown/asset_level_object_maps_111.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_112": {
+                "filename": "unknown/asset_level_object_maps_112.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_113": {
+                "filename": "unknown/asset_level_object_maps_113.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_114": {
+                "filename": "unknown/asset_level_object_maps_114.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_115": {
+                "filename": "unknown/asset_level_object_maps_115.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_116": {
+                "filename": "unknown/asset_level_object_maps_116.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_117": {
+                "filename": "unknown/asset_level_object_maps_117.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_118": {
+                "filename": "unknown/asset_level_object_maps_118.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_119": {
+                "filename": "unknown/asset_level_object_maps_119.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_12": {
+                "filename": "unknown/asset_level_object_maps_12.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_120": {
+                "filename": "unknown/asset_level_object_maps_120.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_121": {
+                "filename": "unknown/asset_level_object_maps_121.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_122": {
+                "filename": "unknown/asset_level_object_maps_122.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_123": {
+                "filename": "unknown/asset_level_object_maps_123.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_124": {
+                "filename": "unknown/asset_level_object_maps_124.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_125": {
+                "filename": "unknown/asset_level_object_maps_125.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_126": {
+                "filename": "unknown/asset_level_object_maps_126.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_127": {
+                "filename": "unknown/asset_level_object_maps_127.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_128": {
+                "filename": "unknown/asset_level_object_maps_128.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_129": {
+                "filename": "unknown/asset_level_object_maps_129_v79.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_13": {
+                "filename": "unknown/asset_level_object_maps_13.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_130": {
+                "filename": "unknown/asset_level_object_maps_130.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_131": {
+                "filename": "unknown/asset_level_object_maps_131_v79.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_132": {
+                "filename": "unknown/asset_level_object_maps_132.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_133": {
+                "filename": "unknown/asset_level_object_maps_133.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_134": {
+                "filename": "unknown/asset_level_object_maps_134.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_135": {
+                "filename": "unknown/asset_level_object_maps_135.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_136": {
+                "filename": "unknown/asset_level_object_maps_136.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_137": {
+                "filename": "unknown/asset_level_object_maps_137.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_14": {
+                "filename": "unknown/asset_level_object_maps_14.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_15": {
+                "filename": "unknown/asset_level_object_maps_15.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_16": {
+                "filename": "unknown/asset_level_object_maps_16.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_17": {
+                "filename": "unknown/asset_level_object_maps_17.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_18": {
+                "filename": "unknown/asset_level_object_maps_18_v79.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_19": {
+                "filename": "unknown/asset_level_object_maps_19.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_2": {
+                "filename": "unknown/asset_level_object_maps_2.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_20": {
+                "filename": "unknown/asset_level_object_maps_20.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_21": {
+                "filename": "unknown/asset_level_object_maps_21.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_22": {
+                "filename": "unknown/asset_level_object_maps_22.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_23": {
+                "filename": "unknown/asset_level_object_maps_23.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_24": {
+                "filename": "unknown/asset_level_object_maps_24.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_25": {
+                "filename": "unknown/asset_level_object_maps_25.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_26": {
+                "filename": "unknown/asset_level_object_maps_26.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_27": {
+                "filename": "unknown/asset_level_object_maps_27.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_28": {
+                "filename": "unknown/asset_level_object_maps_28.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_29": {
+                "filename": "unknown/asset_level_object_maps_29.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_3": {
+                "filename": "unknown/asset_level_object_maps_3.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_30": {
+                "filename": "unknown/asset_level_object_maps_30.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_31": {
+                "filename": "unknown/asset_level_object_maps_31.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_32": {
+                "filename": "unknown/asset_level_object_maps_32.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_33": {
+                "filename": "unknown/asset_level_object_maps_33.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_34": {
+                "filename": "unknown/asset_level_object_maps_34.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_35": {
+                "filename": "unknown/asset_level_object_maps_35.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_36": {
+                "filename": "unknown/asset_level_object_maps_36.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_37": {
+                "filename": "unknown/asset_level_object_maps_37.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_38": {
+                "filename": "unknown/asset_level_object_maps_38.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_39": {
+                "filename": "unknown/asset_level_object_maps_39.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_4": {
+                "filename": "unknown/asset_level_object_maps_4.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_40": {
+                "filename": "unknown/asset_level_object_maps_40.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_41": {
+                "filename": "unknown/asset_level_object_maps_41.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_42": {
+                "filename": "unknown/asset_level_object_maps_42.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_43": {
+                "filename": "unknown/asset_level_object_maps_43.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_44": {
+                "filename": "unknown/asset_level_object_maps_44.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_45": {
+                "filename": "unknown/asset_level_object_maps_45.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_46": {
+                "filename": "unknown/asset_level_object_maps_46.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_47": {
+                "filename": "unknown/asset_level_object_maps_47.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_48": {
+                "filename": "unknown/asset_level_object_maps_48.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_49": {
+                "filename": "unknown/asset_level_object_maps_49.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_5": {
+                "filename": "unknown/asset_level_object_maps_5.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_50": {
+                "filename": "unknown/asset_level_object_maps_50.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_51": {
+                "filename": "unknown/asset_level_object_maps_51.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_52": {
+                "filename": "unknown/asset_level_object_maps_52.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_53": {
+                "filename": "unknown/asset_level_object_maps_53.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_54": {
+                "filename": "unknown/asset_level_object_maps_54.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_55": {
+                "filename": "unknown/asset_level_object_maps_55.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_56": {
+                "filename": "unknown/asset_level_object_maps_56.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_57": {
+                "filename": "unknown/asset_level_object_maps_57.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_58": {
+                "filename": "unknown/asset_level_object_maps_58.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_59": {
+                "filename": "unknown/asset_level_object_maps_59.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_6": {
+                "filename": "unknown/asset_level_object_maps_6_v79.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_60": {
+                "filename": "unknown/asset_level_object_maps_60.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_61": {
+                "filename": "unknown/asset_level_object_maps_61.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_62": {
+                "filename": "unknown/asset_level_object_maps_62.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_63": {
+                "filename": "unknown/asset_level_object_maps_63.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_64": {
+                "filename": "unknown/asset_level_object_maps_64.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_65": {
+                "filename": "unknown/asset_level_object_maps_65.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_66": {
+                "filename": "unknown/asset_level_object_maps_66.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_67": {
+                "filename": "unknown/asset_level_object_maps_67.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_68": {
+                "filename": "unknown/asset_level_object_maps_68.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_69": {
+                "filename": "unknown/asset_level_object_maps_69.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_7": {
+                "filename": "unknown/asset_level_object_maps_7.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_70": {
+                "filename": "unknown/asset_level_object_maps_70.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_71": {
+                "filename": "unknown/asset_level_object_maps_71.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_72": {
+                "filename": "unknown/asset_level_object_maps_72.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_73": {
+                "filename": "unknown/asset_level_object_maps_73.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_74": {
+                "filename": "unknown/asset_level_object_maps_74.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_75": {
+                "filename": "unknown/asset_level_object_maps_75.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_76": {
+                "filename": "unknown/asset_level_object_maps_76.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_77": {
+                "filename": "unknown/asset_level_object_maps_77.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_78": {
+                "filename": "unknown/asset_level_object_maps_78.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_79": {
+                "filename": "unknown/asset_level_object_maps_79.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_8": {
+                "filename": "unknown/asset_level_object_maps_8.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_80": {
+                "filename": "unknown/asset_level_object_maps_80.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_81": {
+                "filename": "unknown/asset_level_object_maps_81.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_82": {
+                "filename": "unknown/asset_level_object_maps_82.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_83": {
+                "filename": "unknown/asset_level_object_maps_83.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_84": {
+                "filename": "unknown/asset_level_object_maps_84.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_85": {
+                "filename": "unknown/asset_level_object_maps_85.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_86": {
+                "filename": "unknown/asset_level_object_maps_86.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_87": {
+                "filename": "unknown/asset_level_object_maps_87_v79.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_88": {
+                "filename": "unknown/asset_level_object_maps_88_v80.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_89": {
+                "filename": "unknown/asset_level_object_maps_89.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_9": {
+                "filename": "unknown/asset_level_object_maps_9.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_90": {
+                "filename": "unknown/asset_level_object_maps_90.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_91": {
+                "filename": "unknown/asset_level_object_maps_91.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_92": {
+                "filename": "unknown/asset_level_object_maps_92.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_93": {
+                "filename": "unknown/asset_level_object_maps_93.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_94": {
+                "filename": "unknown/asset_level_object_maps_94.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_95": {
+                "filename": "unknown/asset_level_object_maps_95.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_96": {
+                "filename": "unknown/asset_level_object_maps_96.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_97": {
+                "filename": "unknown/asset_level_object_maps_97.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_98": {
+                "filename": "unknown/asset_level_object_maps_98.json"
+            },
+            "ASSET_LEVEL_OBJECT_MAPS_99": {
+                "filename": "unknown/asset_level_object_maps_99.json"
+            }
+        }
+    },
+    "folder": "levels/objectMaps",
+    "type": "LevelObjectMap"
+}

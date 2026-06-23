@@ -1,0 +1,69 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 200,
+                    "left": 40,
+                    "right": 205,
+                    "top": 30
+                }
+            },
+            {
+                "command": "Text",
+                "value": "NO ENTRY!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "YOU MUST COLLECT ALL"
+            },
+            {
+                "command": "Text",
+                "value": "THE PIECES OF THE"
+            },
+            {
+                "command": "Text",
+                "value": "T.T. AMULET"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "AND HAVE COLLECTED"
+            },
+            {
+                "command": "Text",
+                "value": "47 BALLOONS!"
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "THEN YOU CAN ENTER"
+            },
+            {
+                "command": "Text",
+                "value": "THIS DOOR."
+            },
+            {
+                "command": "AddVerticalSpacing",
+                "value": 10
+            },
+            {
+                "command": "Text",
+                "value": "KEEP RACING!!"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}

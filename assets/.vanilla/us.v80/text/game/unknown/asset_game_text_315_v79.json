@@ -1,0 +1,33 @@
+{
+    "pages": [
+        [
+            {
+                "command": "SetBorder",
+                "value": {
+                    "bottom": 220,
+                    "left": 32,
+                    "right": 223,
+                    "top": 170
+                }
+            },
+            {
+                "command": "SetAlignment",
+                "value": "center"
+            },
+            {
+                "command": "SetFont",
+                "value": "ASSET_FONTS_SMALLFONT"
+            },
+            {
+                "command": "Text",
+                "value": "いちばんはやく、3つのタマゴを"
+            },
+            {
+                "command": "Text",
+                "value": "フカさせたヒトのかち"
+            }
+        ]
+    ],
+    "text-type": "Textbox",
+    "type": "GameText"
+}
